@@ -1,23 +1,4 @@
 {
     "name": "academische-bachelormaster-audiovisuele-kunsten",
-    "sentences": {
-        "studeer": {},
-        "Academische Bachelor master": {
-            "Academische Bachelor": "EVENT"
-        },
-        "Audiovisuele kunst": {},
-        "RITCS reflecteer vertellen realiseren werk kie animatiefilm radio regie schrijven productie": {
-            "RITCS": "ORG"
-        },
-        "cinematografie": {},
-        "sound design": {},
-        "editing   opleidingspraktijk weerspiegeling": {},
-        "realiteit professioneel samenwerken": {},
-        "Gerenommeerde": {},
-        "audiovisuel maker": {},
-        "begeleien persoonlijk artistiek ontwikkeling waarbij genoeg ruimte laten zoeken experimenteren \n ": {
-            "begeleien": "CARDINAL"
-        },
-        "info opleiding > > \n": {}
-    }
+    "description": "studeer Academische Bachelor master Audiovisuele kunst RITCS reflecteer vertellen realiseren werk kie animatiefilm radio regie schrijven productie cinematografie sound design editing   opleidingspraktijk weerspiegeling realiteit professioneel samenwerken Gerenommeerde audiovisuel maker begeleien persoonlijk artistiek ontwikkeling waarbij genoeg ruimte laten zoeken experimenteren \n  info opleiding > > \n"
 }

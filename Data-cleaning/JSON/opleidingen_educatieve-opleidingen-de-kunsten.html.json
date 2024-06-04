@@ -1,41 +1,4 @@
 {
     "name": "educatieve-opleidingen-de-kunsten",
-    "sentences": {
-        "Word kunstenaar-leraar \n ": {},
-        "jeal diploma kunst": {},
-        "zaak jouwliefen": {},
-        "kunstendoorgev": {},
-        "jestarten": {},
-        "één deeducatief opleiding kunst RITCS": {
-            "één": "CARDINAL",
-            "RITCS": "ORG"
-        },
-        "School": {
-            "School": "ORG"
-        },
-        "Arts": {},
-        "RITCS koninklijk Conservatorium": {
-            "RITCS koninklijk Conservatorium": "ORG"
-        },
-        "Brussel": {
-            "Brussel": "GPE"
-        },
-        "slaan": {},
-        "Schools arts Erasmushogeschool Brussel   hand elkaar leidentot passioneeren kunstenaar-leraar \n ": {
-            "Schools": "GPE",
-            "Erasmushogeschool Brussel": "GPE"
-        },
-        "diploma kunst": {},
-        "zak \n liefde kunst \n\n educatief opleiding": {},
-        "kunst": {},
-        "RITCS": {
-            "RITCS": "ORG"
-        },
-        "Arts \n passioneeren": {},
-        "kunstenaar-leraar \n educatief opleiding kunst ervoor kunstenaardie positief keuze maken alskunstenaar-leraaraan": {},
-        "slag gaan engagement zijnartistiek kennis willen vertalen samenlevingvia onderwijs community-art educatief werk": {},
-        "sociaal-artistiek werk \n kunstenaar \n kunstenaar-leraar \n artistiek kennis willen vertalen": {},
-        "samenleving \n ": {},
-        "Educatieve master \n": {}
-    }
+    "description": "Word kunstenaar-leraar \n  jeal diploma kunst zaak jouwliefen kunstendoorgev jestarten één deeducatief opleiding kunst RITCS School Arts RITCS koninklijk Conservatorium Brussel slaan Schools arts Erasmushogeschool Brussel   hand elkaar leidentot passioneeren kunstenaar-leraar \n  diploma kunst zak \n liefde kunst \n\n educatief opleiding kunst RITCS School Arts \n passioneeren kunstenaar-leraar \n educatief opleiding kunst ervoor kunstenaardie positief keuze maken alskunstenaar-leraaraan slag gaan engagement zijnartistiek kennis willen vertalen samenlevingvia onderwijs community-art educatief werk sociaal-artistiek werk \n kunstenaar \n kunstenaar-leraar \n artistiek kennis willen vertalen samenleving \n  Educatieve master \n"
 }

@@ -1,27 +1,4 @@
 {
     "name": "academische-bachelormaster-muziek",
-    "sentences": {
-        "gaan jemuzikaal passieencreatiefaan samenleving timmeren \n muzikaal passie \n creatief \n ": {},
-        "Zin jouwzelfdisciplinet ontwikkel   ontdekken": {},
-        "echt staat \n zelfdiscipline \n ": {},
-        "Hou muzikaal ondernemen": {},
-        "brengen   graagtraditie innovatiein": {},
-        "dialoog \n traditie": {},
-        "innovatie \n zoekend en onderzoeken": {},
-        "jepersoonlijkheid ontwikkelen artistiek   expertise blijven uitbouwen \n persoonlijkheid ontwikkelen \n bachelor master muziek   ": {},
-        "Koninklijk Conservatorium Brussel   heel kant terecht komen   internationaal renommeeren orkest   ": {
-            "Koninklijk Conservatorium": "ORG",
-            "Brussel": "GPE"
-        },
-        "ensemble gaan helemaal   master": {},
-        "Diploma opleiding   voorbereiding": {
-            "Diploma": "PERSON"
-        },
-        "schitteren toekomst \n ontdek opleiding": {},
-        "muziek": {},
-        "dewebsite": {},
-        "koninklijk Conservatorium Brussel \n": {
-            "Brussel": "GPE"
-        }
-    }
+    "description": "gaan jemuzikaal passieencreatiefaan samenleving timmeren \n muzikaal passie \n creatief \n  Zin jouwzelfdisciplinet ontwikkel   ontdekken echt staat \n zelfdiscipline \n  Hou muzikaal ondernemen brengen   graagtraditie innovatiein dialoog \n traditie innovatie \n zoekend en onderzoeken jepersoonlijkheid ontwikkelen artistiek   expertise blijven uitbouwen \n persoonlijkheid ontwikkelen \n bachelor master muziek    Koninklijk Conservatorium Brussel   heel kant terecht komen   internationaal renommeeren orkest    ensemble gaan helemaal   master Diploma opleiding   voorbereiding schitteren toekomst \n ontdek opleiding muziek dewebsite koninklijk Conservatorium Brussel \n"
 }

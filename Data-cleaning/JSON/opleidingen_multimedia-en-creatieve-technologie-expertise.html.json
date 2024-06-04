@@ -1,45 +1,4 @@
 {
     "name": "multimedia-en-creatieve-technologie-expertise",
-    "sentences": {
-        "microdegree 10 studiepunt ontwerpen behoefte werkveld gedachte opleiding bieden uitbreiden verkenning nieuw tools trends techniek nodig dynamisch industrie": {
-            "10": "CARDINAL"
-        },
-        "les deels asynchroon via volgen digitaal cursus leerplatform aansluiten live les mogelijk/gewenst \n ": {},
-        "Semester": {},
-        "1": {
-            "1": "CARDINAL"
-        },
-        "Basiskennis \n ": {
-            "Basiskennis": "GPE"
-        },
-        "starten nul leren kort tijd stevig basis technisch ontwerpvaardigheden \n staan programma   basisprincipe grafisch vormgeving procedureel programmeren": {},
-        "Javascript   HTML5 CSS3 bouwen statisch website   inleiding vormgeving": {},
-        "productie digitaal videomateriaal \n ": {},
-        "Semester 2": {
-            "2": "CARDINAL"
-        },
-        "Expertise \n 2 semester komen ontwerpproces digitaal toepassing komen bod ontwikkelen wireframes organiseren flow uiteindelijk vormgeving \n ": {
-            "Expertise \n ": "PERSON",
-            "2": "CARDINAL"
-        },
-        "Campus Kaai \n kost volgen micro-credential lijn hetregulier": {
-            "Campus Kaai": "FAC",
-            "micro-credential": "GPE"
-        },
-        "studiegeld \n inschrijven": {},
-        "opleiding Multimedia": {},
-        "Creatieve technologie": {},
-        "Expertise   Top paginakan start inschrijving vinden   belangrijk info terug": {
-            "Expertise": "PERSON"
-        },
-        "orde brengen hoeveel kosten studeren leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving": {},
-        "volledig online afrond langskomen studentensecretariaat onzevolgen infodag \n evaluatie bestaan indienen werkstuk bewijs opgedane kennis \n ": {
-            "infodag \n evaluatie bestaan indienen": "WORK_OF_ART"
-        },
-        "Vereiste voorkennis \n ": {
-            "Vereiste": "EVENT"
-        },
-        "voorkennis vereisen \n openingsuren": {},
-        "studentensecretariaan \n": {}
-    }
+    "description": "microdegree 10 studiepunt ontwerpen behoefte werkveld gedachte opleiding bieden uitbreiden verkenning nieuw tools trends techniek nodig dynamisch industrie les deels asynchroon via volgen digitaal cursus leerplatform aansluiten live les mogelijk/gewenst \n  Semester 1 Basiskennis \n  starten nul leren kort tijd stevig basis technisch ontwerpvaardigheden \n staan programma   basisprincipe grafisch vormgeving procedureel programmeren Javascript   HTML5 CSS3 bouwen statisch website   inleiding vormgeving productie digitaal videomateriaal \n  Semester 2 Expertise \n 2 semester komen ontwerpproces digitaal toepassing komen bod ontwikkelen wireframes organiseren flow uiteindelijk vormgeving \n  Campus Kaai \n kost volgen micro-credential lijn hetregulier studiegeld \n inschrijven opleiding Multimedia Creatieve technologie Expertise   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig online afrond langskomen studentensecretariaat onzevolgen infodag \n evaluatie bestaan indienen werkstuk bewijs opgedane kennis \n  Vereiste voorkennis \n  voorkennis vereisen \n openingsuren studentensecretariaan \n"
 }

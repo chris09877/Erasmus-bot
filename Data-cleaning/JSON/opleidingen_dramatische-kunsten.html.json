@@ -1,11 +1,4 @@
 {
     "name": "dramatische-kunsten",
-    "sentences": {
-        "studeer Academisch Bachelor/Master Drama": {
-            "Academisch Bachelor/Master Drama": "ORG"
-        },
-        "RITCS leren acteren regisser schrijven \n info opleiding > > \n": {
-            "RITCS": "ORG"
-        }
-    }
+    "description": "studeer Academisch Bachelor/Master Drama RITCS leren acteren regisser schrijven \n info opleiding > > \n"
 }

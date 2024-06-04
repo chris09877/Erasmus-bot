@@ -1,38 +1,4 @@
 {
     "name": "diversiteit-gelijkwaardigheid-inclusie-en-het-jonge-kind--",
-    "sentences": {
-        "Lesprogramma \n opleiding starten oktober 24 \n opleiding omvat4 sessiesgespreid 4 maand frequentie één sessie 6 uur per maand uitzondering sessie 4 4uur \n 4 sessie \n sessie 1 \n sessie 2 \n sessie 3 \n sessie 4 \n leren \n afloop traject \n ": {
-            "Lesprogramma \n opleiding": "PERSON",
-            "oktober 24 \n opleiding": "DATE",
-            "4": "CARDINAL",
-            "één": "CARDINAL",
-            "6 uur": "TIME",
-            "4uur": "CARDINAL",
-            "1": "CARDINAL",
-            "2": "CARDINAL",
-            "3": "CARDINAL"
-        },
-        "Campus Kanal \n ": {
-            "Campus Kanal": "FAC"
-        },
-        "inschrijvingsgeld bedragen 50 euro": {
-            "50 euro": "DATE"
-        },
-        "4 sessie": {
-            "4": "CARDINAL"
-        },
-        "totaal 22 uur \n inschrijven": {
-            "22 uur": "TIME"
-        },
-        "Diversiteit lijkwaardigheien inclusie jong kind   ": {},
-        "Top juni 2024kan": {
-            "juni 2024kan": "DATE"
-        },
-        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
-            "Jeop": "PERSON"
-        },
-        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
-            "juni 2024": "DATE"
-        }
-    }
+    "description": "Lesprogramma \n opleiding starten oktober 24 \n opleiding omvat4 sessiesgespreid 4 maand frequentie één sessie 6 uur per maand uitzondering sessie 4 4uur \n 4 sessie \n sessie 1 \n sessie 2 \n sessie 3 \n sessie 4 \n leren \n afloop traject \n  Campus Kanal \n  inschrijvingsgeld bedragen 50 euro 4 sessie totaal 22 uur \n inschrijven Diversiteit lijkwaardigheien inclusie jong kind    Top juni 2024kan Jeop pagina start inschrijving inschrijving volledig online afrond langskomen studentensecretariaat onzevolgen infodag \n juni 2024 \n"
 }

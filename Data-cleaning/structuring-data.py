@@ -125,12 +125,77 @@
 #     print()
 
 
-
+#
+# import spacy
+# import os
+# import re
+# import json
+# from collections import defaultdict
+#
+# # Load Dutch spaCy model
+# nlp = spacy.load('nl_core_news_sm')
+#
+# # Function to extract sentences from text
+# def extract_sentences(text):
+#     doc = nlp(text)
+#     return [sent.text for sent in doc.sents]
+#
+# # Function to extract named entities from a sentence
+# def extract_named_entities(sentence):
+#     doc = nlp(sentence)
+#     entities = {}
+#     for ent in doc.ents:
+#         entities[ent.text] = ent.label_
+#     return entities
+#
+# # Function to generate a name for the document based on its filename
+# def generate_doc_name(filename):
+#     if filename.startswith("opleidingen_") and filename.endswith(".html.txt"):
+#         name = filename.split("opleidingen_")[1].split(".html.txt")[0]
+#         name = ''.join([i for i in name if not i.isdigit()])
+#         return name
+#     else:
+#         return filename
+#
+# # Function to process files and extract sentences
+# def process_files_and_extract_sentences(directory):
+#     file_sentences = {}
+#
+#     for filename in os.listdir(directory):
+#         if filename.endswith('.txt'):
+#             file_path = os.path.join(directory, filename)
+#
+#             with open(file_path, 'r', encoding='utf-8') as file:
+#                 text = file.read()
+#
+#             sentences = extract_sentences(text)
+#             file_sentences[filename] = sentences
+#
+#             # Generate JSON file for each document
+#             doc_name = generate_doc_name(filename)
+#             json_data = {'name': doc_name, 'sentences': {}}
+#             for sentence in sentences:
+#                 entities = extract_named_entities(sentence)
+#                 json_data['sentences'][sentence] = entities
+#
+#             json_output_path = os.path.join('./JSON', f'{os.path.splitext(filename)[0]}.json')
+#             with open(json_output_path, 'w', encoding='utf-8') as json_file:
+#                 json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+#
+#     return file_sentences
+#
+# # Directory containing preprocessed text files
+# directory_path = './preprocessed-files/'
+#
+# # Create directory for JSON files if it doesn't exist
+# os.makedirs('./JSON', exist_ok=True)
+#
+# # Extract sentences from all files
+# file_sentences = process_files_and_extract_sentences(directory_path)
 import spacy
 import os
 import re
 import json
-from collections import defaultdict
 
 # Load Dutch spaCy model
 nlp = spacy.load('nl_core_news_sm')
@@ -139,14 +204,6 @@ nlp = spacy.load('nl_core_news_sm')
 def extract_sentences(text):
     doc = nlp(text)
     return [sent.text for sent in doc.sents]
-
-# Function to extract named entities from a sentence
-def extract_named_entities(sentence):
-    doc = nlp(sentence)
-    entities = {}
-    for ent in doc.ents:
-        entities[ent.text] = ent.label_
-    return entities
 
 # Function to generate a name for the document based on its filename
 def generate_doc_name(filename):
@@ -173,10 +230,7 @@ def process_files_and_extract_sentences(directory):
 
             # Generate JSON file for each document
             doc_name = generate_doc_name(filename)
-            json_data = {'name': doc_name, 'sentences': {}}
-            for sentence in sentences:
-                entities = extract_named_entities(sentence)
-                json_data['sentences'][sentence] = entities
+            json_data = {'name': doc_name, 'description': ' '.join(sentences)}
 
             json_output_path = os.path.join('./JSON', f'{os.path.splitext(filename)[0]}.json')
             with open(json_output_path, 'w', encoding='utf-8') as json_file:
