@@ -1,0 +1,80 @@
+{
+    "name": "boekhouden-voor-zelfstandigen",
+    "sentences": {
+        "zelfstandig verplichten activiteit boekhoudkundig manier tegenhouden missen": {},
+        "soms nodig skills hiermee slag gaan": {},
+        "beroep extern boekhoudkantoor lopen communicatie vlot \n ": {},
+        "Micro-credential Boekhouden": {
+            "Boekhouden": "LOC"
+        },
+        "zelfstandig beogen mens zaak": {
+            "beogen": "NORP"
+        },
+        "KMO": {
+            "KMO": "ORG"
+        },
+        "wens opstarten onvoldoende achtergrond boekhoudkundig materie volgen": {},
+        "Micro-credential staat boekhouding begrijpen": {
+            "Micro-credential": "FAC"
+        },
+        "belastingaangifte personenbelasting optimaliseren \n aantal onderneming 5 jaar oprichting failliet verklaren": {
+            "5 jaar": "DATE"
+        },
+        "aanzienlijk volgen Micro-credential krijgen zelfstandig zicht cijfer nodig tijdig bijgestuuren \n ": {
+            "Micro-credential": "PRODUCT"
+        },
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding gaan": {},
+        "digitaal start september 2024 \n vak komen": {
+            "september 2024": "DATE"
+        },
+        "graduaat Accounting Administration": {},
+        "betreffen \n micro-credentials maken deel e-learningtraject verlopen dusvolledig online studentensecretariaten bevinden opcampus Leuven \n volledig online \n campus": {
+            "Leuven": "GPE"
+        },
+        "Leuven \n ": {
+            "Leuven": "GPE"
+        },
+        "Interleuvenlaan": {
+            "Interleuvenlaan": "GPE"
+        },
+        "53001": {
+            "53001": "DATE"
+        },
+        "Heverlee": {
+            "Heverlee": "ORG"
+        },
+        "LeuvenOpenbaar vervoer neem station Leuven bus stap": {
+            "LeuvenOpenbaar": "ORG"
+        },
+        "halte Haasrode UCLL \n openbaar vervoer \n 630 4 richting Haasrode \n Blue-bike huur fiets station Leuven": {
+            "UCLL": "ORG",
+            "630": "DATE",
+            "4": "CARDINAL",
+            "Haasrode": "GPE",
+            "Blue-bike": "NORP",
+            "Leuven": "GPE"
+        },
+        "fiets": {},
+        "20 minuut campus \n ": {
+            "20": "CARDINAL"
+        },
+        "Blue-bike \n ": {
+            "Blue-bike": "NORP"
+        },
+        "Auto zet auto ruim parking gebouw": {},
+        "Interleuvenlaan 5 \n auto \n inschrijven micro-credential   Top juni 2024kan": {
+            "Interleuvenlaan 5": "ORG",
+            "micro-credential": "GPE",
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

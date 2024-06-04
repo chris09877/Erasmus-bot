@@ -1,0 +1,296 @@
+{
+    "name": "communicatie",
+    "sentences": {
+        "bacheloropleiding communicatie weten communicatie werken": {},
+        "communicatie specifiek probleem oplost expren communicatie": {},
+        "managen domein persoonlijk houden": {},
+        "Fan muziekconcerat bezeten skaten": {},
+        "sociaal ëngageren maatschappelijk relevant": {},
+        "organisatie": {},
+        "Eender bedrijf organisatie zoeken": {},
+        "Communicatieprofessionals \n\n menselijk \n werken mens": {
+            "Communicatieprofessionals \n\n ": "PERSON"
+        },
+        "mens horen natuurlijk menselijk kwaliteit": {},
+        "creatief nieuwsgierig people skills": {
+            "people": "NORP"
+        },
+        "opleiding gaan samen mee slag zodat groeien leren komen boek": {},
+        "Reproduceren non merci examens": {
+            "Reproduceren": "GPE"
+        },
+        "talrijk evaluatievorom Projectpitches paper communicatieplann \n echt \n opleidingbestudeerje communicatie drie jaar doen werkervaring diploma krijgen twee stage communicatiebureau werken écht echt project echt bedrijf organisatie Erasmushogeschool": {
+            "Projectpitches": "PERSON",
+            "drie jaar": "DATE",
+            "twee": "CARDINAL"
+        },
+        "binnenkomen teamverband hogerejaarsstudent \n Innovatief modulair \n opleiding": {},
+        "opbouwen thematisch module zitten discipline volledig ïntegreren": {},
+        "Psychologie": {
+            "Psychologie": "GPE"
+        },
+        "sociologie economisch juridisch topic": {},
+        "actualiteit medium apart vak innovatief": {},
+        "aanpak zo'n integreren module helpen leerstof beheersen module duren": {},
+        "6 week nadien opvolgen meteen eindevaluatie examen": {
+            "6 week": "DATE"
+        },
+        "presentatie": {},
+        "paper": {},
+        "byebyeen": {},
+        "Examenmarathons Hello module \n Brussel": {
+            "Examenmarathons Hello": "PERSON",
+            "Brussel": "GPE"
+        },
+        "\n ": {},
+        "mekka": {},
+        "communicatiemanager morgen": {
+            "morgen": "DATE"
+        },
+        "metropool vreemd taal leren beleeften": {},
+        "diversiteit fabel dagelijks realiteit samenwerken": {
+            "fabel dagelijks": "DATE"
+        },
+        "persoonlijkhed leren spontaan": {},
+        "Ken plaats carrière": {
+            "Ken plaats carrière": "PERSON"
+        },
+        "starten staan geval \n Focus": {},
+        "taal \n thematisch module breid professioneel taalkennis trainen vakgerichten": {},
+        "taal hand praktijkoefeningen lezen vakliteratuur presenteren pitchen rapportear creatief schrijven daarnaast krijgen": {},
+        "Language Support taalonderwijs maat niveautest Nederlands Frans Engels boek snel vooruitgang verhoog slaagkans \n\n praktijk \n jaar gaan slag echt project": {
+            "Language Support": "PERSON",
+            "Nederlands": "LANGUAGE",
+            "Frans": "LANGUAGE"
+        },
+        "inHet Bureau": {
+            "Bureau": "GPE"
+        },
+        "lid communicatieteam student hoog jaar bouwen manier meteen professioneel netwerk daarnaast lopen": {},
+        "jetwee intensief stage": {
+            "jetwee intensief stage": "PERSON"
+        },
+        "één twee jaar 6 week": {
+            "één twee jaar": "DATE",
+            "6 week": "DATE"
+        },
+        "één drie jaar 12 week slot": {
+            "één": "CARDINAL",
+            "drie jaar 12 week": "DATE"
+        },
+        "Jeintegraal afstudeerproject": {},
+        "opdrachtgever kiezen team samenstellen realiseren echt opdracht communicatieprofessional \n Bureau \n twee intensief stage \n integraal afstudeerproject \n\n Link": {
+            "Bureau": "GPE",
+            "twee": "CARDINAL",
+            "Link": "PERSON"
+        },
+        "samenleving \n communicatiespecialist houden vinger pols gebeuren wereld": {},
+        "Evoluties": {},
+        "trends maatschappelijk cultureel": {},
+        "sociaal economisch vlak alsook actualiteit volgen voet \n Stevig basiskennis \n ": {},
+        "starten": {},
+        "stevig basis krijgen communicatiediscipline knie verdiepen domein veel boeien maken kennis": {},
+        "communicatiesector": {},
+        "verschillend jobs wachten zowel strategisch creatief gaan slag \n ": {
+            "slag \n ": "EVENT"
+        },
+        "ECTS-fiches lessenrooster \n opleiding communicatie lopen één twee stage 8 week twee jaar 3 maand drie jaar stage bieden voortreffelijk gelegenheid": {
+            "één": "CARDINAL",
+            "twee": "CARDINAL",
+            "8 week": "DATE",
+            "3": "CARDINAL",
+            "drie jaar": "DATE"
+        },
+        "kennis vaardigheden toepassen": {},
+        "toetsen realiteit professioneel leven bouwen mooi cv mee \n stage twee jaar \n ": {
+            "twee jaar": "DATE"
+        },
+        "Alsenig communicatieopleiding": {
+            "Alsenig": "LOC"
+        },
+        "Vlaanderenga twee deeltraject 8 week": {
+            "Vlaanderenga": "NORP",
+            "twee": "CARDINAL",
+            "8 week": "DATE"
+        },
+        "stage \n communicatieopleiding Vlaanderen \n ": {
+            "Vlaanderen": "GPE"
+        },
+        "via keuze stageplek kunnen bepalen domein diepgaander": {},
+        "verkennen": {},
+        "eventmanagement online marketing": {},
+        "public relation reclame marktonderzoek medium uitkomen begeleiden stagecoördinator keuze \n stage drie jaar \n samen": {
+            "drie jaar \n samen": "DATE"
+        },
+        "afstudeerproject vormen twee stage sluitstuk opleiding professioneel communicatiespecialist stage": {
+            "twee": "CARDINAL"
+        },
+        "duren 3 maand nemen groot deel 2 semester beslag kiezen stageplaats ondersteunen wak kwaliteit stage invloed professioneel toekomst weten krijgen": {
+            "3": "CARDINAL",
+            "2": "CARDINAL"
+        },
+        "stageplaats job aanbieden \n\n\n meteen": {},
+        "slag diploma \n behalen": {
+            "slag diploma \n ": "EVENT"
+        },
+        "bachelordiploma": {},
+        "meteen slag communicatieprofessional immers onmisbaar speler organisatie \n Ga": {},
+        "slag \n\n studeren \n EhB \n campus via verkort traject één twee jaar twee bachelordiploma behalen \n ": {
+            "slag \n\n studeren": "EVENT",
+            "één twee jaar": "DATE",
+            "twee": "CARDINAL"
+        },
+        "Ga master \n studeer via schakelprogramma master aan vrij Universiteit Brussel": {
+            "Universiteit Brussel": "ORG"
+        },
+        "VUB \n ": {
+            "VUB": "ORG"
+        },
+        "drie jaar alvast vak": {
+            "drie jaar": "DATE"
+        },
+        "Communicatiewetenschappen": {
+            "Communicatiewetenschappen": "GPE"
+        },
+        "I Media-economie": {
+            "Media-economie": "PERSON"
+        },
+        "volgen schakelprogramma master VUB \n ": {
+            "VUB": "ORG"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Bloemenhof \n\n ": {
+            "Bloemenhof \n\n ": "EVENT"
+        },
+        "Campus Kanal \n\n ": {
+            "Campus Kanal": "FAC"
+        },
+        "Dankzij voordeligeMIVB-abonnementrijd": {},
+        "heel jaar": {},
+        "slechts12 eurodoor stad": {},
+        "Gebruik fiets parkeren gemak fiets vanVilloin": {
+            "Gebruik": "GPE"
+        },
+        "station tegenover campus jaarabonnement deelfiet kosten 35 euro \n MIVB-abonnement \n 12 euro \n Villo \n Brussel bieden hoofdstad": {
+            "35 euro \n MIVB-abonnement": "DATE",
+            "12": "CARDINAL",
+            "euro \n Villo": "PERSON",
+            "Brussel": "GPE"
+        },
+        "Europa internationaal opportuniteit halen buitenland campus": {
+            "Europa": "GPE"
+        },
+        "gastspreker internationaal project student mee opzet \n uitwisseling Brussel \n graag uitwisseling blijven graag": {
+            "Brussel": "GPE"
+        },
+        "Brussel drie jaar": {
+            "Brussel": "GPE",
+            "drie jaar": "DATE"
+        },
+        "Brussels": {
+            "Brussels": "GPE"
+        },
+        "Franstalig partner IHECS studeren hoogschool": {
+            "Franstalig": "NORP",
+            "IHECS": "ORG"
+        },
+        "bevinden straat EhB ver hoeven lopen boost kennis": {},
+        "Frans vinden \n Europa \n nood internationaal ervaring": {
+            "Frans": "LANGUAGE",
+            "Europa": "GPE"
+        },
+        "Erasmusuitwisseling": {},
+        "één Europees partnerscho tien verschillend land \n internationaal stage \n student communicatie kunnen internationaal stage lopen zowel Europa voorganger gaan New York Washington California Perú": {
+            "één": "CARDINAL",
+            "Europees": "NORP",
+            "tien": "CARDINAL",
+            "Europa": "GPE",
+            "New York": "GPE",
+            "Washington California Perú": "PERSON"
+        },
+        "Paraguay Argentina Bali": {
+            "Paraguay Argentina Bali": "PERSON"
+        },
+        "Bangkok Tokio": {
+            "Bangkok Tokio": "PERSON"
+        },
+        "oneindig mogelijkheid": {},
+        "Beginnen kriebelen vraag buitenlands ervaring contact opnemen": {},
+        "metEllen Thielemans coördinator": {
+            "Thielemans": "PERSON"
+        },
+        "internationalisering \n hieronder vinden kort overzicht kost": {},
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student": {},
+        "22-’23 60 studiepunt \n ": {
+            "22-’23 60": "DATE"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 281,1 \n € 13,5 \n €": {
+            "281,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL"
+        },
+        "1092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n ": {
+            "1092,1": "DATE",
+            "Bijna-beurstariefstudent": "ORG"
+        },
+        "€ 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven communicatie   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n subsidie beurs \n": {}
+    }
+}

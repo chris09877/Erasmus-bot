@@ -1,0 +1,65 @@
+{
+    "name": "boekhouden-voor-werknemers--",
+    "sentences": {
+        "micro-credential Boekhouden": {
+            "micro-credential": "LOC",
+            "Boekhouden": "GPE"
+        },
+        "werknemer richten mens actief": {},
+        "boekhoudkundig afdeling bedrijf onvoldoende achtergrond materie \n opleiding starten inseptember 2024 \n september 2024 \n doelstellingen \n dedoelstellingenen deeindcompetentieszijn": {
+            "inseptember 2024": "DATE",
+            "september 2024": "DATE"
+        },
+        "voorziene doelstelling eindcompetentie olod": {},
+        "’s regulier traject \n doelstelling \n eindcompetentie \n certifiëring \n eengetuigschriftmicro-credential ontvangen   credit verwerven \n getuigschrift \n micro-credentials maken deel": {},
+        "e-learningtraject verlopen dusvolledig online studentensecretariaten bevinden opcampus Leuven \n volledig online \n campus": {
+            "Leuven": "GPE"
+        },
+        "Leuven \n ": {
+            "Leuven": "GPE"
+        },
+        "Interleuvenlaan": {
+            "Interleuvenlaan": "GPE"
+        },
+        "53001": {
+            "53001": "DATE"
+        },
+        "Heverlee": {
+            "Heverlee": "ORG"
+        },
+        "LeuvenOpenbaar vervoer neem station Leuven bus stap": {
+            "LeuvenOpenbaar": "ORG"
+        },
+        "halte Haasrode UCLL \n openbaar vervoer \n 630 4 richting Haasrode \n Blue-bike huur fiets station Leuven": {
+            "UCLL": "ORG",
+            "630": "DATE",
+            "4": "CARDINAL",
+            "Haasrode": "GPE",
+            "Blue-bike": "NORP",
+            "Leuven": "GPE"
+        },
+        "fiets": {},
+        "20 minuut campus \n ": {
+            "20": "CARDINAL"
+        },
+        "Blue-bike \n ": {
+            "Blue-bike": "NORP"
+        },
+        "Auto zet auto ruim parking gebouw": {},
+        "5 \n auto \n volgensregulier studiegeld namelijk € 536 \n Checkdeze paginavoor infodag \n inschrijven Micro-credential Boekhouden": {
+            "5": "CARDINAL",
+            "536": "DATE",
+            "Boekhouden": "GPE"
+        },
+        "werknemer": {},
+        "24 25   Top juni 2024kan Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "24": "CARDINAL",
+            "25": "CARDINAL",
+            "juni 2024kan": "DATE",
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

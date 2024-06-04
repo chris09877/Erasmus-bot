@@ -1,0 +1,258 @@
+{
+    "name": "kleuteronderwijs",
+    "sentences": {
+        "kijken   verwondering   jong kind wereld": {},
+        "ontdekken droom ervan samen jong kind ontdekkingstocht gaan   spelen   helpen groeien kleuteronderwijzer": {},
+        "juist beroepskeuze   kleuteronderwijzer maken verschil \n\n leraar identiteit \n lerarenopleiding   koploper onderwijsvernieuwing eindwerkstage bruisen hoofdstad": {},
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "ker taart studeren bekwaam leraar sterktes talent optimaal inzet klas   persoonlijkheid bekwaamheden staan centraal opleiding worden uitstekend leraar identiteit": {},
+        "aanpak": {},
+        "leraar opleiding nieuw collega investeren graag persoonlijk begeleiding \n\n opleiding kleuteronderwijs leren open geest kijken bewust subjectiviteit observeren leren": {},
+        "rekening houden 100 taal kind": {
+            "100 taal kind": "DATE"
+        },
+        "ieder kleuter talent \n ": {},
+        "praktijk \n verschillend project devakinhoudenop zelfstandig manier verwerken gaan klasgenot": {},
+        "jeugdboekenweek Brussels": {
+            "Brussels": "LOC"
+        },
+        "bibliotheek vertellen maken kennis": {},
+        "filosofer ontdekken": {},
+        "wereld zien kijken": {},
+        "bril \n ": {},
+        "Matinee": {},
+        "muzisch sluitstuk opleiding \n drie jaar opleiding kleuteronderwijs komen dé uitdaging muzisch sluitstuk maken theatervoorstelling kleuter samen medestudent": {
+            "drie jaar": "DATE"
+        },
+        "tekst schrijven muziek maken dansen decor bouwen klank licht organiseren Affiches ontwerp": {
+            "Affiches": "PERSON"
+        },
+        "spelen \n creativiteit zelfstandig werk \n ": {},
+        "creativiteit handelsmerk kleuterjuf -meester": {},
+        "ontdekken 100 taal gaan verkenning verschillend expressievorm beweging beeld muziek": {
+            "100": "CARDINAL"
+        },
+        "drama medium \n Succesvol groeien \n persoonlijk ontwikkeling opleiding kleuteronderwijs bewaken stimuleren insturen organiseren module succesvol groeien": {},
+        "krijgen ruimte opvolgen didactisch vaardighed leren reflecteren ontwikkelen taalcompetentie \n opleiding kiezen volledig zott doos klein har dag kleuterklas dag vol nieuw avontuur ontdekking kleuteronderwijzer zomaar beroep roeping \n belangrijk goed voelen studie succes afronden krijgen   plukprogramma": {
+            "doos": "PERSON"
+        },
+        "vak jaar werkplekleren liggen grotendeels vast doorheen traject vak programma opdelen semester 1 semester 2 bepalen volgorde kiezen reeks vak dicht interesses noden liggen hieronder zien jaar": {
+            "1": "CARDINAL",
+            "2": "CARDINAL",
+            "zien jaar": "DATE"
+        },
+        "kán uitzien   bepalen   overleg leerteambegeleider trajectcoach programma \n\n ": {},
+        "Niet-confessionele": {
+            "Niet-confessionele": "GPE"
+        },
+        "ZedenleerRooms-katholiek GodsdienstCultuurbeschouwingIslamitisch": {
+            "GodsdienstCultuurbeschouwingIslamitisch": "EVENT"
+        },
+        "GodsdienstOpvoedingsvraagstukken": {
+            "GodsdienstOpvoedingsvraagstukken": "ORG"
+        },
+        "grootstedelijk context \n ": {},
+        "ZedenleerRooms-katholiek GodsdienstCultuurbeschouwingIslamitisch godsdienstEngagement verbinding \n ": {},
+        "ECTSfiche lessenrooster \n laten opleiding kleuteronderwijs snel beroep kleuterjuf -meester ervaren praktijk gaan semester stage leren geleidelijk vaardigheden leraar uitbouwen hoeven natuurlijk staan naast begeleiden helpen \n\n jaar stage \n jaar opleiding beginnen kennismakingsdag": {},
+        "eindig volledig   stage ontdekken kind uitdagen stimuleren verrijken speelplekk proberen eenvoudig activiteit kleuter \n twee jaar stage \n   twee deeltraject   werken thema doen begeleiding leren": {
+            "twee jaar": "DATE",
+            "twee": "CARDINAL"
+        },
+        "keuzehoek invullen spel": {},
+        "kind stimuleren \n drie jaar stage \n stageperiode kiezen stage lopen": {
+            "drie jaar": "DATE"
+        },
+        "krijgen kans   klas   ervaring ontdekking gaan werkveld organisatie vzw rechtstreeks onrechtstreeks kind werken \n buitenland \n ": {},
+        "laat jaar stage   landbinnen": {},
+        "Euopa leren laat kneep vak vervolledigen vorming": {},
+        "leraar": {},
+        "Kleuteronderwijs \n\n werk \n bachelordiploma": {
+            "Kleuteronderwijs": "WORK_OF_ART"
+        },
+        "kleuteronderwijs   onderwijsnetten   slag meester": {},
+        "juf": {},
+        "onderwijs": {},
+        "buitengewoon onderwijs maken deel   zorgteam   school bewegen kleuter uurt lichamelijk": {},
+        "opvoeding kleuteronderwijzer helemaal ding   kinderdagverblijf": {},
+        "job welzijnssector": {
+            "job": "PERSON"
+        },
+        "socio-culturele sector   behoren mogelijkheid opleiding proef": {},
+        "jobs \n studeren \n ": {},
+        "EhB \n smaak leren studeren helemaal pakken gaan studie Educatieve": {},
+        "Bachelor laag onderwijs eenverkort trajectvan jaar krijgen kans arbeidmarkt studie combineren job \n verkort traject \n ": {
+            "job \n ": "PERSON"
+        },
+        "Ga master \n studeer": {},
+        "eenmasterin onderwijskunde master Agogische wetenschappen universiteit Eenschakeljaarbehoren opleiding breed waaier mogelijkheid": {
+            "Eenschakeljaarbehoren": "GPE"
+        },
+        "kans \n master \n ": {},
+        "schakeljaar \n Campus Kanal \n\n Campus Bloemenhof \n\n ": {
+            "Campus": "LOC",
+            "Kanal": "LOC",
+            "Campus Bloemenhof": "FAC"
+        },
+        "Dankzij voordeligeMIVB-abonnementrijd": {},
+        "heel jaar": {},
+        "slechts12 eurodoor stad": {},
+        "Gebruik fiets parkeren gemak fiets vanVilloin": {
+            "Gebruik": "GPE"
+        },
+        "station tegenover campus jaarabonnement deelfiet kosten 35 euro \n MIVB-abonnement \n 12 euro \n Villo \n bepalen opleiding duren \n afhankelijk traject": {
+            "35 euro \n MIVB-abonnement": "DATE",
+            "12": "CARDINAL",
+            "euro \n Villo": "PERSON"
+        },
+        "volgen opleiding beëindigen 3 jaar kort denk rustig samenstelling tijdspad traject": {
+            "3 jaar": "DATE"
+        },
+        "hoeveel tijd opleiding afronden geven kredieken opleiding": {},
+        "merken tijd nodig aanvraag   traject     spreiden \n stage \n ": {},
+        "Stages jaar lopen werkplek school aanstellen krijgen stageplaats toewijzen   twee deeltraject lopen stage school drie deeltraject": {
+            "twee": "CARDINAL",
+            "drie": "CARDINAL"
+        },
+        "mix stages werkplek alternatief stageplaat bepaling stageplek gebeuren": {},
+        "nauw overleg opleiding afhankelijk traject": {},
+        "12 23 week stage \n moment kinderverzorg st \n vragen   ": {
+            "12 23 week": "DATE"
+        },
+        "werkervaring": {},
+        "kleuterschool     kinderopvang   aanleggen inschrijving starten onmiddellijk   modeltraject   120 studiepunt overig 60 studiepunt": {
+            "120": "CARDINAL",
+            "60": "CARDINAL"
+        },
+        "behaal hand zelfstandig taak doorlopen": {},
+        "EVCprocedure \n bachelor master \n diploma hoog onderwijs ervaring werken kind toelaten   aanvraagdossier   EVC en/of EVK samen samenstellen analyse aanvraagdossier": {
+            "EVC": "ORG",
+            "EVK": "ORG"
+        },
+        "traject": {},
+        "samenstellen \n diploma laag onderwijs \n ": {},
+        "bachelordiploma": {},
+        "laag onderwijs": {},
+        "schrijf verkort traject": {},
+        "opbouw   modulair laten   flexibiliteit   maken heel   praktijkgericht   werken bedragen": {},
+        "60 studiepunt \n diploma Secundair onderwijs \n ": {},
+        "bachelordiploma Secundair onderwijs komen aanmerking verkort traject dienen aanvraagdossier EVC en/of EVK": {
+            "EVC": "ORG",
+            "EVK": "ORG"
+        },
+        "doorlopen dossier bedragen traject   maximum   120 studiepunt \n via verkort   traject droom": {
+            "120": "CARDINAL"
+        },
+        "waarmaken studeren werk kleuterjuf soms druk krijgen voldoening \n ervaren onderwijs land organiseren lijven ondervinden buitenland": {},
+        "gaan laat jaar stage   Europees landof leren": {
+            "Europees": "NORP"
+        },
+        "laat kneep vak vervolledigen vorming": {},
+        "leraar Kleuteronderwijs \n\n hieronder vinden kort overzicht kost": {},
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24 60 studiepunt \n ": {
+            "23-’24 60 studiepunt": "DATE"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n € 1.092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n € 282,1 \n € 4,4 \n € 575,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL",
+            "1.092,1": "CARDINAL",
+            "Bijna-beurstariefstudent": "ORG",
+            "282,1": "PERCENT",
+            "4,4": "CARDINAL",
+            "575,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven kleuteronderwijs   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n ": {
+            "infodag \n ": "WORK_OF_ART"
+        },
+        "Starttoets": {},
+        "leraaropleiding \n ": {},
+        "bachelor- masterdiploma   eenstarttoets   Nederlandsaflegag leraaropleiding kleuteronderwijs beginnen": {
+            "bachelor-": "PERSON"
+        },
+        "Lees hieralles starttoets \n starttoets   Nederlands \n openingsuren": {
+            "Lees hieralles": "PERSON",
+            "Nederlands": "NORP"
+        },
+        "studentensecretariaan \n subsidie beurs \n\n onderzoek navorming dienstverlening \n opleiding opleiden student Aangesloten expertisecentrum": {
+            "Aangesloten": "NORP"
+        },
+        "Urban": {},
+        "Coaching": {},
+        "Education": {
+            "Education": "WORK_OF_ART"
+        },
+        "praktijkonderzoek internationaal project samen mét breed onderwijsveld focus werk diversiteit": {},
+        "steAm samen opleiden meertaligheid professioneel ontwikkeling leraar schoolleider -teams": {},
+        "expertise vertalen opleiding bieden werkveld via nascholing pedagogisch studiedag": {
+            "studiedag": "GPE"
+        },
+        "dienstverlening maat": {},
+        "school": {},
+        "onderzoeksvraag vraag professionalisering   nemen contact stage.basisonderwijs@ehb.be \n ": {},
+        "Stageplek \n ": {
+            "Stageplek \n ": "PERSON"
+        },
+        "Doorheen opleiding stellen aantal duidelijk focuspunt centraal gaan krachtig kindbeeld": {
+            "Doorheen": "PERSON"
+        },
+        "inclusief mindset positief benadering diversiteit grootstad periode werkplekleren aantal focuspunt afgebakend info stage manier waarop werk gaan bekijk onzestagebrochure \n\n stageplaats actief": {},
+        "Fijn Ontdek": {},
+        "OnStage": {
+            "OnStage": "EVENT"
+        },
+        "vernieuwen digitaal": {},
+        "registratiesysteem stage online stagedossier": {},
+        "toegankelijk student": {},
+        "opleiding": {},
+        "dossier": {},
+        "gegeven stageplaats ingeven alsook overeenkomst": {},
+        "school inlogg via OnStage4Business krijgen toegang informatie student begeleiden \n": {}
+    }
+}

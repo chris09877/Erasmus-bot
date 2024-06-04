@@ -1,0 +1,103 @@
+{
+    "name": "graduaat-verpleegkunde",
+    "sentences": {
+        "Praktijkgerichte graduaatsopleiding \n maak ideaal beroep en kie 100% werkzekerheid": {
+            "100%": "CARDINAL"
+        },
+        "Word basisverpleegkundig via praktijkgericht graduaatsopleiding traject duren 3 jaar bestaan 5 module twee module behaal diploma": {
+            "3 jaar": "DATE",
+            "5": "CARDINAL",
+            "twee": "CARDINAL"
+        },
+        "zorgkundig vijf module diploma gegradueerde Verpleegkunde zak \n opleiding erg praktijkgerichten module bestaan interactief hoorcollege klein klasgroe praktijkles afwisselen periode stage nadruk opleiding liggen verwerven basiscompetentie sleutelvaardigheid manier spelen rechtstreeks eis werkveld verpleegkundig stellen opleiding heel intensief begeleiden student krijgen studiecoach toewijzen \n ": {
+            "vijf": "CARDINAL"
+        },
+        "Module 1 initiatie verpleegkunde \n module zet stap": {
+            "Module 1": "PERSON"
+        },
+        "verpleegkunde leren eenvoudig verpleegkundig zorg bedbad opnemen parameter krijgen les anatomie visie verpleegkunde ethiek gaan leren": {},
+        "denken handelen communicer verpleegkundig \n ": {},
+        "Module 2": {
+            "Module 2": "PERSON"
+        },
+        "Verpleegkundig basiszorg \n module leren": {},
+        "vordren basistechnie inspuiting basis wondzorg bouwen kennis opdoen": {},
+        "vorig module thema": {},
+        "’s diversiteit communicatie komen uitvoerig bod \n ": {},
+        "Module 3 oriëntatie algemeen gezondheidzorg \n module gaan stap": {
+            "Module 3": "PERSON"
+        },
+        "leren": {},
+        "specifiek technisch vaardigheid complex wondzorg sonderen bloedafnaam": {},
+        "theorieles gaan diep pathologie": {},
+        "wetgeving": {},
+        "ethiek \n Module 4 oriëntatie": {
+            "Module": "GPE",
+            "4": "CARDINAL"
+        },
+        "Ouderenzorg": {},
+        "geestelijk gezondheidzorg \n ": {},
+        "module specialiseer oud psychiatrisch zorgvrager leren gerichter communiceren": {},
+        "technisch vlak leren maagsondage plaatsen verzorgen": {},
+        "Kreeg bloedafnaam aangeleerd komen bod module \n ": {},
+        "Module 5": {
+            "Module 5": "PERSON"
+        },
+        "Toegepa": {},
+        "verpleegkunde \n laat module theorie": {},
+        "praktijk uitgediepen module job verpleegkundig leren technisch vaardigheid plaats infuus verzorgen": {
+            "infuus": "GPE"
+        },
+        "diep-veneuze katheter leren omgaan": {},
+        "palliatief zorgvrager": {},
+        "zorgvrager thuiszorg \n slag \n ": {
+            "slag \n ": "EVENT"
+        },
+        "diploma": {},
+        "Basisverpleegkunde heel beroepskansen vraag verpleegkundig arbeidmarkt groeien jaar jaar uiteraard terecht ziekenhuisdienst bejaardentehuis": {},
+        "psychiatrisch ziekenhuis vluchthuizen thuiszorg kinderzorg gehandicaptenzorg Artsen Grenzen enzovoorts \n studeren \n Start via verkort traject debachelor": {
+            "Artsen Grenzen": "ORG"
+        },
+        "Verpleegkunde \n Campus Jette \n ": {
+            "Campus Jette": "ORG"
+        },
+        "Openingsuren studentensecretariaan \n campus Mechelen \n ": {
+            "campus": "FAC",
+            "Mechelen": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n opleiding HBO5 Verpleegkunde betaal inschrijvingsgeld kost blijven beperken": {},
+        "aankoop cursus stagekledij \n Erasmushogeschool": {},
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n ": {},
+        "Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n\n Check altijddeze": {
+            "Check": "GPE"
+        },
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven graduaat Verpleegkunde   ": {},
+        "Top   ": {},
+        "Contacteer via onderstaand mailadres nemen contact zoek info klik": {
+            "Contacteer": "GPE"
+        },
+        "naarhttps://bahbo5.be/. \n": {}
+    }
+}

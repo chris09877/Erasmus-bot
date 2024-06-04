@@ -1,0 +1,248 @@
+{
+    "name": "palliatieve-zorg",
+    "sentences": {
+        "Palliatieve zorg betekenen intens zorg mens onomkeerbaar stadium ziekte   zorgverlener residentiële thuissetting belangrijk bijdragen": {},
+        "comfort levenskwaliteit zorgvrager naast laat levensfase \n postgraduaat": {},
+        "Palliatieve zorg verwerf nodig inzicht vaardigheid vraaggestuuren persoonsgericht palliatief zorgconcepen gebeuren respect levensbeschouwing traditie": {},
+        "geloofsvisie vertrekken": {},
+        "recht patiënt \n Situering \n ": {},
+        "Palliatieve zorg betekenen intens zorg mens onomkeerbaar stadium ziekte kans genezing": {},
+        "zorgverlener residentiële thuissetting": {},
+        "belangrijk bijdragen": {},
+        "comfort levenskwaliteit zorgvrager naast laat levensfase \n opleiding": {},
+        "sterk wetenschappelijk onderbouwd praktijkgericht zet interactief werk casuïstiek aandacht individueel leervrag per lesonderdeel praktijkgerichen casus medisch": {},
+        "ethisch spiritueel": {},
+        "psychologisch invalshoek ïntegreren \n ": {},
+        "Basismodule palliatief referent": {},
+        "6 SP \n acht volledig lesdag maken wegwijs relevant wetgeving ver uitbouw visie structuur palliatief zorg organisatie bieden inzicht symptoom": {
+            "6": "CARDINAL",
+            "SP": "ORG",
+            "acht": "CARDINAL"
+        },
+        "praktisch aanpak functie": {},
+        "symptoombestrijding": {},
+        "comfortzorg \n psychosociaal": {},
+        "emotioneel spiritueel impact palliatief patiënt enorm groot gaan gepaste wijze mee \n gepast communicatie bespreekbaar maken begeleid voorafgaan zorgplanning komen uitbreiden bod module zowel zorgvrager familie \n ": {},
+        "belichten procedure palliatief sedatie euthanasie onderscheid \n slot ruim aandacht": {},
+        "zorgverlener gaan emotie": {},
+        "angst rouwen houden staan zowel professioneel persoonlijk \n cursist verwachten actief inbreng hand": {},
+        "casus dagdagelijks": {},
+        "praktijk ervaring \n ": {},
+        "Specialisatiemodule palliatief deskundig 14 SP \n ": {
+            "14": "CARDINAL",
+            "SP": "ORG"
+        },
+        "specialisatiemodule opsplitsen volgen 4 opleidingsonderdel \n ": {
+            "4": "CARDINAL"
+        },
+        "1 Pathologie verpleegkundig zorg 4 SPFysiopathologie verpleegkundig aandachtspunt specifiek probleem komen bod   ademhaling urologisch gynaecologisch probleem vechten voeding leverstoornissen \n ": {
+            "1": "CARDINAL",
+            "4": "CARDINAL"
+        },
+        "1 Pathologie": {
+            "1": "CARDINAL",
+            "Pathologie": "PERSON"
+        },
+        "verpleegkundig zorg 4": {
+            "4": "CARDINAL"
+        },
+        "SP \n ": {
+            "SP": "ORG"
+        },
+        "2 Ethiek spiritualiteit veerkracht 4 SPWe gaan diep beslissing levensein ethisch reflectie": {
+            "2": "CARDINAL",
+            "4": "CARDINAL",
+            "SPWe": "ORG"
+        },
+        "deontologie spiritualiteit": {},
+        "zorgverlener levensmoeheid": {},
+        "medisch-psychosociaal benadering lijden verzorgen veerkraeken verhogen": {},
+        "aromazorg \n ": {},
+        "2 Ethiek spiritualiteit veerkracht 4 SP \n 3 communicatie palliatief zorg 3 SPJe verwerven theoretisch inzicht communicatieproces": {
+            "2": "CARDINAL",
+            "4": "CARDINAL",
+            "SP": "ORG",
+            "3": "CARDINAL",
+            "SPJe": "PERSON"
+        },
+        "krijgen training gespreksvaardigheden.4 integratie 3": {
+            "3": "CARDINAL"
+        },
+        "SPIn functie integratieopdracht leren gebruik maken wetenschappelijk literatuur bespreken analyseren casus \n 3 communicatie": {
+            "SPIn": "ORG",
+            "3": "CARDINAL",
+            "communicatie": "EVENT"
+        },
+        "palliatief zorg 3 SP \n 4 integratie 3 SP \n ": {
+            "3": "CARDINAL",
+            "SP": "ORG",
+            "4": "CARDINAL"
+        },
+        "programma \n volledig postgraduaat Palliatieve Zorg tellen 20 studiepunt 20 SP omvatten twee modules.1 basismodule": {
+            "Zorg": "PERSON",
+            "20": "CARDINAL",
+            "SP": "ORG",
+            "twee": "CARDINAL"
+        },
+        "Palliatief": {},
+        "referent 6 SP)2 specialisatiemodule Palliatief deskundig 14 SP \n postgraduaat ontwikkelen samenwerking Odisee Hogeschool Erasmushogeschool": {
+            "6": "CARDINAL",
+            "Palliatief": "PERSON",
+            "14": "CARDINAL",
+            "SP": "ORG",
+            "Odisee Hogeschool Erasmushogeschool": "ORG"
+        },
+        "forum Palliatieve zorg \n basismodule": {},
+        "Palliatief Referent tellen 8 lesdag 1 examendag lesdata": {
+            "8": "CARDINAL",
+            "1": "CARDINAL",
+            "examendag": "DATE"
+        },
+        "donderdagen": {},
+        "21 28 september 5 10 19 26 oktober 9 16 november 2023Examendatum 30 november": {
+            "21 28 september": "DATE",
+            "5": "CARDINAL",
+            "10": "CARDINAL",
+            "19 26 oktober": "DATE",
+            "9": "CARDINAL",
+            "16 november 2023Examendatum 30 november": "DATE"
+        },
+        "2023 \n basismodule Palliatief Referent tellen 8 lesdag 1 examendag \n specialisatiemodule Palliatief deskundig tellen 16 lesdag 1 dag inleefsessie 1 evaluatiedag": {
+            "2023": "DATE",
+            "Palliatief Referent": "ORG",
+            "8": "CARDINAL",
+            "1": "CARDINAL",
+            "Palliatief": "PERSON",
+            "16": "CARDINAL",
+            "evaluatiedag": "WORK_OF_ART"
+        },
+        "Lesdata donderdagen": {
+            "Lesdata donderdagen": "ORG"
+        },
+        "18 25 januari 1 8 22 29 februari 7 14 21 28 maart 18 25 april 2 16 23 30 mei 2024Inleefsessie juni 2024Examendatum 13 juni 2024 \n ": {
+            "18 25 januari": "DATE",
+            "1": "CARDINAL",
+            "8": "CARDINAL",
+            "22": "CARDINAL",
+            "29 februari": "DATE",
+            "7": "CARDINAL",
+            "14": "CARDINAL",
+            "21 28 maart 18 25 april 2 16 23 30 mei 2024Inleefsessie juni": "DATE",
+            "2024Examendatum": "TIME",
+            "13 juni 2024": "DATE"
+        },
+        "specialisatiemodule Palliatief deskundig tellen 16 lesdag 1 dag inleefsessie 1 evaluatiedag \n lesdag vallen donderdag 9.00 uur uiterlijk 16.30 uur \n Getuigschrift \n ontvangen telkens getuigschrift permanent vorming": {
+            "Palliatief": "PERSON",
+            "16": "CARDINAL",
+            "1": "CARDINAL",
+            "donderdag": "DATE",
+            "9.00 uur uiterlijk": "TIME",
+            "16.30 uur": "TIME",
+            "Getuigschrift": "GPE"
+        },
+        "succesvol afwerken module \n slagen": {},
+        "module ontvang postgraduaatgetuigschrift \n ": {},
+        "Behaal getuigschrift bijzonder beroepsbekwaamheid": {},
+        "Verpleegkundig bijzonder deskundigheid": {},
+        "palliatief zorg aanvrag afhankelijk": {},
+        "setting waarin werkt).Voorwaarden \n ": {},
+        "Odisee Campus BrusselWarmoesberg": {
+            "Odisee Campus": "EVENT",
+            "BrusselWarmoesberg": "LOC"
+        },
+        "261000": {
+            "261000": "DATE"
+        },
+        "Brussel \n ": {
+            "Brussel": "GPE"
+        },
+        "Odisee Campus Brussel \n ": {
+            "Odisee Campus": "ORG",
+            "Brussel": "GPE"
+        },
+        "beperken aantal les mogelijks online aanbieden \n inleefsessie plaatsvinden plaats SiTCA campus": {
+            "SiTCA": "NORP"
+        },
+        "Aalst Kwalestraat": {
+            "Aalst": "GPE"
+        },
+        "154": {
+            "154": "DATE"
+        },
+        "9320": {
+            "9320": "DATE"
+        },
+        "Aalst \n volledig postgraduaat € 1800Basismodule Palliatief Referent": {
+            "Aalst": "GPE",
+            "1800Basismodule": "CARDINAL",
+            "Palliatief Referent": "ORG"
+        },
+        "€ 850Specialisatiemodule Palliatief deskundig €": {
+            "850Specialisatiemodule": "CARDINAL"
+        },
+        "950 \n prijs inclusief digitaal syllabi gebruik online leerplatform \n prijs specialisatiemodule volledig postgraduaat laag houden module beroep financieel ondersteuning": {
+            "950": "CARDINAL"
+        },
+        "Fonds Zuster Leontine waarvoor dank \n inschrijven": {
+            "Fonds Zuster": "PERSON",
+            "Leontine": "PERSON",
+            "dank \n ": "PERSON"
+        },
+        "volledig postgraduaat module afzonderlijk getuigschrift basismodule startvoorwaran inschrijven specialisatiemodule \n ": {},
+        "inschrijven postgraduaat online viahttps://www.odisee.be/opleidingen/postgraduaat-palliatieve-zorg \n inschrijving ontvang aanvraagdocument programmacoördinator": {},
+        "postgraduaat aanvraag onderzoeken": {},
+        "basis toelatingsvoorwaard \n Praktisch informatie \n postgraduaat": {},
+        "Palliatieve zorg organiseren Forum Palliatieve Zorg Erasmushogeschool Brussel hoogschool": {
+            "Forum Palliatieve": "PERSON",
+            "Zorg Erasmushogeschool Brussel": "WORK_OF_ART"
+        },
+        "Odisee \n les plaatsvinden plaats Odisee Campus Brussel": {
+            "Odisee \n ": "PERSON",
+            "Odisee Campus": "PERSON",
+            "Brussel": "GPE"
+        },
+        "Warmoesberg": {
+            "Warmoesberg": "LOC"
+        },
+        "26 1000": {
+            "26": "CARDINAL",
+            "1000": "CARDINAL"
+        },
+        "Brussel vinden wegbeschrijving campus opwww.odisee.be/campus-brussel \n Vlaams opleidingsverlof \n navorming erkennen": {
+            "Brussel": "GPE",
+            "Vlaams": "NORP"
+        },
+        "Vlaams opleidingsverlof 20 studiepunt één studiepunt geven recht": {
+            "Vlaams": "NORP",
+            "20": "CARDINAL",
+            "één": "CARDINAL"
+        },
+        "4 uur": {
+            "4 uur": "TIME"
+        },
+        "Vlaams opleidingsverlof deelname examen verplichten \n per module volgen studiepunt toekennen \n ": {
+            "Vlaams": "NORP"
+        },
+        "Betaald educatief verlof": {},
+        "Brussels hoofdstelijk gewest \n ": {
+            "Brussels": "NORP"
+        },
+        "postgraduaat Palliatieve zorg geeft recht 188 uur Betalen educatief verlof \n ": {
+            "188 uur Betalen": "TIME"
+        },
+        "basismodule": {},
+        "Palliatief Referent volgen ontvang 62 uur verdiepingsmodule Palliatief deskundig volgen ontvang 126 uur afwezig attest voorleggen wettigen afwezig beschouwen \n Kmo-portefeuille \n kmo ’s gebruik maken subsidiëring via ondernemingsportefeuille kmobedrijven erkenningsnummer": {
+            "62 uur": "TIME",
+            "Palliatief": "PERSON",
+            "126": "DATE"
+        },
+        "Odisee Advanced": {
+            "Odisee Advanced": "PERSON"
+        },
+        "Education": {
+            "Education": "WORK_OF_ART"
+        },
+        "DV.O100347 \n info": {},
+        "www.agentschapondernemen.be \n": {}
+    }
+}

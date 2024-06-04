@@ -1,0 +1,46 @@
+{
+    "name": "ehbo-bij-kinderen-en-babys",
+    "sentences": {
+        "juist kennis": {},
+        "techniek erg voorkomen leven redden workshop weten perfect babysitten EHBO toepassen weten verstikking stuipen verbranding verdrinking vergiftiging baby kind \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "navorming gaan voorjaar": {},
+        "2025 duren 3 uur \n Attest \n Attest opleiding voorzien \n Campus": {
+            "2025": "DATE",
+            "3 uur": "TIME",
+            "Attest \n Attest": "ORG",
+            "Campus": "FAC"
+        },
+        "Jette \n contact \n Adres": {
+            "Jette": "GPE"
+        },
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen 30 euro \n bijscholing richten oa jong regelmatig babysiten leider animatour monitoren": {
+            "30 euro \n bijscholing": "DATE"
+        },
+        "jeugdbeweging": {},
+        "speelpleinwerking": {},
+        "elders specifiek goed kennis": {},
+        "hulp": {},
+        "ongeval": {},
+        "erg belangrijk \n inschrijven": {},
+        "EHBO kind baby   Top juni 2024kan": {
+            "EHBO": "ORDINAL",
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond \n juni 2024 \n": {
+            "Jeop": "PERSON",
+            "juni 2024": "DATE"
+        }
+    }
+}

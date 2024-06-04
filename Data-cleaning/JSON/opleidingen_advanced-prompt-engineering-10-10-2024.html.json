@@ -1,0 +1,73 @@
+{
+    "name": "advanced-prompt-engineering---",
+    "sentences": {
+        "eind 2022": {
+            "2022": "DATE"
+        },
+        "ChatGPT beschikbaar groot publiek twee maand tijd 100 miljoen gebruiker technologie": {
+            "twee": "CARDINAL",
+            "100 miljoen": "MONEY"
+        },
+        "impact allemaal onderzoek blijken helpen": {},
+        "taak snel kwaliteitsvoller vervullen blijken": {},
+        "chatbots": {
+            "chatbots": "PERSON"
+        },
+        "ChatGPT Gemini gebruiken alsof opzochten Google Generative Pretrained": {
+            "Gemini gebruiken": "PERSON",
+            "Google Generative Pretrained": "PERSON"
+        },
+        "Transformers": {
+            "Transformers": "GPE"
+        },
+        "GPTs baseren": {
+            "GPTs": "ORG"
+        },
+        "Large": {
+            "Large": "GPE"
+        },
+        "Language Models": {
+            "Language Models": "PERSON"
+        },
+        "LLMs staat opleiding techniek aanleren maximum halen GPT \n opleiding gaan 10 oktober 2024 \n opleiding gaan 10 oktober 2024 \n sessie 1/2 dag gaan praktisch slag": {
+            "LLMs": "ORG",
+            "GPT": "ORG",
+            "10 oktober 2024": "DATE",
+            "1/2 dag": "DATE"
+        },
+        "GPTs \n workshop": {
+            "GPTs": "CARDINAL"
+        },
+        "krachtig arsenaal": {},
+        "techniek generatieve AI vol benutten dagelijks praktijk werken snel krijgen kwaliteit": {
+            "AI": "PRODUCT"
+        },
+        "werk \n ": {},
+        "Doelpubliek \n iedereen werken ChatGPT Gemini \n ": {
+            "Gemini \n ": "PERSON"
+        },
+        "programma \n opleiding gaan 10 oktober 2024 \n opleiding gaan": {
+            "10 oktober 2024": "DATE"
+        },
+        "10 oktober 2024 \n sessie": {
+            "10 oktober 2024": "DATE"
+        },
+        "heel praktijkgericht opzetten gaan slag": {},
+        "aangeleverde content onderscheiden vijf elkaar verweven delen \n ": {
+            "vijf": "CARDINAL"
+        },
+        "Praktisch informatie \n\n opleiding maat geven formulier voorkeur \n opleiding kosten": {},
+        "€ 149 \n inschrijven   ": {
+            "149": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

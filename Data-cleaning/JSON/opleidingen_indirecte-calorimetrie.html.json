@@ -1,0 +1,65 @@
+{
+    "name": "indirecte-calorimetrie",
+    "sentences": {
+        "moeilijk energiegebruik lichaam inschatten naast geslacht leeftijd gewicht factor energieverbruik beïnvloeen fysiek activiteit ziekte sedatie": {},
+        "koorts \n ": {},
+        "meten": {},
+        "energieverbruik": {},
+        "klinisch setting intensief zorg uitermate belang zodat sederen patiënt overvoed ondervoed behulp indirecte calorimeter juist energiebehoefte persoon workshop theorie toestel belichten waarna praktisch luik volgen \n ": {
+            "praktisch luik": "GPE"
+        },
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding bestaan online module praktijkdag deelnemer": {},
+        "online module doorlopen praktijkdag deelnemen \n digitaal gedeelte": {},
+        "openstellen": {},
+        "26 januari 2024 afsluiten": {
+            "26 januari 2024": "DATE"
+        },
+        "7 juni 2024.De praktijkdag plaatsvinden plaats 14 juni 2024 \n Attest \n beëindigen opleiding": {
+            "7 juni 2024.De": "DATE",
+            "14 juni 2024": "DATE",
+            "Attest \n ": "PERSON"
+        },
+        "ontvang attest": {},
+        "aanwezigheid \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "contact \n Adres": {},
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen 125 euro \n voorkeur bezit diploma bachelor": {
+            "125 euro \n voorkeur": "DATE"
+        },
+        "Voedings-": {
+            "Voedings-": "ORG"
+        },
+        "Dieetkunde werkzaam": {},
+        "nutritie/voedings verpleegkundig bezit diploma": {},
+        "academisch bachelor/master": {},
+        "geneeskund kinesitherapie bewegingswetenschappen volgen simultaan dergelijk professioneel academisch opleiding": {},
+        "para medisch achtergrond voldoen vooropgestelde vereisten contacteren gerust bekijken graag inschrijven \n inschrijven betaling gebeuren volgen rekeningnummer BE81 0962": {
+            "0962": "DATE"
+        },
+        "1858": {
+            "1858": "DATE"
+        },
+        "0124 vermelding": {
+            "0124": "DATE"
+        },
+        "naam": {},
+        "702.310 JETDEP betaling bevestigen inschrijving \n inschrijven \n": {
+            "702.310": "CARDINAL",
+            "JETDEP": "ORG"
+        }
+    }
+}

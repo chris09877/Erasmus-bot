@@ -1,0 +1,62 @@
+{
+    "name": "data-gedreven-besluitvorming---",
+    "sentences": {
+        "implementeren AI organisatie vergen structureren": {
+            "AI": "ORG"
+        },
+        "aanpak": {},
+        "data first mindset belang mindset": {},
+        "duidelijk workshop half dag leren data": {
+            "half": "TIME"
+        },
+        "First Mindset leiden besluitvorming baseren datum buikgevoel \n opleiding gaan 7 november 2024 \n ": {
+            "datum": "PERSON",
+            "7 november 2024": "DATE"
+        },
+        "opleiding gaan 7 november 2024 \n sessie 1/2 dag behandelen": {
+            "7 november 2024": "DATE",
+            "1/2": "CARDINAL"
+        },
+        "volgen zaak \n workshop business": {},
+        "vraagstuk": {},
+        "datum drijven manier aanpakken kennis": {},
+        "zaak argumenteren beslissing nemen \n ": {},
+        "Doelpubliek \n Leidinggevenden \n ": {},
+        "Praktisch informatie \n prijs € 149 \n Campus Kaai \n Campus kaaiis thuis student Design": {
+            "149": "CARDINAL",
+            "Campus Kaai": "FAC",
+            "Campus": "FAC",
+            "Design": "GPE"
+        },
+        "Technologie musical": {},
+        "RITCS bruisen IT- Kunstcampus volop bezig uitbreiding": {
+            "RITCS": "ORG",
+            "Kunstcampus": "EVENT"
+        },
+        "campus": {
+            "campus": "FAC"
+        },
+        "Kaai": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "nieuwbouw renovatie bouwen onder veel theaterzaal hightechfilmstudio \n Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "vorming kosten": {},
+        "€ 149 \n inschrijven   ": {
+            "149": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "name": "molecular-design-and-gene-editing-lab",
+    "sentences": {
+        "Gene editing verzamelnaam reeks revolutionair technologie snel verandering erfelijk materiaal leven wezen overbrengen": {},
+        "principe erfelijk materiaal": {},
+        "DNA plant": {
+            "DNA": "ORG"
+        },
+        "microben": {},
+        "dier mens": {},
+        "Wetenschapper technologie": {},
+        "heel specifiek één dNA-letter veranderen reeks meerdere DNA-letter vervangen reeks welbepalen n aan- uitschakelen CRISPR-Cas": {
+            "één": "CARDINAL"
+        },
+        "technologie": {},
+        "zorgen jaar stroomversnelling onderzoek": {},
+        "levenswetenschapop techniek genoombewerking stellen": {},
+        "CRISPR-Cas": {},
+        "wetenschapper staat heel precies dNA-veranderingen onderbrengen spraak inbouwen soortvreemd gen": {},
+        "CRISPR-Cas blinken opzicht eerd genoombewerkingstechnieak goedkoper snel efficiënt": {},
+        "veelzijdig mechanisme ontelbaar labs heel wereld gebruiken plaats onderzoeksdoeleinden naast basisonderzoek technologie verfijnden gereedschap": {},
+        "gentherapie gewasveredeling via navorming alvast onderzoekscompetentie toepassen": {},
+        "moleculair techniek aanscherpen \n Lesgevers \n ": {
+            "Lesgevers": "GPE"
+        },
+        "Jolien MunckMaster": {
+            "Jolien MunckMaster": "PERSON"
+        },
+        "bio-ingenieursswetenschappen": {},
+        "Cel- genbiotechnologiePhD": {},
+        "farmaceutisch wetenschap oncolytisch Virussen kankertherapieLector \n Jolien Munck \n ": {
+            "Jolien Munck": "PERSON"
+        },
+        "Tom PeetersMaster biologiePhD moleculair celbiologie": {
+            "Tom PeetersMaster biologiePhD moleculair": "PERSON"
+        },
+        "signaaltransductie Saccaromyces": {
+            "Saccaromyces": "NORP"
+        },
+        "cerevisiaePostdoc synthetisch biologie Boolean Gates Saccaromyces cerevisiaeLector/senior": {
+            "Boolean Gates": "ORG"
+        },
+        "onderzoeker": {},
+        "OpenBioLab \n ": {},
+        "Tom Peeters \n ": {
+            "Tom Peeters": "PERSON"
+        },
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding bestaan 45 lesur starten": {
+            "45": "CARDINAL"
+        },
+        "inhet 1 semester academiejaar": {
+            "1": "CARDINAL"
+        },
+        "2024-2025 \n ": {
+            "2024-2025": "DATE"
+        },
+        "1 semester academiejaar 2024-2025 \n ": {
+            "1": "CARDINAL",
+            "2024-2025": "DATE"
+        },
+        "uitMaken onderdeel postgraduaat Applied": {
+            "Applied": "PERSON"
+        },
+        "bio-informatics research \n uitMaken": {},
+        "onderdeel postgraduaat Applied": {
+            "Applied": "PERSON"
+        },
+        "bio-informatics research \n navorming doceren Engels anderstalig deelnemen deels online deels campus": {
+            "Engels": "NORP"
+        },
+        "cursusmateriaal Engels beschikbaar \n klonering uitvoeren Kanin vitroenin vivoeen": {
+            "Engels": "NORP",
+            "Kanin vitroenin": "PERSON"
+        },
+        "CRISPR Cas genoommodificatie": {},
+        "protocol uitvoeren \n Attest \n slagen": {
+            "Attest": "GPE"
+        },
+        "verwerven": {},
+        "5 ECTSAttest": {
+            "5": "CARDINAL"
+        },
+        "deelname ingeval deelnemen evaluatievormen \n opleiding deels online deels   Campus": {
+            "Campus": "FAC"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "contact \n Adres": {},
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Openingsuren": {},
+        "studentensecretariaan \n Totaal kostprijs volledig pakket 1000 euro \n voorkennis": {
+            "1000": "CARDINAL",
+            "euro": "PERSON"
+        },
+        "Standaard labotechnieken moleyculair biologie aseptisch werk": {},
+        "PCR gelelektroforeos restrictie": {
+            "PCR": "ORG"
+        },
+        "digestie \n voorkennis": {},
+        "silico designen primer plasmiden kloneringsstrategie CRISPR Cas9": {
+            "CRISPR Cas9": "ORG"
+        },
+        "protocol doceren Molecular design and gen editing": {
+            "Molecular": "PERSON"
+        },
+        "silico \n inschrijven": {},
+        "Molecular design and gen editing the lab   ": {
+            "Molecular": "PERSON"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving    ": {
+            "Jeop": "PERSON"
+        },
+        "inschrijving volledig online afrond \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "name": "graduaat-logies-restaurant-cateringmanagement",
+    "sentences": {
+        "logies- restaurant- cateringsector bont allegaar hotel bed": {},
+        "breakfasts": {},
+        "recreatieparak evenementenhallen cateringbedrijv sportcentrum traiteurdiensat": {},
+        "Én iedereen zoek": {},
+        "naarexpertsin managen onthaal": {},
+        "service": {},
+        "eetgelegenhed   ": {},
+        "Word expren": {},
+        "afstuderen \n expert \n\n\n ": {},
+        "vak opleiding voorschotelen krijgen rol ophangen rol kiezen waarjouw talentenook liggen blijven één constante gastvrijheid leiden onvergetelijk guest": {
+            "één": "CARDINAL"
+        },
+        "experience \n talent \n troeven \n tweejarig graduaat": {},
+        "Logies- Restaurant- Cateringmanagement Erasmushogeschool Brussel flexibel praktisch opleiding": {
+            "Logies-": "ORG",
+            "Restaurant-": "ORG",
+            "Brussel": "GPE",
+            "flexibel praktisch": "PERSON"
+        },
+        "waaringastvrijheiden deunieek belevingvoor klant/gast centraal staan \n gastvrijheid \n uniek beleving \n internationaal stage \n sterrenrestaurants-": {},
+        "hotel \n ": {},
+        "professioneel persoonlijk ontwikkeling \n inclusief onderwijs \n divers uitbreiden Brussels werkveld \n bieden eentweejarig opleidingdie volledig beroepspraktijk afgestemd zowel twee jaar opleiding loop jeuitgebreid stage binnen- buitenland stages kans kennis les meteen zetten praktijk loop jaar krijgen uitbreiden tijd ontdekken voorkeuren liggen start twee jaar gaan kennis": {
+            "Brussels": "LANGUAGE",
+            "twee jaar": "DATE"
+        },
+        "specialiseren deafstudeerrichting kiezen": {},
+        "Logies Restaurant": {
+            "Logies Restaurant": "PERSON"
+        },
+        "catering \n tweejarig opleiding \n uitbreiden stage binnen- buitenland \n afstudeerrichting kiezen": {},
+        "Logies Restaurant catering \n documentgeven overzicht vak per jaar \n\n\n ": {},
+        "Interculturaliteit \n Spaans \n ": {
+            "Spaans": "NORP"
+        },
+        "Duits \n ECTSfiche lessenrooster \n 1 jaar \n graduaat noemen stages": {
+            "Duits": "NORP",
+            "1 jaar": "DATE"
+        },
+        "welwerkplekler leren werkplek proven keer werkveld via operationeel stage waarbij actief meedraaien Belgisch zaak keuze periode 6 week \n werkplekleren \n ": {
+            "Belgisch": "NORP",
+            "6 week": "DATE"
+        },
+        "stageplaat België \n 2 jaar \n einde twee jaar focussen": {
+            "België": "GPE",
+            "2 jaar": "DATE",
+            "twee jaar": "DATE"
+        },
+        "managementskills 9 week leidinggevend functie": {
+            "9 week": "DATE"
+        },
+        "uitvoeren afdeling kiezen werkplek wenst periode verlengen 17 week \n graag proef horecasector": {
+            "17 week": "DATE"
+        },
+        "hetbuitenland": {},
+        "werkplekleren": {},
+        "2 jaar ondersteunen via beurs erasmusprogramma ideaal manier vreemd taal praktijk oefenen land waarvan houden leren kennen been leren staan \n buitenland \n ": {
+            "2 jaar": "DATE"
+        },
+        "Stageplaatsen buitenland \n\n Werkplekleren \n Werkplekleren verzamelnaam vorm vanpraktijkgericht leren naast geken stage vormen projectwerk duaal leren": {
+            "Werkplekleren \n ": "WORK_OF_ART",
+            "Werkplekleren": "NORP"
+        },
+        "workshops": {},
+        "netwerkevents bedrijfsbezoeken etcetera graduaatsopleiding scheidingslijn trekken theorie praktijk student leren jaar soms week opleiding toepassen omzetten praktijk \n praktijkgericht leren \n diploma graduaat": {},
+        "Logies- Restaurant- Cateringmanagement openen veel deur vraag ondernemen profiel hotel- cateringsector groot vrijetijdsssector nood dynamisch profiel oog detail evenwicht vinden veeleisend klant": {
+            "Logies-": "ORG",
+            "Restaurant-": "ORG"
+        },
+        "commercieel belang bedrijf naast degelijk technisch kennis beschik communicatief commercieel vaardigheid \n ": {},
+        "Erasmusstage afstuderen extra internationaal ervaring \n afstudeeren student kiezen studie": {},
+        "uitvullen extra internationaal ervaring jaar organiseren opleiding": {},
+        "Erasmusstages": {
+            "Erasmusstages": "PERSON"
+        },
+        "afstuderen afstuderen opleiding extra stages metbeurs 6 12 maandenzijn student enorm verrijking vergroten kans carrièremogelijkhed student \n beurs 6 12 maand \n werk \n graduaatsdiploma zak afvragen": {
+            "6": "CARDINAL",
+            "12": "CARDINAL"
+        },
+        "job vinden vraag omgeving graag talent benutten zowel binnen- buitenland": {
+            "job": "ORG"
+        },
+        "kunnen slag": {},
+        "hotelketen": {},
+        "recreatieparak": {},
+        "evenementhal restaurant": {},
+        "cateringbedrijve sportcentrum": {},
+        "woonzorgcentra zelfstandig zaak opstarten \n studeren \n ": {},
+        "EhB via verkort traject bachelor behalen \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Bloemenhof \n\n ": {
+            "Bloemenhof \n\n ": "EVENT"
+        },
+        "Campus Kanal \n\n ": {
+            "Campus Kanal": "FAC"
+        },
+        "Dankzij voordeligeMIVB-abonnementrijd": {},
+        "heel jaar": {},
+        "slechts12 eurodoor stad": {},
+        "Gebruik fiets parkeren gemak fiets vanVilloin": {
+            "Gebruik": "GPE"
+        },
+        "station tegenover campus jaarabonnement deelfiet kosten 35 euro \n MIVB-abonnement \n 12 euro \n Villo \n hieronder vinden kort overzicht kost": {
+            "35 euro \n MIVB-abonnement": "DATE",
+            "12": "CARDINAL",
+            "euro \n Villo": "PERSON"
+        },
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n berekening studiegeld gebeuren basis onderstaan tarief toepassing hoogschool \n vast gedeelte \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student": {},
+        "23-'24": {
+            "23-'24": "DATE"
+        },
+        "60 studiepunt \n ": {},
+        "Nietbeurstariefstudent \n € 1.092,1 \n Bijna-beurstariefstudent \n € 576,1 \n beurstariefstudent \n € 128,8 \n opleiding binden   kost \n Studiefinanciering \n ": {
+            "1.092,1": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL"
+        },
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n Workshopweek \n Benieuwd eraan toegaan campus": {
+            "Workshopweek \n Benieuwd": "WORK_OF_ART"
+        },
+        "goesting": {},
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven   ": {},
+        "Top paginakan start inschrijving vinden   belangrijk info terug": {},
+        "orde brengen hoeveel kosten studeren leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving": {},
+        "volledig digitaal afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n Toelatingsvoorwaard \n diploma secundair onderwijs starten slagen": {},
+        "hettoelatingsonderzoek \n zoek": {
+            "hettoelatingsonderzoek \n zoek": "PERSON"
+        },
+        "bedrijf willen partneren": {},
+        "stageplek mentor project": {},
+        "gastsprek seminarie   ": {},
+        "bedrijf catering logie maken krijgen terecht 5-sterrenhotel catering gevangeniswezen": {},
+        "Contacteer \n": {}
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "health-coach",
+    "sentences": {
+        "preventief bewegen bewegen doktersadvies nood begeleiding opstellen": {},
+        "aanpassen dieet combinatie persoonlijk bewegingsadvie": {},
+        "dieetkundigen intensief opleiding genieten": {},
+        "voedingsadvie ervaring": {},
+        "bewegingsadvie \n opleiding": {},
+        "Voedings- Dieetkunde lerarenopleiding lichamelijk opvoeding Bewegingsrecreatie Erasmushogeschool Brussel": {
+            "Voedings-": "ORG",
+            "Dieetkunde": "ORG",
+            "Bewegingsrecreatie": "GPE",
+            "Erasmushogeschool Brussel": "ORG"
+        },
+        "bundelen enthousiast kracht samenwerking": {},
+        "Fitness Organisatie DFO postgraduaat behaal kwaliteitvol trainerscertificaat fitnesssector": {
+            "Fitness Organisatie": "PERSON"
+        },
+        "opleiding": {},
+        "succes afronden één pionier zowel voedings- bewegingsadvie maat basis praktijk uitbouwen \n doelstelling \n Student": {
+            "één": "CARDINAL"
+        },
+        "opleien bewegingsexperten/": {
+            "bewegingsexperten/": "ORG"
+        },
+        "-coaches \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding   ": {},
+        "starten": {},
+        "op18 september 2023en bestaan uit2/3e afstandsonderwijs 100u effectief stage \n 18 september 2023 \n\n opleiding opbouwen 6 opleidingsonderdel": {
+            "september 2023en": "DATE",
+            "uit2/3e": "WORK_OF_ART",
+            "100u effectief": "DATE",
+            "18 september 2023": "DATE",
+            "6": "CARDINAL"
+        },
+        "OLODS \n ": {
+            "OLODS": "ORG"
+        },
+        "11112 \n 11 \n Stage \n 200 uur waarvan 100 effectief 100 voorbereiding": {
+            "11112": "DATE",
+            "11": "CARDINAL",
+            "200 uur": "TIME",
+            "100": "CARDINAL"
+        },
+        "+": {
+            "+": "CARDINAL"
+        },
+        "Nazorg \n ": {},
+        "Attest \n Achteraf krijgen attest": {
+            "Attest \n Achteraf": "PERSON"
+        },
+        "Postgraduaat Health coach \n ": {
+            "Postgraduaat Health": "EVENT"
+        },
+        "Campus Kanal \n\n VUB \n ": {
+            "Campus Kanal": "FAC",
+            "VUB": "ORG"
+        },
+        "835,60 euro": {
+            "835,60 euro": "DATE"
+        },
+        "41SP + 300 euro": {
+            "41SP + 300 euro": "DATE"
+        },
+        "handboekenNa inschrijving ontvang factuur    info betalingsvoorwaren vinden jehier \n zwieren verschillend moment jaar deur campus open welkom toffe": {},
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n Check altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Postgraduaat Health Coach    ": {
+            "Postgraduaat Health Coach": "FAC"
+        },
+        "Top": {},
+        "24 juni 2023kan Jeop pagina": {
+            "24 juni": "DATE",
+            "Jeop": "PERSON"
+        },
+        "start inschrijving vinden": {},
+        "belangrijk info terug": {},
+        "orde brengen hoeveel kosten studeren leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig online afrond langskomen studentensecretariaat volgen infodag \n 24 juni 2023 \n Diploma voeding dieetleer bachelor \n": {
+            "24 juni 2023": "DATE"
+        }
+    }
+}

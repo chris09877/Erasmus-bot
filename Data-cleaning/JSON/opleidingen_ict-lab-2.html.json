@@ -1,0 +1,120 @@
+{
+    "name": "ict-lab-",
+    "sentences": {
+        "medisch professional": {},
+        "bijleren vlak nieuw IT-technieken vakgebied \n labo impact digitaal revolutie heen denk analyseren enorm hoeveelheid datum snel sequencing-methoden": {},
+        "krachtig": {},
+        "computermodell gedrag": {},
+        "cel": {},
+        "bestuderen": {},
+        "chemisch proces": {},
+        "organisme analyseren verandering recent zien ontwikkeling creëren nieuw uitdaging \n cursus haken": {},
+        "ICT the": {
+            "ICT the": "ORG"
+        },
+        "Lab 1 starten": {
+            "1": "CARDINAL"
+        },
+        "geavanceerd modeleertechnie R. Daarnaast introduceren Python enerzijds voorzien": {
+            "R.": "CARDINAL"
+        },
+        "laboranten basiskennis datamanagement Python machine learning zodat actief slag toepassing willen": {
+            "Python": "PERSON"
+        },
+        "key-operatoren opleien brug vormen medisch farmaceutisch/biologisch laborant MLT/FBT ICT ers \n focus liggen managen structurer organiseren datum daarnaast besteden uitbreiden aandacht analyseren gegeven via Python Python leren zowel via bestanden csv xlsx": {
+            "farmaceutisch/biologisch": "NORP"
+        },
+        "Endatabankendata": {
+            "Endatabankendata": "PERSON"
+        },
+        "correct verwerken maken kennis vernuftigemachine": {},
+        "learningtechniek": {},
+        "toepassen": {},
+        "medisch sector \n focus liggen managen structurer organiseren datum \n nalyseren": {
+            "datum \n nalyseren": "PERSON"
+        },
+        "gegeven via Pytho \n databanken \n machine": {
+            "Pytho": "PERSON"
+        },
+        "learning \n leren \n ": {},
+        "Lesprogramma \n opleiding starten infebruari 2024    sessie gaan telkens dinsdag voormiddag \n februari 2024 \n ": {
+            "Lesprogramma \n opleiding": "PERSON",
+            "2024": "DATE",
+            "dinsdag": "DATE",
+            "februari 2024": "DATE"
+        },
+        "uitMaken": {
+            "uitMaken": "PERSON"
+        },
+        "onderdeel postgraduaat Applied": {
+            "Applied": "PERSON"
+        },
+        "bio-informatics research \n uitMaken": {},
+        "bio-informatics research \n programma \n ": {},
+        "Attest \n ": {
+            "Attest \n ": "PERSON"
+        },
+        "Attest": {
+            "Attest": "GPE"
+        },
+        "deelname slag   ": {
+            "slag   ": "EVENT"
+        },
+        "deelname evaluatievormen schriftelijk examen 50% werkstuk": {
+            "50%": "PERCENT"
+        },
+        "50%)Deelnemers": {
+            "50%)Deelnemers": "DATE"
+        },
+        "Postgraduaat ICT-Biotechnology": {},
+        "onderdeel inschrijve slag ontvangen creditbewijs 5 studiepunten).Je manier gespreid meerdere jaar": {
+            "5": "CARDINAL"
+        },
+        "voldoende creditbewijs verzamelen alsnog PG getuigschrift bekomen bezit bachelor- Masterdiploma \n slag \n ": {
+            "Masterdiploma": "GPE",
+            "slag \n ": "EVENT"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "Nijverheidskaai": {
+            "Nijverheidskaai": "GPE"
+        },
+        "1701070": {
+            "1701070": "DATE"
+        },
+        "Brussel \n \n ": {
+            "Brussel": "GPE"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Laarbeeklaan": {
+            "Laarbeeklaan": "PERSON"
+        },
+        "1211090": {
+            "1211090": "DATE"
+        },
+        "Jette \n \n Online \n inschrijvingsgeld bedragen": {
+            "Jette": "GPE"
+        },
+        "450 euro \n inschrijven": {
+            "450 euro \n inschrijven": "DATE"
+        },
+        "ICT the lab 2   ": {
+            "ICT": "ORG",
+            "the lab": "WORK_OF_ART",
+            "2": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond \n juni 2024 \n": {
+            "Jeop": "PERSON",
+            "juni 2024": "DATE"
+        }
+    }
+}

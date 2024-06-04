@@ -1,0 +1,190 @@
+{
+    "name": "graduaat-informatiebeheer",
+    "sentences": {
+        "tweejarig opleidingbereiden helemaal functie bibliotheek- archief- informatiedeskundig erfgoedregistrator dankzij enormevaktechnisch kennisbeheer vlot": {},
+        "informatie zorgen beschikbaar gebruiker vraag": {},
+        "probleem help": {},
+        "klantvriendelijk deskundig deinteractieveopleiding liggen nadruk": {},
+        "praktijk brengen drie opleiding werkvloer": {
+            "drie": "CARDINAL"
+        },
+        "informatiebeheer twee natuur": {
+            "twee": "CARDINAL"
+        },
+        "helemaal arbeidmarkt \n tweejarig opleiding \n vaktechnisch kennis \n interactief \n\n\n opleiding": {},
+        "5 leerlijan \n volgen les dinsdag woensdag donderdag namiddag s avond doorlooppen": {
+            "5": "CARDINAL",
+            "namiddag": "DATE",
+            "avond": "TIME"
+        },
+        "totaal 30 opleidingsonderdel 120": {
+            "30": "CARDINAL",
+            "120": "CARDINAL"
+        },
+        "studiepunt   interesse lessenrooster neemcontactop \n bred": {},
+        "sector \n onderdeel breed sector maken kennis werkvloer": {},
+        "facet ontdekken soort bibliotheek archieven informatiecentrum krijgen inzicht erfgoedinstelling beroepsvereniging kortom dé cultureel maatschappelijk context waarin informatiebeheerder terechtkomen daarnaast maken belangrijk technisch competentie \n digitalisering \n gedeelte digitalisering voorbereiden toekomst leren vlot werken": {},
+        "courant kantoorsoftwaar verkenen programmeer- markuptaal opmaaksoftware slot verdiep belangrijk": {
+            "courant": "GPE"
+        },
+        "digitaliserings- automatiseringstechnieken maken kennis gevaar valkuilen daarvan \n publiekswerking \n publiekswerking cruciaal werkvloer tellen gedeelte": {},
+        "34 studiepunt leren proactief nadenken manier waarop informatieaanbod doelgroepen bereiken doen vijf realistisch echt project werken \n ": {
+            "34": "CARDINAL",
+            "vijf": "CARDINAL"
+        },
+        "Soft skills \n ": {
+            "Soft": "ORG"
+        },
+        "ideaal publiekswerker werken goed samen communiceren vlot leggen gemakkelijk contact daarnaast weten": {},
+        "gebruiker wegwijs maken expertise leren gedeelte soft skills": {},
+        "focust": {},
+        "één twee vaardigheid passen project \n Professioneel ontwikkeling \n lopen stage laagdrempelig instelling openbaar bibliotheek stap comfortzoon gaan slag": {
+            "één": "CARDINAL",
+            "twee": "CARDINAL",
+            "Professioneel": "FAC"
+        },
+        "uitdagen instelling": {},
+        "wetenschappelijk bibliotheek archief kiezen twee jaar lopen stage type instelling waarin graag willen specialiseren \n\n\n ": {
+            "twee jaar": "DATE"
+        },
+        "drie afstudeerrichting \n jaar kiezen afstudeerrichting Bibliotheek Archief Erfgoedregistratie": {
+            "drie": "CARDINAL",
+            "Bibliotheek Archief": "GPE"
+        },
+        "goed 32 studiepunt specialiseer één drie deelsectoren vak volgen samen medestudent afstudeerrichting zodat breed vormen": {
+            "32": "CARDINAL",
+            "één": "CARDINAL",
+            "drie": "CARDINAL"
+        },
+        "informatieprofessional snel": {},
+        "slag": {},
+        "sector \n ": {},
+        "Bibliotheek \n ": {
+            "Bibliotheek": "LOC"
+        },
+        "Archief Erfgoedregistratie \n basis afstudeerrichting": {},
+        "Bibliotheek Archief Erfgoedregistratie \n betreffen afstudeerrichting": {
+            "Bibliotheek": "LOC"
+        },
+        "Erfgoedregistratie voorbehoud": {},
+        "goedkeuring": {},
+        "Vlaamse Regering": {
+            "Vlaamse Regering": "ORG"
+        },
+        "\n basis afstudeerrichting": {},
+        "Vlaamse Regering \n ": {
+            "Vlaamse Regering": "ORG"
+        },
+        "ECTSfiche lessenrooster \n werk \n ": {},
+        "ambitieus groei snel verantwoordelijk functie bibliothecaris functioneel beheerder": {
+            "ambitieus": "PERSON"
+        },
+        "Sharepoint- informatiebeheerder \n bekijk website": {},
+        "beroepsverenigingVVBADof": {},
+        "steunpuntFAROvoor Vacatures": {
+            "Vacatures": "PERSON"
+        },
+        "informatie sector \n studeren \n extra afstudeerrichting \n opleiding kiezen één drie afstudeerrichting Bibliotheek Archief Erfgoedregistratie": {
+            "één": "CARDINAL",
+            "drie": "CARDINAL",
+            "Bibliotheek Archief": "FAC"
+        },
+        "Kriebelt afstudeerrichting": {},
+        "voltooien volgen extra traject 32 studiepunt \n bachelor \n Start deprofessionel": {
+            "32": "CARDINAL"
+        },
+        "bachelor Sociaal Werk krijgen vrijstelling volgen programma 94 studiepunt bachelor Sociaal werk volwassenen kiezen twee afstudeerrichting maatschappelijk werk": {
+            "94": "CARDINAL",
+            "twee": "CARDINAL"
+        },
+        "Sociaal-cultureel werk regulier": {},
+        "dagprogramma volgen afstudeerrichting sociaal-cultureel werk programma": {},
+        "omvatten": {},
+        "104 studiepunt \n ": {
+            "104": "CARDINAL"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Leuven \n\n ": {
+            "Leuven": "GPE"
+        },
+        "contact \n adres": {},
+        "Interleuvenlaan 5": {
+            "Interleuvenlaan": "GPE",
+            "5": "CARDINAL"
+        },
+        "3001": {
+            "3001": "DATE"
+        },
+        "Heverlee \n ": {
+            "Heverlee \n ": "EVENT"
+        },
+        "Openingsuren studentensecretariaan \n werk studeren \n werktraject ontwikkelen iedereen": {},
+        "deeltijds/voltijds werken studeren combineren Contacteer": {
+            "Contacteer": "GPE"
+        },
+        "jetrajectbegeleiderom mogelijk": {},
+        "faciliteit   digitaal onderwijs bespreken \n Starten februari \n academiejaar": {
+            "februari": "DATE"
+        },
+        "starten zin volledig academiejaar verliezen": {},
+        "opleiding start februari bekijk via pagina programma \n hieronder vinden kort overzicht kost": {},
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24 60 studiepunt \n ": {
+            "23-’24 60 studiepunt": "DATE"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n € 1.092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n € 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n Opleidingsgebonden   kost \n vinden overzicht deopleidingsgebonde kostenper jaar \n Studiefinanciering \n ": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL",
+            "1.092,1": "CARDINAL",
+            "Bijna-beurstariefstudent": "ORG",
+            "282,1": "PERCENT",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL"
+        },
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "Erasmushogeschool": {},
+        "27 februari 2024": {
+            "27 februari 2024": "DATE"
+        },
+        "college bestuur": {},
+        "EhB": {},
+        "beslissen opleiding oprichten academiejaar": {},
+        "2024-2025.Bekijk opleiding volgen \n 27 februari 2024": {
+            "2024-2025.Bekijk": "DATE",
+            "27 februari 2024": "DATE"
+        },
+        "2024-2025.Bekijk opleiding volgen \n zoek": {
+            "2024-2025.Bekijk": "DATE"
+        },
+        "bedrijf willen samenwerken stageplek mentor project": {},
+        "gastsprek seminarie": {},
+        "bedrijf informatieprofessionals terecht \n": {}
+    }
+}

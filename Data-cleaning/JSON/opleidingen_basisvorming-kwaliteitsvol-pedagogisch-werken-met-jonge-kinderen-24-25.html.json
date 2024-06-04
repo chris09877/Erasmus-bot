@@ -1,0 +1,83 @@
+{
+    "name": "basisvorming-kwaliteitsvol-pedagogisch-werken-met-jonge-kinderen--",
+    "sentences": {
+        "Ondersteun jong kind": {
+            "Ondersteun": "GPE"
+        },
+        "klas- buitenschools": {},
+        "context": {},
+        "pedagogisch vooropleiding": {},
+        "Maak": {},
+        "kennis": {},
+        "basic": {},
+        "5-delig basisvorming \n Modules \n ": {},
+        "Module 1": {
+            "Module 1": "PERSON"
+        },
+        "Pedagogisch klimaat creëren september 24 1 volledig dag \n ": {
+            "september 24 1 volledig dag": "DATE"
+        },
+        "Module 2": {
+            "Module 2": "PERSON"
+        },
+        "Kwalitatieve talig interactie november": {
+            "november": "DATE"
+        },
+        "24    1 volledig dag \n \n Module 3": {
+            "24": "CARDINAL",
+            "1": "CARDINAL",
+            "Module 3": "PERSON"
+        },
+        "Muzisch vorming cultuureducatief activiteit   januari 24 1 volledig dag \n ": {
+            "24 1": "TIME"
+        },
+        "Module 4": {
+            "Module 4": "PERSON"
+        },
+        "Interprofessioneel samenwerken maart 24   1 volledig dag \n ": {
+            "Interprofessioneel": "GPE",
+            "maart 24   ": "DATE",
+            "1": "CARDINAL"
+        },
+        "Module 5": {
+            "Module 5": "PERSON"
+        },
+        "Coachingsbezoek plan samenspraak": {
+            "Coachingsbezoek": "PERSON"
+        },
+        "½ dag \n certificatie \n ": {},
+        "via basisvorming proef meteen verkorten bacheloropleiding kleuteronderwijs pedagogie": {},
+        "jong kind termijn \n leren \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding gaan 2024-2025:september mei 9 sessie \n september mei 9 sessie \n Attest \n beëindigen opleiding krijgen attest": {
+            "2024-2025:september mei": "DATE",
+            "9": "CARDINAL",
+            "september mei": "DATE",
+            "Attest": "GPE"
+        },
+        "Basisvorming kwaliteitvol pedagogisch werk": {},
+        "jong kind \n ": {},
+        "Campus Kanal \n\n ": {
+            "Campus Kanal": "FAC"
+        },
+        "inschrijvingsgeld bedragen": {},
+        "450 euro 5 dag 1 coachingsbezoek werkcontext \n Diploma/attest secundair onderwijs \n inschrijven": {
+            "450 euro 5 dag": "DATE",
+            "1": "CARDINAL"
+        },
+        "Basisvorming": {},
+        "Kwaliteitsvol pedagogisch werk": {},
+        "jong kind   ": {},
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

@@ -1,0 +1,845 @@
+{
+    "name": "biomedische-laboratoriumtechnologie",
+    "sentences": {
+        "gezondheidzorg boeien sector uitbreiding": {},
+        "spectaculair evolutie": {},
+        "moleculair biologie": {},
+        "DNAtechnologie": {},
+        "stuwen weten­schappelijk onderzoek": {},
+        "geneeskund farmacie": {},
+        "biotechnologie forensisch wereld zorgen technologisch vooruitgang klinisch biologie productie": {},
+        "farmaceutisch specialiteit bioindustrie \n\n\n ": {},
+        "troeven": {},
+        "opleiding \n ": {},
+        "jaar": {},
+        "afstudeerrichting keuzetraject \n opleiding": {},
+        "Biomedische Laboratoriumtechnologie Vlaanderen bieden breed opleiding hoeven jaar afstudeerrichting kiezen twee jaar keuze maken dankzij kijkstage   medisch laboratoriumtechnologie MLT offarmaceutisch biologisch laboratoriumtechnologie FBT jaar": {
+            "Biomedische": "NORP",
+            "Laboratoriumtechnologie": "GPE",
+            "Vlaanderen": "GPE",
+            "twee jaar": "DATE",
+            "MLT": "ORG",
+            "FBT": "EVENT"
+        },
+        "boeien keuzetraject forensisch onderzoek lezen hieronder \n medisch laboratoriumtechnologie \n farmaceutisch biologisch laboratoriumtechnologie \n oefenen labo \n nemen mee wetenschap gezondheidzorg blijven neus boek zitten semester gaan slag": {},
+        "labo starten jaar twee project gaan samenwerken student \n Sterk begeleiding \n staan docent begeleiden volledig opleiding": {
+            "labo": "CARDINAL",
+            "twee": "CARDINAL"
+        },
+        "ervaring": {},
+        "labo bachelorproefstage stomen helemaal beroep verschillend kant mee \n Sterk diploma \n Uniek keuzetraject forensisch onderzoek \n jaar    ": {
+            "Uniek": "NORP"
+        },
+        "kiezen boeien keuzetraject": {},
+        "Forensisch onderzoek verdiepen hiermee verschillend schakel forensisch ket \n Forensisch onderzoek \n\n deeltraject 1 \n deeltraject 2 \n deeltraject 3 \n deeltraject drie stage lopen laboratoria technisch": {
+            "1": "CARDINAL",
+            "2": "CARDINAL",
+            "3": "CARDINAL",
+            "drie": "CARDINAL"
+        },
+        "wetenschappelijk politie": {},
+        "En/ forensisch labo": {
+            "En/": "PERSON",
+            "labo": "PERSON"
+        },
+        "’s \n vier domein \n bieden twee jaar vak vier belangrijk domein \n chemie kwaliteitsbeheer \n   chemie": {
+            "vier": "CARDINAL",
+            "twee jaar": "DATE"
+        },
+        "kwaliteitsbeheer   starten basisbegripp principe chemie krijgen inzicht opbouw": {},
+        "eigenschapep": {},
+        "naamgeving   eenvoudig anorganisch verbinding leren chemisch reactievergelijking schrijven chemisch rekenen belang kwaliteitssysteem geduid onderbouw doorheen volledig opleiding \n klinisch moleculair diagnostiek \n ": {},
+        "Klinische moleculair diagnostiek   concentreren analyse lichaamsvochat bacterie": {
+            "Klinische": "NORP"
+        },
+        "opsporen bloedcellen bestuderen zodat arts juist diagnose stellen behandeling opstarten \n biotechnologie \n   biotechnologie   maken kennis": {
+            "juist diagnose": "PERSON"
+        },
+        "DNA aspect    moleculair genetica Bio-informatica": {
+            "DNA": "ORG",
+            "Bio-informatica": "GPE"
+        },
+        "gentechnologie leren onderzoekstechnieken   research   bod komen \n onderzoek": {},
+        "internationalisering \n leerlijn wetenschappelijk onderzoeksvaardighed ontwikkelen aanraking komen": {},
+        "researchdomein internationaal project": {},
+        "verwerf internationaal intercultureel competentie taalkennis": {},
+        "wereldburgerschap persoonlijk groei \n\n\n algemeen chemie leren chemisch rekenen": {},
+        "chemisch": {},
+        "fysisch basisbegripp principe krijgen inzicht opbouw": {},
+        "naamgeving   eenvoudig anorganisch verbinding   leren   chemisch reactievergelijking correct schrijven stoechiometrisch berekening maken \n analytisch chemie leren onder ander pH": {},
+        "waterig oplossing zuren basen": {},
+        "zouten buffer berekenen punt": {},
+        "titratiecurve doorberekenen titratie sterk zwak zuur   zuren basen": {},
+        "redoxreactie schrijven verband zien elektrochemie": {},
+        "redoxreactie \n vak leren regel naamgeving": {},
+        "koolstofchemie daarnaast komen fysisch chemisch": {},
+        "eigenschapep belangrijk klas vb. alkanen alkenen alcoholen   bod alsook dagdagelijks toepassing organisch verbinding   leren kennis inzicht verwerven structuur": {},
+        "voornaam biochemisch verbinding": {},
+        "koolhydrat eiwit": {},
+        "vet basiskennis": {},
+        "klinisch biologie 1 leren metaboliseeren": {
+            "1": "CARDINAL"
+        },
+        "lichaam \n kwaliteitsbeheer 1 leren basisbegripp principe": {
+            "1": "CARDINAL"
+        },
+        "implementatie onderhoud   belang kwaliteitssysteem leren": {},
+        "SOPs standard operating": {
+            "SOPs standard operating": "ORG"
+        },
+        "procedure": {},
+        "toepassing": {},
+        "laboratoria bv.   afvalbeheer": {},
+        "toepassen practica krijgen tevens inzicht beschrijven statistiek lineair regressie normaalverdeling kansberekening maken kennis   ": {},
+        "hypothesetest p-waarden e.d. leren": {},
+        "Excel gegeven statistisch verwerken \n ": {},
+        "Lab chemie": {},
+        "1 kennen beheer labovaardighed algemeen chemie kennen basisprincipe courant biomedisch laboratoriumtechniek titratie DLC UV-VIS kennen veiligheidsvoorschrift afvalregel verschillend chemisch reactietype basis experiment bepalen \n experiment": {
+            "1": "CARDINAL",
+            "courant": "GPE",
+            "DLC": "ORG"
+        },
+        "Integrationlab 1 komen principe vak chemie klinisch biologie statistiek samen kwalitatief kwantitatief": {
+            "1": "CARDINAL"
+        },
+        "analyses uitvoeren klinisch stalen": {},
+        "leren resultaat statistisch wijze verwerken": {},
+        "opscherpen schriftelijk vaardigheden \n cel- bloedleer krijgen enerzijds inzicht algemeen functie cel leren sleutelbegrip kennen fysiologie bestuderen samenstelling": {},
+        "eigenschapep bloed": {},
+        "routinetest": {},
+        "labo morfologie": {
+            "labo": "PERSON"
+        },
+        "bloedcelal staan centraal \n microbiologie leren morfologie": {},
+        "basisgenetica": {},
+        "pro- eukaryote micro-organismen krijgen": {},
+        "inzicht taxonomie naamgeving": {},
+        "classificatie": {},
+        "micro-organismen": {},
+        "viruss \n opleidingsonderdeel verwerf inzicht principe chemisch analyses uitvoeren lichaamsvocht serum urine": {},
+        "zweet": {},
+        "analyses lichaamsvochat bv. glucose lipid   onmisbaar ondersteuning medisch diagnose bepaling": {},
+        "juist therapie \n labo leren aseptisch manier microbiologisch handeling uitvoeren": {
+            "juist": "NORP",
+            "microbiologisch": "CARDINAL"
+        },
+        "enat leren agarvoedingsbodem bereiden veel courant microbiologisch kleuring uitvoeren": {
+            "courant": "GPE"
+        },
+        "micro-organismen verdunningsreeks maken microbiologisch staal aantal micro-organisme bepalen leren microscoop werken \n practicum leren belang": {
+            "microbiologisch": "PERSON"
+        },
+        "klinisch moleculair diagnostisch test basis": {},
+        "anatomie-fysiologie": {},
+        "mens verklaren kennen principe": {},
+        "klinisch moleculair test": {},
+        "laboratoriumparameter interpreter rapportear staat interfereren factor meting herkennen \n biotechnologie 1 kennis maken eukaryote humaan cel": {
+            "1": "CARDINAL"
+        },
+        "celcomponent -organellen": {
+            "celcomponent": "ORG"
+        },
+        "DNA": {
+            "DNA": "ORG"
+        },
+        "RNA leren begrippen transcriptie translatie restrictie": {
+            "RNA": "ORG"
+        },
+        "PCR sequencing maken kennis": {
+            "PCR": "ORG"
+        },
+        "DNA isolatie- visualisatiemethode leren": {
+            "DNA": "ORG"
+        },
+        "onderscheid": {},
+        "gen- chromosoom- genoommutatie \n practica leren": {},
+        "RNA/DNA isoleren kopiëren visualiseren manipuleren \n talentproject leren individueel groep uitdagende onderzoeks opdracht analyseren uitvoeren": {
+            "RNA/DNA": "NORP"
+        },
+        "schriftelijk rapporteren presenteren project wetenschappelijk onderzoeksvaardigheid waaronder wetenschappelijk artikel opzoeken": {},
+        "lezen": {},
+        "begrijp samenvatt ontwikkelen dankzij feedback leren": {},
+        "zelfreflectie sterkte zwakte kennen talent ontplooien \n internationaal project @home leren samenwerken": {},
+        "anderstalig BMLT student hoogschool bvb Brussels": {
+            "BMLT": "ORG",
+            "Brussels": "GPE"
+        },
+        "Franstalig hoogschool hoogschool": {
+            "Franstalig": "NORP"
+        },
+        "buitenland voertaal project Engels eventueel aantal": {
+            "Engels": "NORP"
+        },
+        "Franstalig opdracht belangrijk doel   stapsgewijs vakjargon Engels uitreiken via lab-opdrachten bespreking enzovoorts leren omgaan anderstalig werkveld verlopen \n module keuzetraject forensisch onderzoek leren basisbegripp basisbeginsel Belgisch strafrecht strafprocedure vaktechnisch begrip correct leren hanteren basisbeginsel": {
+            "Franstalig": "NORP",
+            "Engels": "NORP",
+            "Belgisch": "NORP"
+        },
+        "correct leren toepassen tevens eenvoudig strafrechtelijk casus docent oplossen \n ": {},
+        "module Crime scene management leren": {
+            "Crime": "PERSON"
+        },
+        "crime management model": {},
+        "België zien theorie misdaad spoor herkennen overnemen verwerken zetten": {
+            "België": "GPE"
+        },
+        "praktijk hiervoor krijgen workshop \n vak leren principe courant gebruiken analytisch techniek spectroscopisch elektrochemisch scheidingstechnieken leren   opbouw apparaat": {
+            "courant": "GPE"
+        },
+        "werking/het doel verschillend onderdeel uitleggen tevens toepassingsmogelijkheden verschillend techniek kennen vak leren principe courant gebruiken": {
+            "courant": "GPE"
+        },
+        "analytisch techniek \n practicum": {},
+        "voer analyses gebruik maken courant gebruiken analytisch techniek spectroscopisch elektrochemisch   scheidingstechnieken leren bekoom resultaat verwerken kritisch manier interpreteren rapporteren kwaliteitsvol manier \n anatomo-pathologie omvatten studie gezon veranderen weefsel via gastdocenten krijgen inzicht cytologie macroscopie": {
+            "courant": "GPE"
+        },
+        "kwaliteitszorg automatisatie": {},
+        "labo praktisch deel leren": {
+            "labo praktisch": "PERSON"
+        },
+        "coupe snijden uitgaan paraffin ingebeden weefsel": {},
+        "waarna coupe kleuren bestuderen \n naast algemeen begrip farmacokinetiek -dynamiek leren vak werking": {},
+        "neesmiddelen": {},
+        "bv.   zenuwstelsel pijn koorts bloed": {},
+        "stolling infectie   ": {},
+        "drug mogelijk gevolg zowel positief negatief gebruik geneesmiddel voorspellen \n opleidingsonderdeel verwerf inzicht principe chemisch analyses": {},
+        "uitvoeren lichaamsvocht serum urine zweet": {},
+        ".Je": {},
+        "herkennen afwijken": {},
+        "waarde bloedstollingstest oog bloedstollingsziekt chemisch analyses": {},
+        "lichaamsvochat onmisbaar ondersteuning medisch diagnose bepaling juist therapie \n practicum leren belang": {
+            "juist": "NORP"
+        },
+        "laboratoriumparameter interpreter rapportear staat interfereren factor meting herkennen \n biotechnologie 2 verdiepen": {
+            "2": "CARDINAL"
+        },
+        "RNA": {
+            "RNA": "ORG"
+        },
+        "belangrijk moleculair diagnostisch techniek": {},
+        "kwantitatief": {},
+        "PCR sequencing maken kennis bioinformatica basiscloneringstechniek leren": {
+            "PCR": "ORG"
+        },
+        "techniek eiwit": {},
+        "isoleren scheiden betrekking celculturen courant techniek leren celcultuur aseptisch werken \n immunologie zien verschillend immunologische cel weefsel lichaam maken kennis": {
+            "courant": "GPE"
+        },
+        "principe antigeen-antilichaam leren uitvoering immunologische techniek bv. ELISA kennen transfusie immuno-hematologie staan stil": {},
+        "uitvoering bloedgroepbepaling gebruik": {},
+        "bloedproduct": {},
+        "keuze stamceltransplantatie \n lab biotechnologie 2   leren belangrijk moleculair diagnostisch techniek gradiënt": {
+            "2": "CARDINAL"
+        },
+        "PCR kwantitatief qPCR leren uitvoeren   primer leren": {
+            "PCR": "ORG",
+            "qPCR": "PERSON"
+        },
+        "designen": {},
+        "bestellen lab-opdrachten bio-informaticavaardigheden ontwikkelen leren": {},
+        "techniek eiwit isoleren scheiden": {},
+        "Western Blot": {
+            "Western Blot": "PERSON"
+        },
+        "SDS": {
+            "SDS": "ORG"
+        },
+        "page     uitvoeren betrekking celculturen courant": {
+            "courant": "GPE"
+        },
+        "techniek uitvoeren celcultuur aseptisch werken \n medisch microbiologie 2   uitbreiden ingaan": {
+            "2": "CARDINAL"
+        },
+        "kenmerk identificatietest": {},
+        "bestrijding courant pathogene opportunistisch bacterie": {
+            "courant pathogene opportunistisch bacterie": "ORG"
+        },
+        "fungi": {},
+        "paraieat prion": {},
+        "viruss parameter kwaliteit staalname analyse beïnvloijden komen bod \n kwaliteitsbeheer 2 wettelijk norm bv.   ISO-normen gelden laboratoria klinisch diagnostiek testlaboratoria": {
+            "2": "CARDINAL"
+        },
+        "farmaceutisch industrie toepassingsgebied leren kennen": {},
+        "onderdeel biomedisch statistiek": {},
+        "juistheid methode leren bepalen methode vergelijken vlak juistheid precisie outliertest bvb boxplot lineair regressie-analyse leren uitvoeren": {},
+        "a.d.h.v casuss statistisch analyses": {
+            "a.d.h.v": "ORG"
+        },
+        "Excel leren interpreteren \n ": {},
+        "talentprojectwerk leren groep": {},
+        "uitdagende onderzoeks opdracht analyseren uitvoeren schriftelijk rapportear presenteren project wetenschappelijk onderzoeksvaardigheid waaronder wetenschappelijk artikel opzoeken": {},
+        "lezen begrijp samenvatt ontwikkelen basis reflectie krijgen feedback persoonlijk sterktes/zwaktes   talent ontplooien \n doel kijkstage kennis maken": {},
+        "inhoud": {},
+        "job verantwoordelijkheid": {},
+        "medisch laboratoriumtechnoloog MLT farmaceutisch laboratoriumtechnoloog FBT en/of farmaceutisch": {
+            "MLT": "ORG",
+            "FBT": "ORG"
+        },
+        "technisch assistent FTA \n vak leren identificatietest": {
+            "FTA": "ORG"
+        },
+        "bacteria fungi   uitvoeren interpreter leren antibiogram opstel interpreteer \n internationaal Project 2 één week buitenland": {
+            "Project 2": "PERSON",
+            "één week": "DATE"
+        },
+        "Wallonië": {
+            "Wallonië": "GPE"
+        },
+        "verblijven internationaal setting leren werken": {},
+        "labo doel vak kennis": {
+            "labo": "PERSON"
+        },
+        "Engels/Frans vakjarginnen relevant biomedisch analyses": {},
+        "techniek overbrengen hierbij stimuleren Engelse/Franse communicatievaardighed": {
+            "Engelse/Franse": "NORP"
+        },
+        "ontplooien doel vak kennis": {},
+        "techniek overbrengen hierbij stimuleren Engelse/Franse communicatievaardighed ontplooien \n internationaal Project 2 navolging internationaal project 1 internationaal setting leren werken": {
+            "Engelse/Franse": "NORP",
+            "Project 2": "PERSON",
+            "1": "CARDINAL"
+        },
+        "labo communicatie schriftelijk mondeling verlopen": {},
+        "Engels belangrijk doel   stapsgewijs vakjargon Engels uitreiken via lab-opdrachten bespreking leren omgaan inkomen internationaal anderstalig student werkveld": {
+            "Engels": "NORP"
+        },
+        "verlopen \n practicum vakoverschrijden biotechnologie celculturen werk": {},
+        "techniek uitvoeren gist isoleren manipuleren analytisch experiment uitvoeren": {},
+        "bv.   gehaltebepaling glucose en/of ethanol voedingsbodem     zelfstandig groep protocol groei experiment vitro celculturen opstellen kennen hierbij nodig bestanddeel medium": {},
+        "Antibioticum": {
+            "Antibioticum": "PERSON"
+        },
+        "antimycoticum gebruik vitro celculturen \n biomedisch onderzoek": {},
+        "o.a doel": {},
+        "veilig behandeling ontwikkelen": {},
+        "ziekte mens": {},
+        "dier uitmaken gebruik proefdieren": {},
+        "laat jaar trachten gebruik": {},
+        "beperken alternatief methode": {},
+        "overgaan": {},
+        "Objectieve kennis dierproeov proefdieren vereisen": {},
+        "ethisch correct manier mee gaan tevens KB wettelijk voorzieen aanvaarden opleiding noodzakelijk persoon actief meewerken dierproeven ontvangen attest": {
+            "KB wettelijk": "DATE"
+        },
+        "toelaten actief mee meewerken": {},
+        "dierproev slag keuzevak \n via keuzevak semester": {},
+        "werken": {},
+        "onderzoeksproject daarbij projectvoorstel idee project baseren bestaan onderzoekslijnen kenniscentrum openBioLab Brussel": {
+            "Brussel": "GPE"
+        },
+        "onderzoeksvraag plan aanpak opmaken onderzoek uitvoeren": {},
+        "labo resultaat": {
+            "labo": "PERSON"
+        },
+        "nadien neergeschreven": {},
+        "verslag presenteren \n sterk wetenschap chemie biologie enzovoorts": {},
+        "deel": {},
+        "graag kennis eerstejaarstudent moeilijk via keuzevak BMLT-studenten helpen begeleiden dienen   leerstof respectievelijk student overnemen oefening hem/haar maken ervaring jaar hem/haar": {},
+        "delen \n krijgen keuzevak basis vlak digitaal geletterdheid   daarbij gaan functionaliteit zowel Windows Linux loep nemen   ": {
+            "Windows Linux": "PERSON"
+        },
+        "bekijken eenvoudig netwerk opzetten": {},
+        "oog interconnectiviteit verschillend systeem ondersteunen nadien leren": {},
+        "database systeem opzetten   leren behulp SQL datum ophalen verwerken   data bewerken functionaliteit": {
+            "SQL": "PRODUCT"
+        },
+        "Excel   Finaal werpen blik toekomst waarbij mogelijkheid Artificiële Intelligentie bekijken \n basiskennis": {
+            "Finaal werpen blik": "ORG",
+            "Artificiële Intelligentie": "ORG"
+        },
+        "electronica techniek": {},
+        "ICT": {
+            "ICT": "ORG"
+        },
+        "noodzakelijk biomedisch laboratoriumtechnoloog toekomst": {},
+        "dIYbio": {},
+        "toestel hiervoor ideaal aanknooppunt": {},
+        "keuzemodule zullen kennis maken nodig bouwsteen": {},
+        "DIY": {
+            "DIY": "ORG"
+        },
+        "bio": {},
+        "toestel": {},
+        "samen samenstellen": {},
+        "hierdoor werking apparatuur dagelijks hand inzien abstract werking hiervan inschatten leren innovatief omgaan bestaan Fablab techniek researchmatig denken analytisch hardwarematig probleem gaan \n ": {
+            "Fablab": "NORP"
+        },
+        "module keuzetraject": {},
+        "forensisch onderzoek basiskennis verwerven gebied forensisch geneeskund klinisch forensisch geneeskund forensisch pathologie forensisch odontologie forensisch anthropologie dienen kennis": {},
+        "toepassen": {},
+        "concreet medico-legaal vraagstelling bepalen tijdstip overlijden identificatie onbekend persoon achterhalen": {},
+        "doodsoorzaak doodsmechanisme wijze overlijden": {},
+        "beveiligen verzamelen identificeren biologisch spoor \n module keuzetraject forensisch onderzoek basiskennis verwerven gebied forensisch labotechniek onder ander onderzoek textielvezel verf- glasanalyse ballistiek analyse": {},
+        "brand- vluchtig component": {
+            "brand- vluchtig component": "PERSON"
+        },
+        "drug": {},
+        "toxicologie": {},
+        "toepassing Elektronenmicroscoop analyse": {
+            "Elektronenmicroscoop": "PERSON"
+        },
+        "biologisch microspor genetisch identificatie interpretatie \n project omvatten luik": {
+            "omvatten luik": "GPE"
+        },
+        "analyse luik": {
+            "analyse luik": "GPE"
+        },
+        "toxicologie/chemie": {},
+        "CSI workshop besteden analyse spoor verzamelen gesimuleerde plaats delict opmaken dossier PV schet": {
+            "CSI": "ORG",
+            "PV": "ORG"
+        },
+        "fotodossier reconstructie zaak": {},
+        "plaats": {},
+        "delict luik": {
+            "luik": "GPE"
+        },
+        "analyse persoon identificeren geslacht bepalen basis spa bloed": {},
+        "belangrijk bron": {},
+        "informatie forensisch wereld chemisch luik": {
+            "chemisch luik": "GPE"
+        },
+        "onbekend staal gelinken casus verdacht gebeuren": {},
+        "analyseren nagaan": {},
+        "stof benzodiazepines": {},
+        "amfetamine aanwezig concentratie ervan \n vak bestudeer werking neesmiddelen": {},
+        "behandeling probleem bvb cardiovasculair": {},
+        "gastro-intestinaal hormonaal ademhalingstelsel leren mogelijk gevolg   zowel positief negatief gebruik geneesmiddel voorspellen \n vak verschillend veel courant galenisch vorm bvb   suppo gelu siro bespreken onderscheid maken verschillend recept herkennen galenisch vorm kennen belang vehiculum   leren": {
+            "courant": "GPE"
+        },
+        "functie hulpstof bereiding": {},
+        "specialiteiten/magistralen \n vak leren verschillend": {},
+        "stap": {},
+        "cloneringsproces": {},
+        "chronologisch ordenen maken kennis clonerings- expressievektoren genoom aanpassingstechnieken leren experiment plan autonoom techniek toepassen   toestel gebruiken gentechnologisch labo \n volgen aantal verplichten activiteit aanbieden school bv. bedrijfs- labobezoek neemt initiatief ingesteldheid levenslang leren ontwikkelen onderwerp actueel/innovatief inspelen trends voordoen wereld biomedisch": {
+            "labo \n ": "PERSON"
+        },
+        "laboratoriumtechnoloog \n doel cursus vertrouwd maken belang": {},
+        "verschillend aspect kwaliteitscontrole dienen gebeuren productie neesmiddelen leren standaarden /principes kwaliteit neesmiddelen waarborg instantie controle uitoefenen maken tevens kennis verschillend kwaliteitscontroletest tablet": {},
+        "stabiliteitstesat \n ": {},
+        "practicum   2 grondstof analyseren hand": {
+            "2": "CARDINAL"
+        },
+        "Europees Pharmacopee respectievelijk monografie verschillend galenisch vorm geneesmiddel leren bereiden": {
+            "Europees Pharmacopee": "ORG"
+        },
+        "suppo geleulen zalven kwaliteitscontrole": {},
+        "inhoud/gehalte actief stof f hulpstof specialiteit magistraal bereiding uitvoeren middel": {},
+        "chromatografisch spectrofotometrisch methode \n internationaal Project 3 @INT één week buitenland": {
+            "Project 3 @INT": "PERSON",
+            "één week": "DATE"
+        },
+        "techniek overbrengen hierbij stimuleren Engelse/Franse communicatievaardighed ontplooien \n ": {
+            "Engelse/Franse": "NORP"
+        },
+        "internationaal Project 3   navolging internationaal project 1 2 internationaal setting leren werken": {
+            "Project 3": "PERSON",
+            "1": "CARDINAL",
+            "2": "CARDINAL"
+        },
+        "Engels belangrijk doel   stapsgewijs vakjargon Engels uitreiken via lab-opdrachten bespreking leren omgaan inkomen internationaal anderstalig student werkveld verlopen \n biomedisch onderzoek o.a doel veilig behandeling ontwikkelen": {
+            "Engels": "NORP"
+        },
+        "dierproev slag": {},
+        "keuzevak \n sterk wetenschap chemie biologie   deel graag kennis": {},
+        "eerstejaarstudent moeilijk via keuzevak BMLT- student helpen begeleiden dienen   leerstof respectievelijk student overnemen oefening hem/haar maken ervaring jaar hem/haar": {},
+        "delen \n ": {},
+        "Entrepreneurship attitud zowel gebruiken zaak opstarten intrapreneur mooi loopbaan uitbouwen": {
+            "Entrepreneurship": "GPE"
+        },
+        "bedrijf": {},
+        "werknemer": {},
+        "kaderfunctie ambieren ondernemen staat strategie aftekenen implementeren vooropgestelde ambitie realiseren": {},
+        "economisch rentabiliteit kritisch succesfactor groot deel gaan financieel geletterdheid leren balans": {},
+        "lezen opbouw resultatenrekening laat stuk inhoud marketing product markt": {},
+        "brengen ready to market maken \n keuzevak worden voorbereiden farmaceutisch technisch assistent patiënt informeren bvb inhalatietechnieek verband medicatieschema uitoefenen begeleidingsgesprekken m.b.t. nieuw medicatie": {},
+        "ontwikkelen communicatievaardigheden vb slecht nieuwsgesprek WHAM vraag leren tevens naam werking nevenwerking   oTC'-geneesmiddelen waarvoor voorschrift nodig \n via keuzevak semester werken": {},
+        "onderzoeksproject daarbij projectvoorstel idee project baseren bestaan onderzoekslijnen kenniscentrum (= openBioLab Brussel onderzoeksvraag plan aanpak opmaken onderzoek uitvoeren": {
+            "Brussel": "GPE"
+        },
+        "verslag presenteren \n studeren master Biomedisch wetenschap": {
+            "Biomedisch": "NORP"
+        },
+        "BMW VUB behalen vak": {
+            "BMW": "ORG",
+            "VUB": "ORG"
+        },
+        "2 jaar bachelor BMW opnemen \n studeren": {
+            "2 jaar": "DATE",
+            "BMW": "ORG"
+        },
+        "master farmaceutisch wetenschap Farmcie VUB behalen vak    3 jaar bachelor farmacie opnemen \n studeren": {
+            "Farmcie VUB": "PERSON",
+            "3 jaar": "DATE"
+        },
+        "master farmaceutisch wetenschap Farmcie VUB behalen één onderstaand vak 2 jaar bachelor farmacie opnemen \n studeren": {
+            "Farmcie VUB": "PERSON",
+            "één": "CARDINAL",
+            "2 jaar": "DATE"
+        },
+        "master farmaceutisch wetenschap Farmcie VUB behalen vak   3 jaar bachelor farmacie opnemen \n studeren": {
+            "Farmcie VUB": "PERSON",
+            "3 jaar": "DATE"
+        },
+        "master farmaceutisch wetenschap Farmcie VUB behalen vak   3 jaar bachelor farmacie opnemen \n ": {
+            "Farmcie VUB": "PERSON",
+            "3 jaar": "DATE"
+        },
+        "ICT the": {
+            "ICT the": "ORG"
+        },
+        "lab 1 krijgen keuzevak basis vlak digitaal geletterdheid   daarbij gaan functionaliteit zowel Windows Linux loep nemen   ": {
+            "1": "CARDINAL",
+            "Windows Linux": "PERSON"
+        },
+        "bekijken eenvoudig netwerk opzetten   oog interconnectiviteit verschillend systeem ondersteunen nadien leren database systeem opzetten   leren behulp SQL datum ophalen verwerken   data bewerken functionaliteit": {
+            "SQL": "PRODUCT"
+        },
+        "Excel   Finaal werpen blik toekomst waarbij mogelijkheid Artificiële Intelligentie bekijken \n job": {
+            "Finaal werpen blik": "ORG",
+            "Artificiële Intelligentie": "ORG",
+            "job": "NORP"
+        },
+        "laborant": {},
+        "veranderen snel tempo   doorgedreven": {},
+        "automatisering komst artificieel intelligentie brengen nieuw uitdaging mee   nood werkveld keyoperatoren brug vormen medisch farmaceutisch/biologisch laborant MLT/FBT ICT ers   ": {
+            "farmaceutisch/biologisch": "NORP"
+        },
+        "Beschik digitaal": {
+            "Beschik": "PERSON"
+        },
+        "basisvaardighed keuzevak": {},
+        "lab 1 volgen    keuzevak ideaal vervolgopleiding \n werk maken basiskennis": {
+            "1": "CARDINAL"
+        },
+        "ICT noodzakelijk biomedisch laboratoriumtechnoloog toekomst": {
+            "ICT": "ORG"
+        },
+        "keuzevak DIY": {
+            "DIY": "ORG"
+        },
+        "Do-it-Yourself": {},
+        "bio-toestellen hiervoor ideaal aanknooppunt": {},
+        "kennis": {},
+        "maken": {},
+        "nodig": {},
+        "bouwsteen": {},
+        "DIY biotoestel": {
+            "DIY": "ORG"
+        },
+        "samen samenstellen technisch vaardigheid ontwikkelen leren innovatief omgaan bestaan": {},
+        "Fablab techniek researchmatig denken": {
+            "Fablab": "GPE"
+        },
+        "analytisch hardwarematig probleem gaan \n ": {},
+        "Cosmetica product contact komen opperhuid haar lichaamshaar nagel lip mond doel": {},
+        "reinigen bvb zeep beschermen bvb": {},
+        "zonnecrème goed staat houden bvb antirimpelcrème parfumeren bvb parfum deodorant uiterlijk ervan wijzigen bvb make-up haarkleurmiddel": {},
+        "cosmetica-industrie belangrijk sector België nood professioneel bachelor wetenschappelijk achtergrond": {
+            "België": "GPE"
+        },
+        "interesse": {},
+        "Cosmetologie keuzevak": {},
+        "module 3 postgraduaatopleiding": {
+            "3": "CARDINAL"
+        },
+        "Cosmetic sciences kennismaken theorie praktijk formulatietechnieken alsook productieproces cosmetisch industrie \n passioneren": {
+            "Cosmetic": "PERSON"
+        },
+        "biotechnologie vak uitleven": {},
+        "herneemen basisprincipe moleculair biologie leren primer PCR": {
+            "PCR": "ORG"
+        },
+        "reactie ontwerpen silico plasmid ontwerp alsook CRISP genoommodificatie volgen belangrijk evolutie nieuw biotechnologisch techniek \n stageperiode leren zelfstandig probleem herkennen oplossen opgeleg taak goed einde": {
+            "CRISP": "ORG"
+        },
+        "brengen verwachten individu collega functioneren werksituatie twee minstens belangrijk doelstelling leren werken": {
+            "twee": "CARDINAL"
+        },
+        "geavanceerd professioneel analyseapparatuur technisch vorming   vervolledigen": {},
+        "stage aanloop ver beroepslef \n Kiezen buitenlands avontuur": {},
+        "stageperiode leren zelfstandig probleem herkennen oplossen opgeleg": {},
+        "taak goed einde brengen verwachten individu collega functioneren internationaal werksituatie twee minstens belangrijk doelstelling leren werken": {
+            "twee": "CARDINAL"
+        },
+        "stage aanloop ver beroepslef \n bachelorproefstage krijgen   gelegenheid ontwikkelen verwerven competentie reeel werksituatie toepassen": {},
+        "confronteren probleemstelling vlak wetenschappelijk onderzoek helemaal hoogschool simuleren dienen bevinding": {},
+        "rapporteren dmv scriptie eindwerk \n ": {},
+        "Kies buitenlands bachelorproefstage krijgen   gelegenheid ontwikkelen verwerven competentie reeel werksituatie buitenlands labo keuze toepassen confronteren probleemstelling vlak wetenschappelijk onderzoek tevens kennis maken cultuur leren communiceren": {
+            "labo": "PERSON"
+        },
+        "taal   indienen bevinding rapporteren dmv scriptie": {},
+        "eindwerk).Je aannemen geval keuzevak drie studiepunt \n theoriegedeelte bespreken aantal": {
+            "drie": "CARDINAL"
+        },
+        "belangrijk pathogene micro-organisme associëren ziekte besteden aandacht": {},
+        "klinisch diagnostiek microbieel pathogen   praktijkgedeelte werken klinisch stal urine Faeces": {
+            "Faeces": "PERSON"
+        },
+        "realiteit": {},
+        "klinisch labo": {
+            "labo": "PERSON"
+        },
+        "goed afbootsen via LIS GLIMS microbiologie stap microbiologisch onderzoek": {
+            "LIS": "ORG",
+            "GLIMS": "ORG"
+        },
+        "enten microscopisch onderzoek verwerking eindconclusie bijhouden \n vak leren basis": {},
+        "klinisch moleculair casus juist analysetechnieken selecteren resultaat interpreteren rapportear \n ": {},
+        "leren begrip": {},
+        "aspect kwaliteitszorgsysteem klinisch laboratorium zien kwaliteitsbeheer 1 2 toepas onder ander": {
+            "1": "CARDINAL",
+            "2": "CARDINAL"
+        },
+        "POCT": {
+            "POCT": "ORG"
+        },
+        "Point-of-care toestel samenwerking": {},
+        "student opleiding": {},
+        "verpleegkunde risico-analyse uitvoeren": {},
+        "POCT leren meeschrijven": {
+            "POCT": "ORG"
+        },
+        "SOP standard operating": {
+            "SOP standard operating": "ORG"
+        },
+        "procedure data statistisch manier verwerken interpretear rapportear \n normaal": {},
+        "hematopoëse basis cfr cel- bloedleer komen pathologie klinisch hematologie bod symptomen laboratoriumparameter verklaren onderliggend oorzaak stilgestaan mogelijk": {},
+        "toekomstig behandelingen \n vak volgen verplichten activiteit aanbieden school bv. bedrijfs- labobezoek worden geacht initiatief nemen ingesteldheid levenslang leren ontwikkelen onderwerp actueel/innovatief inspelen trends voordoen wereld biomedisch": {},
+        "laboratoriumtechnoloog \n vak maken kennis": {},
+        "mogelijkheid automatisatie klinisch labo leren tevens arbeids- sociaalzekerheids- patiëntenrecht maken kennis basisprincipe": {},
+        "Relevante vivo techniek ECG EEG": {
+            "ECG": "ORG",
+            "EEG": "ORG"
+        },
+        "spirometrie bloeddrukmeting bloedafnaam \n internationaal Project 3 @INT één week buitenland": {
+            "Project 3 @INT": "PERSON",
+            "één week": "DATE"
+        },
+        "Engels belangrijk doel   stapsgewijs vakjargon Engels uitreiken via lab-opdrachten bespreking leren omgaan inkomen internationaal anderstalig student werkveld verlopen \n via keuzevak semester werken onderzoeksproject daarbij projectvoorstel idee project baseren bestaan onderzoekslijnen kenniscentrum openBioLab Brussel onderzoeksvraag plan": {
+            "Engels": "NORP",
+            "Brussel": "GPE"
+        },
+        "aanpak opmaken": {},
+        "onderzoek uitvoeren labo resultaat": {
+            "labo": "PERSON"
+        },
+        "nadien neergeschreven verslag presenteren \n studeren master Biomedisch wetenschap": {
+            "Biomedisch": "NORP"
+        },
+        "2 jaar bachelor BMW opnemen \n sterk wetenschap chemie biologie   deel graag kennis": {
+            "2 jaar": "DATE",
+            "BMW": "ORG"
+        },
+        "brengen ready to market maken \n basiskennis": {},
+        "Cosmetic sciences \n kennismaken theorie": {
+            "Cosmetic": "PERSON"
+        },
+        "praktijk formulatietechnieken alsook productieproces cosmetisch industrie \n krijgen keuzevak basis vlak digitaal geletterdheid   daarbij gaan functionaliteit zowel Windows Linux loep nemen   ": {
+            "Windows Linux": "PERSON"
+        },
+        "lab 1 volgen    keuzevak ideaal vervolgopleiding \n stageperiode leren zelfstandig probleem herkennen oplossen opgeleg taak goed einde brengen": {
+            "1": "CARDINAL"
+        },
+        "verwachten individu collega functioneren": {},
+        "klinisch ziekenhuis- privélaboratorium": {},
+        "twee minstens belangrijk doelstelling leren werken": {
+            "twee": "CARDINAL"
+        },
+        "stage aanloop ver beroepslef \n stageperiode leren zelfstandig probleem herkennen oplossen opgeleg": {},
+        "taak goed einde brengen verwachten individu collega functioneren": {},
+        "taak goed einde brengen verwachten individu collega functioneren internationaal ziekenhuis- privé Labo twee minstens belangrijk doelstelling leren werken": {
+            "Labo": "PERSON",
+            "twee": "CARDINAL"
+        },
+        "geavanceerd professioneel analyseapparatuur technisch vorming vervolledigen": {},
+        "stage aanloop": {},
+        "ver beroepslef \n ECTSfiche lessenrooster \n ": {},
+        "Farmaceutisch Biologisch": {
+            "Farmaceutisch Biologisch": "PERSON"
+        },
+        "Laboratoriumtechnologie": {
+            "Laboratoriumtechnologie": "GPE"
+        },
+        "FBT \n ": {
+            "FBT": "ORG"
+        },
+        "farmaceutisch oriënteren ïnteresseren research kunnen kiezen stage 8 week": {
+            "8 week": "DATE"
+        },
+        "Eenonderzoekslabo": {
+            "Eenonderzoekslabo": "PERSON"
+        },
+        "eenfarmaceutisch bedrijfof eenapotheeken doen FBT-eindwerkstage koppelen bachelorproef 12 week \n onderzoekslabo \n ": {
+            "12 week": "DATE"
+        },
+        "farmaceutisch bedrijf \n Apotheek \n\n Medisch": {
+            "Apotheek \n\n Medisch": "ORG"
+        },
+        "Laboratoriumtechnologie MLT \n ïnteresseren gaan werken": {
+            "Laboratoriumtechnologie MLT \n ïnteresseren": "EVENT"
+        },
+        "medisch laboratoriumtechnoloog gaan ziekenhuis- privé-labo opstage 3 discipline keuze": {
+            "3": "CARDINAL"
+        },
+        "bv.   klinisch chemie": {},
+        "hematologie microbiologie   ": {},
+        "gedurende20 wekenverdeeld respectievelijk 12 week    2 x 4 week \n Forensisch stage \n ervaring opdoen forensisch onderzoek kiezen": {
+            "12 week": "DATE",
+            "2": "CARDINAL",
+            "4 week": "DATE",
+            "Forensisch": "NORP"
+        },
+        "best FBT- MLT- stage eindwerk eenforensisch laboof laboratoria technisch wetenschappelijk politie \n ": {
+            "FBT-": "GPE"
+        },
+        "werk \n ": {},
+        "Diploma": {
+            "Diploma": "PERSON"
+        },
+        "Biomedische Laboratoriumtechnologie zak =": {
+            "Laboratoriumtechnologie": "GPE"
+        },
+        "meteen slag \n afstudeerrichting": {},
+        "MLT \n afstudeerrichting FBT \n studeren \n kunnen behalen diploma master behalen meestal via schakelprogramma \n stage medisch labo willen blijven werken houden erg job praktisch werk": {
+            "MLT \n afstudeerrichting": "EVENT",
+            "FBT": "ORG",
+            "job praktisch": "PERSON"
+        },
+        "labo spreken echt houden wisselend uur": {
+            "labo": "PERSON"
+        },
+        "verdienen slecht \n Campus Jette \n contact \n Adres": {
+            "Campus Jette": "ORG"
+        },
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n\n Verkort traject": {
+            "Verkort": "PERSON"
+        },
+        "MLTdiploma één jaar \n \n enorm vraag": {
+            "één jaar": "DATE"
+        },
+        "medisch laborant MLT wettelijk beschermen beroep erkenning nodig job uitvoeren \n inschrijven verkren traject \n ": {},
+        "Semester": {},
+        "1 \n Semester": {
+            "1": "CARDINAL"
+        },
+        "2 \n master \n afstuderen": {
+            "2": "CARDINAL"
+        },
+        "FBT \n Biomedisch laboratoriumtechnologie ontdekken buitenland buitenlands stage    ": {
+            "FBT": "ORG",
+            "Biomedisch": "NORP"
+        },
+        "keuze verschillend mogelijkheid   Zweden": {},
+        "Finland Oostenrijk": {
+            "Finland": "GPE",
+            "Oostenrijk": "GPE"
+        },
+        "Italië": {
+            "Italië": "GPE"
+        },
+        "Portugal Tenerife dichterbij Nederland werken samen partner   studentenmobiliteit   goed baan leiden": {
+            "Portugal": "GPE",
+            "Nederland": "GPE"
+        },
+        "Ga": {},
+        "minimum 12 week buitenland hoeven   keuzevak   kiezen \n hieronder vinden kort overzicht kost": {
+            "12 week": "DATE"
+        },
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n\n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24   60 studiepunt \n ": {
+            "23-’24": "CARDINAL"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n € 1.092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n € 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL",
+            "1.092,1": "CARDINAL",
+            "Bijna-beurstariefstudent": "ORG",
+            "282,1": "PERCENT",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Biomedisch laboratoriumtechnologie": {
+            "Biomedisch": "NORP"
+        },
+        "Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n diploma secundair onderwijs \n deelnemen": {},
+        "bekwaamheidsproef toelaten": {},
+        "Check": {
+            "Check": "GPE"
+        },
+        "voorwaarde deel": {},
+        "wegnemen \n ": {},
+        "overstap VUB \n ": {
+            "VUB": "ORG"
+        },
+        "overstapp": {},
+        "Biomedisch wetenschap": {
+            "Biomedisch": "NORP"
+        },
+        "Farmaceutisch wetenschap VUB kijken \n": {
+            "Farmaceutisch": "NORP",
+            "VUB": "ORG"
+        }
+    }
+}

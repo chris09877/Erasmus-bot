@@ -1,0 +1,71 @@
+{
+    "name": "hulpboekhouder--",
+    "sentences": {
+        "groot vraag kandidaat": {},
+        "boekhoudprofiel waardoor bedrijf voldoende kandidaat vinden werven daardoor mens diploma boekhoud    ": {},
+        "micro-credential Hulpboekhouder richten mens actief": {
+            "micro-credential Hulpboekhouder": "ORG"
+        },
+        "boekhoudkundig afdeling bedrijf": {},
+        "onvoldoende achtergrond": {},
+        "materie \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding gaan": {},
+        "digitaal start september 2024 stage bedraag 104 uur 6 studiepunt \n ": {
+            "september 2024": "DATE",
+            "104 uur": "TIME",
+            "6": "CARDINAL"
+        },
+        "certifiëring \n eengetuigschriftmicro-credential ontvangen   credit": {},
+        "verwerven tolerantie \n getuigschrift \n vak komen": {},
+        "graduaat Accounting Administration": {},
+        "betreffen \n micro-credential aanbieden werktraject online avondsessie via MS Teams leerpad via elektronisch leerplatform \n studentensecretariaten bevinden opcampus Leuven \n campus": {
+            "MS Teams": "PERSON",
+            "Leuven": "GPE",
+            "campus": "FAC"
+        },
+        "Leuven \n ": {
+            "Leuven": "GPE"
+        },
+        "Interleuvenlaan": {
+            "Interleuvenlaan": "GPE"
+        },
+        "53001": {
+            "53001": "DATE"
+        },
+        "Heverlee": {
+            "Heverlee": "ORG"
+        },
+        "LeuvenOpenbaar vervoer neem station Leuven bus stap": {
+            "LeuvenOpenbaar": "ORG"
+        },
+        "halte Haasrode UCLL \n openbaar vervoer \n Blue-bike huur fiets": {
+            "UCLL": "ORG",
+            "Blue-bike": "NORP"
+        },
+        "station Leuven": {
+            "Leuven": "GPE"
+        },
+        "fiets": {},
+        "20 minuut campus \n ": {
+            "20": "CARDINAL"
+        },
+        "Blue-bike \n ": {
+            "Blue-bike": "NORP"
+        },
+        "Auto zet auto ruim parking gebouw": {},
+        "Interleuvenlaan 5 \n auto \n inschrijven micro-credential   Top juni 2024kan": {
+            "Interleuvenlaan 5": "ORG",
+            "micro-credential": "GPE",
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

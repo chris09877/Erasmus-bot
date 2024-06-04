@@ -1,0 +1,129 @@
+{
+    "name": "pediatrie-neonatologie",
+    "sentences": {
+        "Postgraduaat Pediatrie Neonatologie": {
+            "Postgraduaat Pediatrie": "PERSON",
+            "Neonatologie": "GPE"
+        },
+        "zorgen kwalificatieverhoging professional bieden boeien opleiding dynamisch leeromgeving les": {},
+        "drijven": {},
+        "enthousiast docententeam expert terrein": {},
+        "pediatrisch verpleegkunde werken": {},
+        "pluralistisch visie state the art materiaal zien lesgever midden werkveld staan mee recent ontwikkeling werkvloer authenticiteit bewaren maken gebruik": {},
+        "Clinical Skills Simulation": {
+            "Clinical Skills Simulation": "ORG"
+        },
+        "Center": {
+            "Center": "GPE"
+        },
+        "EhB-VUB.Met opleiding verpleegkundig totaalzorg realiseren pluridisciplinair kader zowel acute chronisch geestelijk oncologisch sociaal zorg kind vormen": {
+            "EhB-VUB.Met": "GPE"
+        },
+        "beroepsdomein \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "Module 1 pediatrisch basisprincipe -ontwikkeling \n module benadren fundamenteel principe ontwikkeling gezon kind pathofysiologisch proces optreden fase vertrekkende normaal ontwikkeling kind verdiepen geestelijk medisch heelkundig acute neonataal": {
+            "Module 1 pediatrisch": "PERSON"
+        },
+        "pathofysiologie schriftelijk examen module examenwek kerstvakantie \n ": {},
+        "Module 2": {
+            "Module 2": "PERSON"
+        },
+        "Acute": {},
+        "kritisch specialiseren pediatrisch zorg \n pediatrisch gezondheidzorg bestaan breed waaier subspecialisatie module streven specialistisch aanbod": {},
+        "acute pediatrisch setting situatie verzorgen": {},
+        "toonaangevend": {},
+        "expert schriftelijk examen": {},
+        "module examenwek": {},
+        "kerstvakantie \n ": {},
+        "Module 3": {
+            "Module 3": "PERSON"
+        },
+        "Neonatale specialiseren zorg NICU \n pediatrisch gezondheidzorg bestaan": {
+            "Neonatale": "NORP",
+            "NICU": "ORG"
+        },
+        "breed": {},
+        "waaier subspecialisatie module streven specialistisch aanbod neonatologie verzorgen toonaangevend": {},
+        "expert schriftelijk examen module examenwek juni \n ": {
+            "juni": "DATE"
+        },
+        "Module 4 Chronisch zorg pediatrie \n ": {
+            "Module 4 Chronisch": "PERSON"
+        },
+        "medisch kennis chronisch ziek kind bespreken specifiek aandacht kinderoncologie": {},
+        "respiratoir": {},
+        "problematiek": {},
+        "astma": {
+            "astma": "DATE"
+        },
+        "chronisch bronchitis chronisch nierinsufficiëntie endocriene Metabole aandoening diabete mucoviscidose psychosociaal financieel gevolg hiervan gezin schriftelijk examen module examenwek juni \n ": {
+            "Metabole": "PERSON",
+            "juni": "DATE"
+        },
+        "Module 5 psychosociale zorg pediatrie": {
+            "Module 5 psychosociale": "PERSON"
+        },
+        "jeugdzorg \n module aandacht besteden": {},
+        "Eerstelijnszorg": {},
+        "preventie pleegzorg deontologisch aspect zorgverlening module gaan tevens diep cultureel aspect": {},
+        "invloed zorgverlening kinder-": {},
+        "jeugdpsychiatrie levenseinde schriftelijk examen module examenwek juni \n ": {
+            "juni": "DATE"
+        },
+        "Module 6 klinisch onderwijs stage \n klinisch onderwijs zorgdomeinen pediatrisch basisgezondheidszorg extra-murale pediatrisch zorg kinder- jeugdpsychiatrie Neonatologie inbegrip intensief neonataal": {
+            "Module 6 klinisch onderwijs": "PERSON",
+            "Neonatologie": "GPE"
+        },
+        "zorg Algemene specialiseren medisch-chirurgisch eenheid": {
+            "Algemene specialiseren": "ORG"
+        },
+        "kind inbegrip intensief zorg spoedvallenzorg \n ": {},
+        "Module 7 integratie proef \n integreren proef omvatten individueel mondeling proef leerstof doorheen opleiding zien doel": {
+            "Module 7": "PERSON"
+        },
+        "integratie": {},
+        "kennis verpleegkundig inzicht toepassing": {},
+        "casuïstiek begin academiejaar drie casuss beschikbaar stellen via elektronisch leeromgeving doorheen academiejaar student mogelijkheid kennis": {
+            "drie": "CARDINAL"
+        },
+        "frissen": {},
+        "informatie uitzoeken": {},
+        "casuss gaan verpleegkundig interventie": {},
+        "pathologie": {},
+        "medicatie juni komen student jury vraag beantwoorden twee drie casuss \n ": {
+            "juni": "DATE",
+            "twee": "CARDINAL",
+            "drie": "CARDINAL"
+        },
+        "Beroepstitel \n opleiding voldoen voorwaarde bekomen bijzonder beroepstitel": {},
+        "Verpleegkundig specialiseren Pediatrie": {
+            "Pediatrie": "PERSON"
+        },
+        "Neonatologie \n ": {
+            "Neonatologie": "GPE"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Jette \n contact \n Adres": {
+            "Jette": "GPE"
+        },
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen": {},
+        "2200 euro inclusief cursusmateriaal cursusmateriaal online afdruk beschikbaar stellen \n opleiding geven recht betalen educatief verlof Vlaams opleidingsverlof \n apart per module ingeschref module kosten 400 euro \n vraag nemen contact coördinatorIsolde Heymbeeckvoor persoonlijk gesprek \n\n": {
+            "2200 euro": "DATE",
+            "Vlaams": "NORP",
+            "400 euro \n vraag": "DATE"
+        }
+    }
+}

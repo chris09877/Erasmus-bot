@@ -1,0 +1,120 @@
+dagopleiding 
+ dagopleiding 
+ twee jaar 
+ Werkplekleren 
+ stage 
+ nieuw technologie 
+ project 
+ ëvalueren 
+ Flexibel traject 
+ 2.5 jaar werktraject 
+ Online 
+ zelfstudiemateriaal 
+ job 
+ competentieportfolio 
+
+ opbouw academiejaar 
+ Persoonlijke aanpak 
+ begeleien actief persoonlijk ontwikkeling docent coach teruggaan samen zoek talent competentie best ontwikkelen Werkcolleges krijgen klein groep zodat individueel begeleiden drempel docent student erg laag digitaal leren blended learning maken actief deel onderwijsstijl boek online interactief materiaal 
+ programma graduaatsopleiding Programmeren EhB duidelijk structuur logisch opbouwen inhoudelijk goed onderbouwd docenten vakexperts coache waardoor student rekenen gepa ondersteuning 
+ opleiding bestaan uitvier leerlijnen naast twee inhoudelijk leerlijan kern vormen namelijk Software Web Data bestaan curriculum ondersteunend leerlijn IT-sector integreren leerlijn Integration 
+ vier leerlijan 
+ IT-Sector 
+ leerlijn IT-sector leren aantalIT-basicsaan eindigen leerlijn einde jaar waarna veronderstellen basics verwerven verwerven inzicht algemeen werking hard- software verschillend talstelsel verschillend communicatiestrategie techniek relevant IT-)bedrijven ontwikkelen IT-Engels ITspecifieke projectmanagement methodiek volledig opleiding organiseren samenwerking bedrijfspartner 
+ ITbasics 
+ Software 
+ leerlijn Software liggen focus opJavascript Javaen drie semester aandacht voormobile development AI analytics samen vormen één drie studiepunt 
+ javascript 
+ Java 
+ .NET 
+ mobile development AI analytics 
+
+ Web Data 
+ leerlijn Web Data oefen programmeren wereldwijde web krijgen inzicht databanken verschillend taal komen daarbij bod HTML CSS Javascript AJAX PHP Lavarel SQL samen leerlijn Software vormen deinhoudelijk kern opleiding 
+ inhoudelijk kern opleiding 
+ Integration 
+ leerlijn Integration ruim drie opleiding beslaan liggen focus levenslang leren projectwerk ïntegreren verwerven inoefen competentie leerlijn bestaan Bijnaintegraal werkplekleren 
+ integraal werkplekleren 
+ IT Fundamentals elementair werking computer datacommunicatie bespreken 3 deel deel 1 bespreekken verschillend talstelsel basis logisch poort combinatorisch rek schakelingenDeel 2 behandelen computer hardwaar samenwerking verschillend onderdeel bespreken deel 3 bespreekken basiselemente datatransmissie fysiek medium eigenschapep datacommunicatie praktijk 
+
+
+ OS Fundamentals bekijken belangrijk kenmerk bouwsteen bedrijfsnetwerk gebruiks- rechtenbeheren bedrijfsnetwerk leren Fileserver bijzetten tenslotte aandacht besteden introductie omgaan CLI Linux omgeving leren daarbij belangrijk administratief taak uitvoeren 
+ opbouw bedrijfsproces bespreken daarnaast ontwikkelen software behandelen principe Agile Scrum sprint Requirements user storie rol verantwoordelijkheden planning 
+ programming Fundamentals behandelen basisprincipe begrijpen analyseren oplossen probleem breed basis leggen kennis programmeertaal javascript structureren procedureel programmeren taal leren essentie programmer 
+ Programming Advanced bouwen programmeerkennis opdoen programming essentials overgeschakled zuiver objectgeoriënteer taal Java middel maken zowel console applicatie applicatie grafisch gebruikersinterface OO principe ingeoefen waarbij extra aandacht leggen principe leesbaarheid onderhoudbaarheid flexibiliteit leren object persisteren behulp databank 
+ behulp vorderen principe aangehaald vak Java Advanced volledig multitier webapplicatie ontwikkelen relevante raamwerken web ecosysteem aangehaald open vrij ontwikkelingstool gebruiken programmeeromgeving zodat programmatiedetail ingewisseld aandacht professioneel frameworks 
+ HTML5 CSS3 aanleren toepassen bouwen statisch website document Object Model leren element selecteren manipuleren gebruiken gangbar werkwijz tools coderen debuggen 
+ cursus starten overzicht kenmerk soort voorbeeld onderdeel databasesysteem hierna opvolgen grondig bespreking informatie- gegevensanalyse 
+
+ mee overgaan nieuw evolutie vlak web development krijgen student dieper duik Javascript uitbreiden kijken objectgeoriënteerd programmer Javascript hand aantal best practice dynamisch luik website toevoegen node.js mysql kijken vereisten node.js applicatie basis framework leren koppelen MySQL database 
+
+ mee overgaan nieuw evolutie vlak webdevelopment krijgen student inleiding HTTPprotocol PHP server-side scripting taal kijken complex website opbouwen PHP combinatie database serversi validatie best practice aanleren doorheen verschillend werkcollege oefening 
+ opleidingsonderdeel aandacht besteden nieuw trends IT hand gastcollege bedrijfsbezoeken deelname beurs student bewijzen portfolio inzicht nieuw trends staat trends evolutie opvolgen worden project gecoached professioneel attitud efficiënt werken team 
+ opleidingsonderdeel aandacht besteden nieuw trends IT groepsproject nieuw trend uitwerken student nemen per projectgroep contact bedrijf ontwikkel opdracht bedrijf nieuw technologie bedrijf voorzien tussentijds feedback betrekken eindbeoordeling opgeleverd product 
+ Gedetailleerde info vak beoordeling examenvormen lezen deECTS-fiches 
+ bekijk defolder overzicht vakkenvoor zowel werktraject dag traject 
+ werk 
+ slag 
+ studeren 
+ EhB 
+ Campus Kaai 
+ contact 
+ Adres Nijverheidskaai 170 1070 Anderlecht 
+ Openingsuren studentensecretariaan 
+ werk studeren 
+ flexibiliteit 
+ zelfstudie 
+ online   contactmoment 
+ info flexibel studeren 
+ hieronder vinden kort overzicht kost Lees uitbreiden overzicht 
+ Inschrijvingsgeld 
+ inschrijvingsgeld hoogschool hangen 
+ informatie vinden terug opde pagina Vlaams overheid 
+
+ vast gedeelte 
+ vast gedeelte 
+ variabel gedeelte per studiepunt 
+ variabel gedeelte per studiepunt 
+ Voltijds student 23-’24   60 studiepunt 
+ Voltijds student 23-’24   60 studiepunt 
+ Nietbeurstariefstudent 
+ Nietbeurstariefstudent 
+ € 282,1 
+ € 13,5 
+ € 1.092,1 
+ Bijna-beurstariefstudent 
+ Bijna-beurstariefstudent 
+ € 282,1 
+ € 4,9 
+ € 576,1 
+ beurstariefstudent 
+ beurstariefstudent 
+ € 128,8 
+ € 0 
+ € 128,8 
+ opleiding binden   kost 
+ Studiefinanciering 
+ Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen 
+
+ Erasmushogeschool Brussel streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen inter-)nationale kwaliteitskenmerken EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding 
+ websiteopleiding cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen etcetera Lees dekwaliteitsborgingbinne EhB. 
+ Erasmushogeschool Brussel streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen inter-)nationale kwaliteitskenmerken EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding 
+ websiteopleiding cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen etcetera Lees dekwaliteitsborgingbinne EhB. 
+ Erasmushogeschool Brussel streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen inter-)nationale kwaliteitskenmerken EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding 
+ websiteopleiding cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen etcetera Lees dekwaliteitsborgingbinne EhB. 
+ zwieren verschillend moment jaar deur campus open welkom toffe babbel docent student rondleiding campus inkijk cursus inschrijving 
+ inschrijven Programmeren Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal afronen langskomen studentensecretariaat onzevolgen infodag 
+ openingsuren   studentensecretariaat 
+ zoek bedrijf organisatie mee samen samenwerken mogelijkheid talrijk hieronder voorbeeld samenwerken Contacteer 
+ Werkplekleren 
+ opleiding Programmeren behoren hoog beroeponderwijs betekenen praktisch doener opleiden les gaan actief slag theorie hand praktisch oefening cases projectwerk afgestudeerden echt direct inzetbaar maken gaan dat. ieder graduaatsopleiding bestaan minstens drie werkplekleren leren werkplek natuurlijk werkplekken nodig 
+ bedrijfsbezoek gastles 
+ programmeur essentieel skills up-to-date houden organiseren drie vak Trends opleiding jaar   Professional Skills Development maken student kennis beroep beroepenvelen leren noodzaak levenslang leren interesse kader opleiding live virtueel bedrijfsbezoek organiseren gastles komen bepalen trend technologie student komen uitleggen job programmeur inhouden 
+ Jury 
+ project voeren student groep beperkt onderzoek veelbelovend trend technologisch ontwikkeling IT. zoek werkveldvertegenwoordiger jury zetelen jury beoordelen geven feedback tussentijds Pitches student 
+ Praktisch case Aanleveren 
+ divers project krijgen student case voorschotelen één werkveldpartner reeel case klant proof concept bijvoorbeeld Microservices API Java .NET Webapps student uitwerken begeleiding docent werkveldpartner optreden daarbij opdrachtgever geven briefing volgen tussentijds vordering beoordelen samen opgeleverd product   maatwerk noodzakelijk samen bepalen omvang inhoud praktisch omkadering project I 
+ Stage 
+ twee jaar gaan student slot twee keer 7 week stage februari april april juni stage dubbel doel enerzijds student laten meedraaien programmeur bedrijf hard en soft skills leren opleiding laten oefenen toepass echt werkcontext student softwaretoepassing laten ontwikkelen werkplek student ervoor kiezen stages organisatie lopen voorwaarde voldoende groei interessant stageplaats aanbieding één hands-on programmeur nemen contact Metonze stagecoördinator 
+ Career Launch 
+ jaarlijks organiseren tweedejaars- derdejaarsstudent jobbeur enerzijds richten hierbij student zoek stageplaats en/of samenwerking kader final work bieden laatstejaarsstudent hulp zoeken job doel eenvoudig werkgever contact brengen jong talent 

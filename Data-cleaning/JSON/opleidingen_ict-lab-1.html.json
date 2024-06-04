@@ -1,0 +1,131 @@
+{
+    "name": "ict-lab-",
+    "sentences": {
+        "job medisch professional veranderen snel tempo   doorgedrevenautomatiseringen komst vanartificieel intelligentiebreng nieuw uitdaging mee   opleidingICTin lab willen trend inspelen   Medisch": {},
+        "professional bijschaven set skills cruciaal hedendaags werkvellen \n ": {},
+        "automatisering \n artificieel intelligentie \n ICT \n luik cursus voorzien basis ICT terminologie kennismaking health information systems eHealth belang standaarden": {
+            "ICT": "ORG"
+        },
+        "HL7 SNOMED CT domein daarnaast staan stil ethisch issue belangrijk opslaan verwerken medisch data \n ": {},
+        "voorzien cursist twee luik cursuseen": {
+            "twee": "CARDINAL",
+            "luik": "GPE"
+        },
+        "basis": {},
+        "RStudio pakket stevig reputatie data analyse   medisch wereld winnen software belang namelijk groot hoeveelheid datum genereeren verwerken": {
+            "RStudio": "GPE"
+        },
+        "patiëntengegevens laboratoriumresultaten beeldvorming genetisch informatie": {},
+        "juist techniek diagnoses stellen risico voorspellen behandeling personaliseren beginnen basisprincipe": {},
+        "R": {
+            "R": "NORP"
+        },
+        "waaronder variabelen functie operator datatype laten zien datum importeren manipuleren": {},
+        "R eenvoudig statistisch analyses uitvoeren koppelen meteen toepassing medisch wereld \n basis RStudio \n vervolg": {
+            "R": "NORP",
+            "RStudio": "GPE"
+        },
+        "navorming wordtICT the lab II gevorderd aanbieden \n ": {
+            "the lab II": "ORG"
+        },
+        "ICT the lab II \n leren \n\n 1         basiskennis": {
+            "ICT the lab II": "ORG",
+            "1": "CARDINAL"
+        },
+        "ICT-           hardware componenten-           werking netwerk2         introductie digital Health-           computer": {
+            "netwerk2": "DATE"
+        },
+        "Based patiënt records-           Electronic medical record-           Electronic Health": {
+            "Electronic Health": "PERSON"
+        },
+        "Record-           Protocollen": {},
+        "standaarden3         introductie R-           Inles verwer bestanden R-           automatisering werk data R-           datastructuren datatype R-           Function package R-           Basis machine learning-           werk": {
+            "standaarden3": "GPE"
+        },
+        "bioconductor \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding starten": {},
+        "inseptember": {
+            "inseptember": "DATE"
+        },
+        "2024.De sessie gaan telkens dinsdag voormiddag \n september 2024 \n uitMaken onderdeel postgraduaat Applied": {
+            "2024.De": "CARDINAL",
+            "dinsdag": "DATE",
+            "september 2024": "DATE",
+            "Applied": "PERSON"
+        },
+        "bio-informatics research \n uitMaken": {},
+        "onderdeel postgraduaat Applied": {
+            "Applied": "PERSON"
+        },
+        "bio-informatics research \n programma \n ": {},
+        "Attest \n ": {
+            "Attest \n ": "PERSON"
+        },
+        "Attest": {
+            "Attest": "GPE"
+        },
+        "deelname slag   ": {
+            "slag   ": "EVENT"
+        },
+        "deelname evaluatievormen \n schriftelijk examen 60%": {
+            "60%": "PERCENT"
+        },
+        "werkstuk 40% \n ": {
+            "40%": "PERCENT"
+        },
+        "Deelnemer Postgraduaat ICT-Biotechnology": {
+            "Deelnemer Postgraduaat ICT-Biotechnology": "WORK_OF_ART"
+        },
+        "onderdeel inschrijve slag ontvangen creditbewijs   5 studiepunten).Je manier gespreid meerdere jaar": {
+            "5": "CARDINAL"
+        },
+        "voldoende creditbewijs verzamelen alsnog PG getuigschrift bekomen   bezit bachelor- Masterdiploma \n slag \n ": {
+            "Masterdiploma": "GPE",
+            "slag \n ": "EVENT"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "Nijverheidskaai": {
+            "Nijverheidskaai": "GPE"
+        },
+        "1701070": {
+            "1701070": "DATE"
+        },
+        "Brussel \n \n ": {
+            "Brussel": "GPE"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Laarbeeklaan": {
+            "Laarbeeklaan": "PERSON"
+        },
+        "1211090": {
+            "1211090": "DATE"
+        },
+        "Jette \n \n Online \n inschrijvingsgeld bedragen": {
+            "Jette": "GPE"
+        },
+        "450 euro \n inschrijven": {
+            "450 euro \n inschrijven": "DATE"
+        },
+        "ICT the lab 1   ": {
+            "ICT the": "ORG",
+            "1": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond \n juni 2024 \n": {
+            "Jeop": "PERSON",
+            "juni 2024": "DATE"
+        }
+    }
+}

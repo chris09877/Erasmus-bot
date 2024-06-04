@@ -1,0 +1,77 @@
+{
+    "name": "attest-rooms-katholieke-godsdienst--",
+    "sentences": {
+        "  ": {},
+        "opleiding bestaan 3 module 24 lesur per module \n Module 1 levenbeschouwelijk identiteitModule 2 vakdidactiekModule 3 interlevensbeschouwelijk dialoog \n module 1 heel theologisch": {
+            "3": "CARDINAL",
+            "24": "CARDINAL",
+            "Module 1 levenbeschouwelijk": "PERSON",
+            "2": "CARDINAL",
+            "1": "CARDINAL"
+        },
+        "bagage godsdienstig vlak werk gaan \n module 2 volledig mogelijk   reedschapskisten mee verschillend pedagogisch-didactische werkvorm exploreren waaronder": {
+            "2": "CARDINAL",
+            "pedagogisch-didactische": "NORP"
+        },
+        "godly Play zowel werk-/leerplan RKG": {
+            "werk-/leerplan RKG": "PERSON"
+        },
+        "Zill verkenen \n ": {},
+        "Module 3 inzicht proces identiteit": {
+            "Module 3": "PERSON"
+        },
+        "school bepalen manier waarop leerkracht rol spelen rekening houden typisch Brussels situatie werk-/leerplan godsdienst gaan levensbeschouwelijk cultureel diversiteit beginsituatie": {
+            "Brussels": "NORP",
+            "werk-/leerplan": "PERSON"
+        },
+        "godsdienstles \n ": {},
+        "navorming aansluiten regulier traject \n \n ": {},
+        "1 LKO": {
+            "1": "CARDINAL",
+            "LKO": "ORG"
+        },
+        "LLO 2": {
+            "LLO": "ORG",
+            "2": "CARDINAL"
+        },
+        "semester2 LKO": {
+            "LKO": "ORG"
+        },
+        "LLO": {
+            "LLO": "ORG"
+        },
+        "2 semester3 LKO": {
+            "2": "CARDINAL",
+            "LKO": "ORG"
+        },
+        "LLO 1 semester volgen academiejaar \n ": {
+            "LLO": "ORG",
+            "1": "CARDINAL"
+        },
+        "Start- einddata hangen samen lessenrooster \n verneemt vak inschrijving \n campus Kanal \n ": {
+            "einddata hangen samen": "ORG",
+            "campus": "FAC",
+            "Kanal": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n nascholing aansluiten regulier traject tarief diploma- credit contract \n nascholing aansluiten regulier traject tarief diploma- credit contract \n vast kosten 282,10 euroVariabele kosten": {},
+        "13,50 euro per SP 9 = 121,50 euro uitgesplitst aantal opnemen studiepunt per semester": {
+            "13,50 euro": "MONEY",
+            "SP": "ORG",
+            "9": "CARDINAL",
+            "121,50 euro": "DATE"
+        },
+        "totaalkost 403,60 euro volledig traject 2 semester": {
+            "403,60 euro": "DATE",
+            "2": "CARDINAL"
+        },
+        "Cursussen digitaal aanbieden": {},
+        "Averbode kinderbijbel dienen aangeschaft \n ": {},
+        "Schrijf \n stap": {
+            "Schrijf \n ": "PERSON"
+        },
+        "1 \n Stap 2 \n": {
+            "1": "CARDINAL",
+            "2": "CARDINAL"
+        }
+    }
+}

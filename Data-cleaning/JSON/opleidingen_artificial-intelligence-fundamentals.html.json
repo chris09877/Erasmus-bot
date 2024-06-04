@@ -1,0 +1,37 @@
+{
+    "name": "artificial-intelligence-fundamentals",
+    "sentences": {
+        "kennismakingssessie worden ondergedompelen verscheiden aspect": {},
+        "AI leren AI techniek toepassing kennen pitfalls limiete rekening mee houden \n les \n ": {
+            "AI": "ORG"
+        },
+        "les \n hybride student kiezen les campus online mee opvolgen \n navorming starten": {},
+        "inseptember oktober 2024": {
+            "inseptember oktober 2024": "DATE"
+        },
+        "telkens dinsdag \n september oktober 2024 telkens dinsdag \n Attest \n bewijs deelname \n ": {
+            "dinsdag": "DATE",
+            "september oktober 2024": "DATE",
+            "Attest": "GPE"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "contact \n Adres": {},
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen 395 euro    inschrijving ontvang factuur \n inschrijven": {
+            "395 euro": "DATE"
+        },
+        "Artificial Intelligence Fundamentals Top paginakan start inschrijving    inschrijving volledig online afrond \n Vereiste voorkennis \n verwachten basiskennis programmeren \n": {
+            "Vereiste": "EVENT"
+        }
+    }
+}

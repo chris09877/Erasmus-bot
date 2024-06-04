@@ -1,0 +1,71 @@
+{
+    "name": "m-copilot---",
+    "sentences": {
+        "begin 2024": {
+            "2024": "DATE"
+        },
+        "Microsoft": {
+            "Microsoft": "FAC"
+        },
+        "365 Copilot beschikbaar": {
+            "365": "CARDINAL"
+        },
+        "AI": {
+            "AI": "ORG"
+        },
+        "assistant": {},
+        "applicatie": {},
+        "Word Excel outlook Powerpoint Teams efficiënt gebruiken tools": {},
+        "leiden tijdsbesparing kwaliteitsverhoging bezig repetitief werk opleiding \n opleiding gaan 31 oktober 2024 \n opleiding gaan 31 oktober 2024 \n ": {
+            "31 oktober 2024": "DATE"
+        },
+        "sessie 1 dag gaan praktisch slag verschillend M365": {
+            "1 dag": "DATE",
+            "M365": "ORG"
+        },
+        "Copilot \n workshop inzicht verschillend manier": {},
+        "Coipilot efficiënt gebruiken M365": {
+            "Coipilot": "PERSON",
+            "M365": "ORG"
+        },
+        "applicatie \n ": {},
+        "Doelpubliek \n Praktisch informatie \n\n Campus Kaai \n ": {
+            "Campus Kaai": "FAC"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "kaaiis thuis student Design": {
+            "Design": "GPE"
+        },
+        "Technologie musical": {},
+        "RITCS bruisen IT- Kunstcampus volop bezig uitbreiding": {
+            "RITCS": "ORG",
+            "Kunstcampus": "EVENT"
+        },
+        "campus": {
+            "campus": "FAC"
+        },
+        "Kaai": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "nieuwbouw renovatie bouwen onder veel theaterzaal hightechfilmstudio \n Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n vorming kosten": {
+            "Kaai": "GPE"
+        },
+        "€ 199 \n inschrijven   ": {
+            "199": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

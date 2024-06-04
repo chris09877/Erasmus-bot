@@ -1,0 +1,143 @@
+{
+    "name": "forensisch-onderzoek",
+    "sentences": {
+        "momenteel bestaan Vlaanderen opleiding leiden diploma forensisch onderzoeker beroep": {
+            "Vlaanderen": "GPE"
+        },
+        "België erkennen voornamelijk praktijk leren": {
+            "België": "GPE"
+        },
+        "NICC politie": {
+            "NICC": "ORG"
+        },
+        "nood scholing vlak bevestigen": {},
+        "leren postgraduaat \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "les deskundig Nationaal": {
+            "Nationaal": "GPE"
+        },
+        "Instituut": {},
+        "Criminalistiek NICC expren expertise discipline \n ": {
+            "Criminalistiek": "ORG",
+            "NICC": "ORG"
+        },
+        "Module 2": {
+            "Module 2": "PERSON"
+        },
+        "Recht 5STP \n module onder ander Steve Delporte gerechtspsychiater Lindemans expren gedragswetenschappen A. Crabbé expren verbaliseur verhoor M. Bockstaele expren cybercrime P. Linthout \n ": {
+            "Steve Delporte gerechtspsychiater Lindemans": "PERSON",
+            "A. Crabbé": "PERSON",
+            "M. Bockstaele": "PERSON",
+            "P. Linthout": "PERSON"
+        },
+        "Module 3": {
+            "Module 3": "PERSON"
+        },
+        "Forensisch geneeskun": {
+            "Forensisch": "NORP"
+        },
+        "5STP \n Prof. Dr. Dirk Varenbergh wetsdokter    UZ Brussel": {
+            "5STP": "CARDINAL",
+            "Prof. Dr.": "PERSON",
+            "Dirk Varenbergh": "PERSON",
+            "UZ Brussel": "ORG"
+        },
+        "VUB groot deel les naast Dr. Varenbergh onder ander": {
+            "VUB": "ORG",
+            "Dr. Varenbergh": "PERSON"
+        },
+        "Prof. Dr. M. Piette wetsdokter UGent E. Valck": {
+            "Prof. Dr.": "PERSON",
+            "M.": "DATE",
+            "Piette": "PERSON",
+            "E. Valck": "PERSON"
+        },
+        "forensisch tandarts Mevr. B. Denhouwe    deskundig antropologie Mevr. J. Freeman": {
+            "Mevr. B. Denhouwe": "PERSON"
+        },
+        "labo anatomo-pathologie": {
+            "labo anatomo-pathologie": "PERSON"
+        },
+        "UZ Brussel": {
+            "Brussel": "GPE"
+        },
+        "Alain": {
+            "Alain": "GPE"
+        },
+        "Remue DVI": {
+            "DVI": "ORG"
+        },
+        "Steve": {
+            "Steve": "PERSON"
+        },
+        "Delporte": {},
+        "LTWP \n ": {
+            "LTWP": "ORG"
+        },
+        "Module 4": {
+            "Module 4": "PERSON"
+        },
+        "Crime": {
+            "Crime": "PERSON"
+        },
+        "scene management": {},
+        "5STP \n module 4 komen hoofdzakelijk Lesgevers Laboratoria": {
+            "5STP": "CARDINAL",
+            "4": "CARDINAL",
+            "Lesgevers": "GPE",
+            "Laboratoria": "GPE"
+        },
+        "Technisch": {
+            "Technisch": "WORK_OF_ART"
+        },
+        "Wetenschappelijk politie LTWP Steve Delporte Marleen Timmerman Rik Bauters": {
+            "LTWP": "ORG",
+            "Steve Delporte Marleen Timmerman": "PERSON",
+            "Rik Bauters": "PERSON"
+        },
+        "LTWP": {
+            "LTWP": "ORG"
+        },
+        "Gent    ": {
+            "Gent": "GPE"
+        },
+        "Verhoeven": {
+            "Verhoeven": "GPE"
+        },
+        "Leuven \n ": {
+            "Leuven": "GPE"
+        },
+        "Parallel volgen module 1,2,3 4 stage lopen 4 week fulltime 8 week": {
+            "Parallel": "PERSON",
+            "1,2,3 4": "QUANTITY",
+            "4 week": "DATE",
+            "8 week": "DATE"
+        },
+        "halftime politie": {},
+        "forensisch labo stageplaatsen beperken": {},
+        "25 inschrijving \n ": {
+            "25": "CARDINAL"
+        },
+        "Attest \n Campus": {
+            "Attest \n Campus": "PERSON"
+        },
+        "Jette \n\n contact \n Adres": {
+            "Jette": "GPE"
+        },
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Openingsuren": {},
+        "studentensecretariaan \n\n opleiding VOLZET \n opleiding VOLZET \n": {
+            "VOLZET": "NORP"
+        }
+    }
+}

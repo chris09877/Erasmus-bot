@@ -1,0 +1,133 @@
+{
+    "name": "coding",
+    "sentences": {
+        "depostgraduaatopleiding Coding richten professional ITwerkveld passie digitaal willen omzetten ineen breed basis ITkennis ondernemer zaakvoerder managing partner komen dagelijks contact ITafdeling via opleiding verwerf inzicht allemaal schuilgaan informaticasystemen opleiding": {
+            "ITwerkveld": "PERSON",
+            "ITkennis": "PERSON",
+            "ITafdeling": "WORK_OF_ART"
+        },
+        "2023blendedingericht metpersoonlijk online/hybrid coaching   specifiek aanpassen studeren combineren professioneel carrière \n postgraduaatopleiding": {
+            "2023blendedingericht": "DATE"
+        },
+        "Coding \n breed basis ITkennis \n blended \n persoonlijk online/hybrid coaching \n staan wachten \n opleiding": {
+            "ITkennis": "PERSON"
+        },
+        "opbouwen uit3 lesblokk programmeren webontwikkeling databeheer uitbreiden actueel basis ITdomeinen docent bedrijfsleven staan": {
+            "uit3": "DATE",
+            "ITdomeinen": "NORP"
+        },
+        "ondanks snel veranderen sector blijven opleiding up-to-date aansluiten opleiding": {},
+        "Eenpraktijkgericht projectwaarbij kennis": {},
+        "toepassen": {},
+        "reeel case \n ": {},
+        "3 lesblokk programmeren webontwikkeling databeheer \n praktijkgericht project \n vinden les plaats \n contactmoment vinden maal per semester vrijdag campus plaats volgen via streaming online contactmoment voorzien via Microsoft Teams dinsdag donderdag aanvraag student \n opleiding bestaan 6 vak verspreiden schooljaar \n ": {
+            "3": "CARDINAL",
+            "vrijdag": "DATE",
+            "Microsoft Teams": "PERSON",
+            "dinsdag": "DATE",
+            "6": "CARDINAL"
+        },
+        "programming": {},
+        "Essentials 1 behandelen basisprincipe begrijpen analyseren oplossen": {
+            "Essentials 1": "PERSON"
+        },
+        "probleem breed basis leggen kennis": {},
+        "structureren procedureel programmeren \n ": {},
+        "data": {},
+        "Essentials cursus starten overzicht kenmerk soort voorbeeld onderdeel databasesysteem hierna opvolgen": {},
+        "grondig bespreking informatie- gegevensanalyse student maken kennis": {},
+        "standaardquery-taal SQL relationeel databanken \n ": {
+            "SQL": "ORG"
+        },
+        "Web Essentials HTML5 CSS3 aanleren": {
+            "Essentials HTML5 CSS3": "PERSON"
+        },
+        "toepassen bouwen statisch website zien veelheid": {},
+        "toestel smartphone": {},
+        "tablets": {},
+        "laptop Dekstops waarmee bezoeker website bekijken": {
+            "Dekstops": "GPE"
+        },
+        "bijhoren verschil schermgroot schermratio schermdensiteit browser besteden aandacht techniek ervoor zorgen": {},
+        "pagina correct weergeven verschillend situatie \n ": {},
+        "Essentials 2 bouwen programmeerkennis opdoen programming": {
+            "Essentials 2": "PERSON"
+        },
+        "Essentials 1 schakelt objectgeoriënteer programmeertaal nieuw begrippen klasse object introduceren": {
+            "Essentials 1": "PERSON"
+        },
+        "uitwerken programmastructur verlopen hand analysediagrammen UML gebruiken": {
+            "UML": "ORG"
+        },
+        "opbouw applicatie \n mee overgaan nieuw evolutie vlak web development krijgen": {},
+        "Web Advanced dieper duik": {
+            "Advanced dieper": "ORG"
+        },
+        "Javascript kijken laat toevoeging ECMAScript uitbreiden kijken": {
+            "Javascript": "NORP"
+        },
+        "objectgeoriënteerd programmer Javascript hand aantal best practice dynamisch luik": {
+            "luik": "GPE"
+        },
+        "website": {},
+        "toevoegen node.js": {},
+        "MySQL kijken vereisten hedendaags applicatie basis": {
+            "MySQL": "EVENT"
+        },
+        "framework": {},
+        "aanleren koppelen MySQL database \n ": {
+            "MySQL": "ORG"
+        },
+        "student kiezen project": {},
+        "maat": {},
+        "nood": {},
+        "ambitie": {},
+        "project": {},
+        "samenwerking werkgever project opstellen docent opleiding postgraduaat": {},
+        "Toegepaste Artificiële Intelligentie volgen project": {
+            "Artificiële Intelligentie": "ORG"
+        },
+        "Python voorbereiding uitvoeren zowel hard skills": {},
+        "soft skills project trainen \n codeersmaak pakken \n smaak": {},
+        "pakken": {},
+        "IT-skills": {},
+        "boost opleiding terecht volgen opleiding \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "contact \n Adres": {},
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren": {},
+        "studentensecretariaan \n Inschrijvingsgeld \n kostprijs postgraduaat coding € 1.350 \n inschrijven per semester \n zwieren verschillend moment jaar deur campus open welkom toffe": {
+            "1.350": "CARDINAL"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Postgraduaat Coding   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig online afrond langskomen": {},
+        "studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n": {}
+    }
+}

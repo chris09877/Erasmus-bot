@@ -1,0 +1,339 @@
+{
+    "name": "hotelmanagement",
+    "sentences": {
+        "NEW Luxury Hospitality Management \n boeien hospitalitywereld plaats mens weten willen leven motto work hard and love what you do hotelsector staan popelen nieuw enthousiast talent afwerven": {
+            "NEW": "ORG",
+            "Luxury Hospitality": "ORG"
+        },
+        "staan popelen afleiden": {},
+        "hospitality professional \n samen Europees partner ontwikkelen opleiding Hotelmanagement Massive": {
+            "Europees": "NORP"
+        },
+        "Open": {},
+        "online Cours": {
+            "Cours": "GPE"
+        },
+        "MOOC rondduurzaam luxetoerisme duurzaamheid luxetoerisme koppelen ontdek via MOOC profiteer inspireren vooruitstrevend onderwijsaanpak innovatief manier slag gaan domein sustainable Luxury hospitality sector Uitgerust juistevaardigheden": {
+            "MOOC": "ORG",
+            "Luxury": "PERSON"
+        },
+        "kennis ondernemingszinénmentaliteitkan vertrouwen starten boeien": {},
+        "wereld \n duurzaam luxetoerisme \n vaardigheid \n kennis \n ondernemingzin \n ": {},
+        "mentaliteit \n ": {},
+        "Troeven": {
+            "Troeven": "PERSON"
+        },
+        "opleiding \n ": {},
+        "Hotel takeover \n krijgen kans één week": {
+            "één week": "DATE"
+        },
+        "Crowne Plaza": {
+            "Crowne Plaza": "PERSON"
+        },
+        "Brussels": {
+            "Brussels": "GPE"
+        },
+        "Airport": {},
+        "Hotel": {},
+        "overnemen week verantwoordelijk verschillend taak inchecken": {},
+        "gast uitoefenen managementfunctie krijgen eerste- tweede- en derdejaarsstudent realistisch kijk": {
+            "kijk": "GPE"
+        },
+        "werkomgeving hotel \n\n\n\n ": {},
+        "Walking": {},
+        "dinner \n jaar": {},
+        "Hotelmanagement krijgen meteen maken project leerstof omzet": {},
+        "praktijk één project organiseren walking": {
+            "één": "CARDINAL"
+        },
+        "dinner event aspect": {},
+        "food beverage": {},
+        "opleiding": {},
+        "kijker": {},
+        "zetten student leren alcoholisch non-alcoholisch drank gerecht passen \n\n Brussel voet praktijk \n Focus actueel thema \n hand thematisch module bieden totaalbeeld hospitalitycompetentie \n drijven lectorenteam spelen relevant": {
+            "Brussel": "GPE"
+        },
+        "trends inspireren student levenslang leren zet via didactisch werkvorm": {},
+        "verantwoordelijkheid zelfstandigheid initiatief teamgeest \n Focus denken \n verschillend soort groepswerken worden aangezet probleemoplossen denken hand praktijkvoorbeelden daarnaast motto schoolban voet": {},
+        "praktijk minstens 70 keer contact komen Belgisch internationaal hospitalitysector": {
+            "70": "CARDINAL",
+            "Belgisch": "NORP"
+        },
+        "bedrijfsbezoeken": {},
+        "gastspreker": {},
+        "beurs event gaan opleiding 2 keer stage operationeel stage managementstage \n Focus internationaal \n Brussels multicultureel omgeving internationaal karakter hospitalitysector dragen ontwikkeling internationaal intercultureel attitud naast taalvakk krijgen aantal vak volledig": {
+            "2": "CARDINAL",
+            "Brussels": "NORP"
+        },
+        "Engels   uiteindelijk vlot": {
+            "Engels": "NORP"
+        },
+        "professioneel": {},
+        "4 taal spreken Nederlands": {
+            "4": "CARDINAL",
+            "Nederlands": "LANGUAGE"
+        },
+        "Frans": {
+            "Frans": "LANGUAGE"
+        },
+        "Engels": {
+            "Engels": "NORP"
+        },
+        "Spaans Duits daarnaast 1 semester les volgen één partnerinstelling stageplaatsen zowel binnen- buitenland \n Focus student \n Studentgericht onderwijs staan centraal via individueel coaching willen student aanmoedig kritisch reflecteren grens verleggen goed halen": {
+            "Spaans": "LANGUAGE",
+            "Duits": "NORP",
+            "1": "CARDINAL",
+            "één": "CARDINAL"
+        },
+        "Lectoren staan dicht student vlot": {},
+        "aanspreekbaar beroep persoonlijk studie-": {
+            "studie-": "NORP"
+        },
+        "trajectbegeleiding \n ": {},
+        "Sustainable": {
+            "Sustainable": "PERSON"
+        },
+        "High-End": {},
+        "Hospitality \n\n\n ": {},
+        "kiezen": {},
+        "EhB school": {},
+        "Brussel liggen": {
+            "Brussel": "GPE"
+        },
+        "Brussel uitbreiden hotelmarkt meteen opviel persoonlijk gaan school docent kennen naam nummer persoonlijk aanpak vinden vinden heel groot pluspunt \n\n\n jaar \n nieuw student worden ingeleid basisbeginsel hetoperationeel managemenen leren hotel   werken gast in- uitcheckt correct bediening": {
+            "Brussel": "GPE"
+        },
+        "operationeel activiteit hotel plaatsvinden taalvakk bieden opstap": {},
+        "specifiek vakterminologie besteden aandacht mondeling taalgebruik": {},
+        "\n ": {},
+        "twee jaar \n twee academiejaar deleidinggevend functie departementbelicht": {
+            "twee jaar": "DATE",
+            "twee": "CARDINAL"
+        },
+        "Reserveringen omzet maximaliser gasttevredenheid nastreven food-en-beverageproces afstemmen": {},
+        "wens gast": {},
+        "rekening houden kost reglementering etcetera detail grondig bestuderen zodat ontglipt toekomstig departmentmanager \n drie jaar \n drie jaar passen": {
+            "drie jaar": "DATE"
+        },
+        "kracht spelen leren waarbij student innovatiefbusiness gamespelen staan volledig teken ontwikkelen jouwmanagementcompetentie nemen adequate": {},
+        "onderbouwen beleidsbeslissing vormen leidraad afstudeerjaar \n business": {},
+        "gaam \n ": {},
+        "managementcompetentie \n ": {},
+        "ECTSfiche lessenrooster \n stage twee jaar \n proven keer werkveld via eenoperationel stagewaarbij actief meedraaien hotel stageplaats keuze stageplaats": {
+            "twee jaar": "DATE"
+        },
+        "België Europa": {
+            "België": "GPE",
+            "Europa": "GPE"
+        },
+        "periode 9 week \n operationeel stage \n stage drie jaar \n einde drie jaar volgen eenmanagementstagevan 16 week waarbij mee leidinggevend functie uitvoeren afdeling stageplaats wenst stage verlengen 6 maand stage lopen": {
+            "9 week": "DATE",
+            "drie jaar \n einde": "DATE",
+            "drie jaar": "DATE",
+            "16 week": "DATE",
+            "6": "CARDINAL"
+        },
+        "België Europa ver daarbuiten \n managementstage \n werk \n ": {
+            "België": "GPE",
+            "Europa": "GPE"
+        },
+        "Eén ding   sector kort tijd blitzcarrière uitbouwen hotelwereld student halfweg drie deeltraject contract zak vraag": {
+            "drie": "CARDINAL"
+        },
+        "afstuderen": {},
+        "Hotelmanagement immers groot aanbod": {},
+        "ambitieus snel doorgroeien managementfunctie één volgen departement en/of bedrijf \n studeren \n EhB \n campus via verkort traject één twee jaar twee bachelordiploma behalen \n eenpostgraduaat twee Bachelor Banabastuderen \n Ga master \n ": {
+            "ambitieus": "PERSON",
+            "één": "CARDINAL",
+            "departement": "NORP",
+            "één twee jaar": "DATE",
+            "twee": "CARDINAL"
+        },
+        "Ga bachelor master gelijkaardig verwant": {},
+        "studiedomein volgen hoogschool": {},
+        "universiteit   schakelprogramma één academiejaar volgen jaar kunnen Masterdiploma behalen kunnen via schakelprogramma KU Leuven": {
+            "één": "CARDINAL",
+            "Masterdiploma": "GPE",
+            "KU Leuven": "ORG"
+        },
+        "eenMaster": {},
+        "Toerismebehalen \n High-end luxury tourism has": {},
+        "Evolved into A": {
+            "Evolved": "PERSON"
+        },
+        "Distinctive": {
+            "Distinctive": "NORP"
+        },
+        "market offering": {},
+        "unique opportunitie for creative entrepreneurs": {},
+        "to showcase": {},
+        "their prowess curating unparalleled": {},
+        "experiences": {},
+        "While maintaining credibility an evolving": {
+            "While": "PERSON"
+        },
+        "sustainable business \n ": {},
+        "Campus Bloemenhof \n\n ": {
+            "Campus Bloemenhof": "FAC"
+        },
+        "Campus Kanal \n\n ": {
+            "Campus Kanal": "FAC"
+        },
+        "Dankzij voordeligeMIVB-abonnementrijd": {},
+        "heel jaar": {},
+        "slechts12 eurodoor stad": {},
+        "Gebruik fiets parkeren gemak fiets vanVilloin": {
+            "Gebruik": "GPE"
+        },
+        "station tegenover campus jaarabonnement deelfiet kosten 35 euro \n MIVB-abonnement \n 12 euro \n Villo \n \n ": {
+            "35 euro \n MIVB-abonnement": "DATE",
+            "12": "CARDINAL"
+        },
+        "zien verkort traject eruit \n ingeleid basisbeginsel operationeel managemenen belichten leidinggevend functie departement uiteindelijk hotel leiden via innovatief computerprogramma": {},
+        "Vakken": {},
+        "Financial": {},
+        "Management": {
+            "Management": "GPE"
+        },
+        "Strategic": {},
+        "Management goed komen opgedane kennis eindproef": {},
+        "case ondernemingsplan": {},
+        "uitwerken restaurant \n Stage \n lopen": {},
+        "stage uitbreiden 7 week zodat contact komen bedrijfswereld": {
+            "7 week": "DATE"
+        },
+        "relevant": {},
+        "ervaring opdoen stage lopen kiezen uiteraard": {},
+        "Brussel kiezen ervaring": {
+            "Brussel": "GPE"
+        },
+        "Barcelona beijing": {
+            "Barcelona": "GPE",
+            "beijing": "LANGUAGE"
+        },
+        "Yucatán Sydney": {
+            "Yucatán Sydney": "PERSON"
+        },
+        "Hawaï \n ": {
+            "Hawaï \n ": "PERSON"
+        },
+        "inschrijven verkort traject \n 67 studiepunt \n ": {
+            "67": "CARDINAL"
+        },
+        "91 studiepunt \n Student": {
+            "91": "CARDINAL"
+        },
+        "Nederland \n ": {
+            "Nederland": "GPE"
+        },
+        "zin buitenlands avontuur": {},
+        "vertrouwd omgeving helemaal verlaten": {},
+        "Kies opleiding": {},
+        "Hotelmanagement buurland": {},
+        "België bruisen centrum Europa": {
+            "België": "GPE",
+            "Europa": "GPE"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "Erasmushogeschool": {},
+        "Brussel bieden professioneel bacheloropleiding": {
+            "Brussel": "GPE"
+        },
+        "Hotelmanagement stoomen leidinggevend managementfunctie": {},
+        "hospitalitysector": {},
+        "kijkhieralle info starten bacheloropleiding": {},
+        "Hotelmanagement student": {},
+        "Nederland": {
+            "Nederland": "GPE"
+        },
+        "trajectbegeleider": {},
+        "Tine Saenengeeft": {
+            "Tine Saenengeeft": "PERSON"
+        },
+        "graag informatie \n ": {},
+        "Dankzij erasmusprogramma kunnen semester twee studietraject afleggen hoogschool universiteit buitenland droom internationaal carrière kans grijpen": {
+            "twee": "CARDINAL"
+        },
+        "uitwisseling Spanje Portugal Malta Nederland Litouwen": {
+            "Spanje": "GPE",
+            "Portugal": "GPE",
+            "Nederland": "GPE"
+        },
+        "Finland": {},
+        "ideaal manier vreemd taal praktijk oefenen land waarvan houden leren kennen been staan \n graag meegeven komen": {},
+        "Erasmusstudent véél": {
+            "Erasmusstudent véél": "ORG"
+        },
+        "studie-avontuur geweldig belevenis waarbij wereld vriend maken leven": {},
+        "wisselen ervaring gedachte maken rijk hart geld wereld ervaring willen missen \n hieronder vinden kort overzicht kost": {},
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24 60 studiepunt \n ": {
+            "23-’24 60 studiepunt": "DATE"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n €": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL"
+        },
+        "1092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n ": {
+            "1092,1": "DATE",
+            "Bijna-beurstariefstudent": "ORG"
+        },
+        "€ 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Hotelmanagement   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n subsidie beurs \n": {}
+    }
+}

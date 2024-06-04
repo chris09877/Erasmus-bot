@@ -1,0 +1,71 @@
+{
+    "name": "big-data-iot--",
+    "sentences": {
+        "IoT stevig opmars bezig": {},
+        "Smart citie": {
+            "Smart": "PERSON"
+        },
+        "industrie 4.0 e-health": {
+            "4.0": "CARDINAL"
+        },
+        "toepassing": {},
+        "legio evolutie": {},
+        "massa": {},
+        "’s data gecreeërd allemaal vinden the Cloud verwerken": {
+            "Cloud": "GPE"
+        },
+        "gebruiker interessant informatie cursus leren techniek kennen groot hoeveelheid datum verwerken visualiseren efficiënt manier maken kennis nieuw trend": {},
+        "Edge": {
+            "Edge": "GPE"
+        },
+        "computing Cloud zwaar belasten \n bij- nascholing starteind januarien gaan op3 dinsdagen totaal 18 contactuar kiezen   les opcampus onlinemee": {
+            "Cloud": "GPE",
+            "18": "CARDINAL"
+        },
+        "volgen \n eind januari \n 3 dinsdag \n campus online \n Toelatingsvoorwaarden \n hierna bijnascholing AI-Project volgen \n Attest \n beëindigen opleiding krijgen aanwezigheidsattest Big Data": {
+            "januari": "CARDINAL",
+            "3": "CARDINAL",
+            "dinsdag \n campus": "WORK_OF_ART"
+        },
+        "IoT \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "kaaiis thuis student Design": {
+            "Design": "GPE"
+        },
+        "Technologie musical": {},
+        "RITCS bruisen IT- Kunstcampus volop bezig uitbreiding": {
+            "RITCS": "ORG",
+            "Kunstcampus": "EVENT"
+        },
+        "campus": {
+            "campus": "FAC"
+        },
+        "Kaai": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "nieuwbouw renovatie bouwen onder veel theaterzaal hightechfilmstudio \n Campus": {
+            "Campus": "FAC"
+        },
+        "inschrijvingsgeld bedragen 585 euro \n inschrijven": {
+            "585 euro \n inschrijven": "DATE"
+        },
+        "Big Data": {
+            "Big Data": "PERSON"
+        },
+        "IoT   ": {},
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

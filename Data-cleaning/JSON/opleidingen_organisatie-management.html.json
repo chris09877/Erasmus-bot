@@ -1,0 +1,319 @@
+{
+    "name": "organisatie-management",
+    "sentences": {
+        "kiezen": {},
+        "Organisatie Management": {},
+        "EhB kiezen echt": {},
+        "allround-opleiding Vlaanderen Brussel worden multi-inzetbare meertalig professional   sterk persoonlijkheid veranderen   arbeidsmarken werken": {
+            "Vlaanderen": "GPE",
+            "Brussel": "GPE"
+        },
+        "afstudeerrichting uniek": {},
+        "Vlaanderen worden kei inzowelFacility Human Resources Project Management dankzij onze3 stageperiode veelzijdig project komen vanzelf weten sterkte liggen \n\n ": {
+            "Vlaanderen": "GPE",
+            "Human Resources": "PERSON",
+            "Project Management": "PERSON"
+        },
+        "Facility Human Resources": {
+            "Facility Human": "PERSON"
+        },
+        "Project": {
+            "Project": "PERSON"
+        },
+        "Management \n ": {
+            "Management": "GPE"
+        },
+        "3 stageperiode \n\n Troeven opleiding \n ": {
+            "3": "CARDINAL",
+            "Troeven": "PERSON"
+        },
+        "Co-management \n ": {},
+        "Office Manager denken mee organisatie denken innovatief dankzij creativiteit expertise help organiseren coördiner team zelfstandig geval praktisch instellen zorgen follow-up \n ": {},
+        "Manage": {
+            "Manage": "NORP"
+        },
+        "your": {},
+        "Way \n ": {},
+        "opleiding breed toekomst": {},
+        "sector organisatie": {},
+        "organisatie": {},
+        "Management": {
+            "Management": "GPE"
+        },
+        "EhB afstudeerrichtingen stippellen leggen accente doen": {},
+        "3 stage lopen jaar ééntje domein": {
+            "3": "CARDINAL"
+        },
+        "interesse liggen slotstuk opleiding bachelorproef waarin praktijkgerichten onderzoek voeren bedrijf organisatie": {},
+        "keuze": {},
+        "concreet dienst verlenen \n ": {},
+        "Meertalig professional \n ": {},
+        "Brussel startpunt thuis wereldstad druk vlot": {
+            "Brussel": "GPE"
+        },
+        "Nederlands": {
+            "Nederlands": "LANGUAGE"
+        },
+        "Engels": {
+            "Engels": "NORP"
+        },
+        "Frans eind rit beheers taal": {
+            "Frans": "LANGUAGE"
+        },
+        "professional munt dankzij internationaal ervaring werkgever afwachten vol ongeduld": {},
+        "Ça alor \n\n Co-management \n stomen veelzijdig profiel officemanager luikco-management   leren aantal kader opdracht officemanager begrijpen inschatten vakITleer werken online tools toepassing denken werkveld \n ": {},
+        "IT \n Business support \n ": {},
+        "Business": {
+            "Business": "GPE"
+        },
+        "support": {},
+        "reeks ondersteunend vak nodig inzicht bedrijfsleven   zoalsbedrijfsmanagement marketing": {},
+        "financieel management": {},
+        "juridisch topic \n bedrijfsmanagemenen marketing": {},
+        "juridisch topic \n Talen \n geïntegreerd professioneel communicatiefocust veel belangrijk   bedrijfstalen": {},
+        "België gebruiken": {
+            "België": "GPE"
+        },
+        "Frans": {
+            "Frans": "LANGUAGE"
+        },
+        "Engels dompelen opdracht officemanager professioneel presentatie ontwerpen   tekst schrijven vertalen": {
+            "Engels": "NORP"
+        },
+        "website": {},
+        "notuleren gidsen informeren \n geïntegreerd professioneel communicatie \n dankzijLanguage supportkan taal goed beheersen verbeteren vlak grammatica": {},
+        "woordenschaen vier taal kiezen Duits": {
+            "vier": "CARDINAL",
+            "Duits": "NORP"
+        },
+        "Spaans kennen taal": {
+            "Spaans": "LANGUAGE"
+        },
+        "Chinees Portugees": {
+            "Chinees": "LANGUAGE",
+            "Portugees": "LANGUAGE"
+        },
+        "Russisch": {},
+        "Deens": {
+            "Deens": "LANGUAGE"
+        },
+        "kunnen eventueel gebruiken credit verwerven vrijstelling opleveren \n ": {},
+        "Language Support \n ": {
+            "Language Support": "PERSON"
+        },
+        "Open ruimte \n vak kiezen totaal minstens   tien studiepunt \n learning by doing \n leren groep werk evalueren doorbedrijfsbezoeken workshopsendriestagesword gaandeweg echt office-expert werken project organiseren events incentivereis": {
+            "tien": "CARDINAL",
+            "events": "LANGUAGE"
+        },
+        "Debachelorproefvormt sluitstuk opleiding drie studiejaren werken jePersoonlijk OntwikkelingsPlan POP geven inzicht ontwikkeling professioneel competentie waaraan werken \n bedrijfsbezoeken": {
+            "drie": "CARDINAL"
+        },
+        "workshops \n drie \n stage \n bachelorproef \n persoonlijk OntwikkelingsPlan POP \n ECTSfiche lessenrooster \n via stages raaken": {
+            "drie": "CARDINAL",
+            "POP": "ORG"
+        },
+        "vertrouwd werkvloer jaar lopen drie week stage twee jaar lopen zes week stage mogelijkheid internationaal stage acht week drie jaar twaalf week drie keer bedrijf keuze stages stomen arbeidmarkt waarin terechtkomen bachelorproef sluitstuk opleiding kiezen stage autonoom zowel binnen- buitenland": {
+            "drie week": "DATE",
+            "twee jaar": "DATE",
+            "zes week": "DATE",
+            "acht week": "DATE",
+            "drie jaar": "DATE",
+            "twaalf week": "DATE",
+            "drie": "CARDINAL"
+        },
+        "stageperiode maximaal benutten taal": {},
+        "optimaliseren \n\n\n ": {},
+        "stagiair": {},
+        "Islam": {
+            "Islam": "NORP"
+        },
+        "El Jarroudi beheersen vlot": {
+            "Jarroudi": "PERSON"
+        },
+        "Frans Engels switchten soepel verschillend taal getuigen goed": {
+            "Frans Engels": "PERSON"
+        },
+        "kennis": {},
+        "gezon dosis": {},
+        "durf": {},
+        "talent aanwezig": {},
+        "Mijns inzien studie aangescherpen \n werk \n ": {
+            "Mijns": "GPE"
+        },
+        "Dankzij stages ontplooien naargelang passie groot bedrijf": {
+            "Dankzij": "PERSON"
+        },
+        "sportorganisatie concertza ziekenhuis immokantor": {},
+        "advocatenkantor": {},
+        "departement": {},
+        "nood Office Manager": {},
+        "Human Resources Marketing": {
+            "Human": "PERSON"
+        },
+        "Communicatie": {
+            "Communicatie": "GPE"
+        },
+        "Events arbeidmarkt wachten \n\n studeren \n behalen diploma studeren heel watbachelor Erasmushogeschool Brusseldie hierop aansluiten \n droom": {
+            "Events": "PERSON",
+            "Erasmushogeschool Brusseldie": "PERSON"
+        },
+        "master volgen schakelprogramma doorstromen universiteit begeleien graag": {
+            "begeleien": "CARDINAL"
+        },
+        "keuze \n Campus": {
+            "Campus": "FAC"
+        },
+        "Bloemenhof \n\n ": {
+            "Bloemenhof \n\n ": "EVENT"
+        },
+        "Campus Kanal \n\n werk studeren \n deeltijds voltijds job loopbaan nieuw wending": {
+            "Campus Kanal": "FAC"
+        },
+        "mix contact- afstandsonderwijs blended learning kunnen bachelordiploma organisatie   Management behalen \n \n opleiding starten optoetsen gesprek wederzijds verwachting hoog studielast combinatie werk studeren": {},
+        "willen motivatie nagaan": {},
+        "bespreken mogelijkheid opleiding": {},
+        "succes volbrengen richten voornamelijk twee profiel \n studietraject maat \n werktraject bepaal studeren minimum aantal contactmoment": {
+            "twee": "CARDINAL"
+        },
+        "10 vrijdagen per jaar": {
+            "10": "CARDINAL"
+        },
+        "bieden leerstof": {},
+        "digitaal leerplatform examens leggen campus zeggen staat neen uiteraard bieden online nodig": {},
+        "ondersteuning": {},
+        "pedagogisch begeleiding \n ": {},
+        "Administratief medewerker": {
+            "Administratief": "PERSON"
+        },
+        "minstens 3 jaar ervaring \n studietraject bevatten evenveel studiepunt 180 duren 3 jaar regulier traject dagonderwijs dankzij ervaring administratief medewerker vrijstelling aanvragen basis": {
+            "3 jaar": "DATE",
+            "180": "CARDINAL"
+        },
+        "Verworven": {},
+        "Competenties": {
+            "Competenties": "GPE"
+        },
+        "EVC hierdoor vrijstelling krijgen groepswerk stages bedrijfsbezoek workshop": {
+            "EVC": "ORG"
+        },
+        "Volgde": {
+            "Volgde": "EVENT"
+        },
+        "bijkomen opleiding kunnen hiervoor extra vrijstelling aanvragen via Elders Verworven Kwalificaties": {
+            "Elders": "GPE",
+            "Verworven Kwalificaties": "PERSON"
+        },
+        "EVK \n arbeidmarkt officemanager beschouwen internationaal ervaring troef manier onderscheiden vergroten meertaligheid": {},
+        "leren flexibel leven": {
+            "flexibel": "PERSON"
+        },
+        "staan \n stage \n Stage lopen buitenland jaar twee jaar buitenland genieten beurs doen acht week stage plaats zes drie jaar genieten sowieso": {
+            "twee jaar": "DATE",
+            "acht week": "DATE",
+            "zes": "CARDINAL",
+            "drie jaar": "DATE"
+        },
+        "beurs Wallonië Europa rest wereld \n studeren buitenland \n drie jaar": {
+            "Wallonië": "GPE",
+            "Europa": "GPE",
+            "drie jaar": "DATE"
+        },
+        "kunnen één semester buitenland studeren kader Erasmus werk studieprogramma partnerinstelling": {
+            "één": "CARDINAL",
+            "Erasmus": "GPE"
+        },
+        "deelname internationaal project zorgen ervoor crosscultural-skills praktijk brengen": {},
+        "Locaties Haaga": {
+            "Locaties Haaga": "PERSON"
+        },
+        "Helia Helsinki": {
+            "Helia Helsinki": "LOC"
+        },
+        "Finland": {},
+        "HELMO": {
+            "HELMO": "ORG"
+        },
+        "Verviers": {
+            "Verviers": "GPE"
+        },
+        "Luik Francisco": {
+            "Luik": "GPE",
+            "Francisco": "GPE"
+        },
+        "Ferrer": {},
+        "Brussel \n hieronder vinden kort overzicht kost": {
+            "Brussel": "GPE"
+        },
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student": {},
+        "22-’23 60 studiepunt \n ": {
+            "22-’23 60": "DATE"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n €": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL"
+        },
+        "1092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n ": {
+            "1092,1": "DATE",
+            "Bijna-beurstariefstudent": "ORG"
+        },
+        "€ 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Organisatie Management   Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren": {
+            "infodag \n openingsuren": "WORK_OF_ART"
+        },
+        "studentensecretariaan \n subsidie beurs \n": {}
+    }
+}

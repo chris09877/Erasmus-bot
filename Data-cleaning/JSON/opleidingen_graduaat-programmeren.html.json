@@ -1,0 +1,333 @@
+{
+    "name": "graduaat-programmeren",
+    "sentences": {
+        "dagopleiding \n ": {},
+        "twee jaar \n Werkplekleren \n stage \n nieuw technologie \n project \n ": {
+            "twee jaar": "DATE"
+        },
+        "ëvalueren \n Flexibel traject \n 2.5 jaar werktraject \n Online \n zelfstudiemateriaal \n job \n competentieportfolio \n\n ": {
+            "Flexibel": "PERSON",
+            "2.5 jaar": "DATE"
+        },
+        "opbouw academiejaar \n ": {},
+        "Persoonlijke aanpak \n begeleien actief persoonlijk ontwikkeling docent coach": {
+            "begeleien": "NORP"
+        },
+        "teruggaan samen zoek talent": {},
+        "competentie best ontwikkelen": {},
+        "Werkcolleges krijgen klein groep zodat individueel begeleiden drempel docent student erg laag digitaal leren": {},
+        "blended learning maken actief deel onderwijsstijl boek online interactief materiaal \n programma": {},
+        "graduaatsopleiding": {},
+        "Programmeren": {
+            "Programmeren": "GPE"
+        },
+        "EhB duidelijk structuur": {},
+        "logisch opbouwen inhoudelijk goed onderbouwd docenten": {},
+        "vakexperts coache waardoor student rekenen gepa ondersteuning \n opleiding bestaan uitvier leerlijnen naast twee inhoudelijk leerlijan kern vormen": {
+            "twee": "CARDINAL"
+        },
+        "namelijk Software Web Data bestaan curriculum ondersteunend leerlijn IT-sector integreren leerlijn Integration \n vier leerlijan \n IT-Sector \n leerlijn IT-sector leren": {
+            "Software": "GPE",
+            "Integration": "PERSON",
+            "vier": "CARDINAL"
+        },
+        "aantalIT-basicsaan eindigen leerlijn einde jaar waarna veronderstellen basics verwerven": {},
+        "verwerven inzicht algemeen werking hard-": {},
+        "software verschillend talstelsel verschillend communicatiestrategie": {},
+        "techniek relevant IT-)bedrijven ontwikkelen": {},
+        "IT-Engels": {},
+        "ITspecifieke projectmanagement methodiek": {
+            "ITspecifieke": "PERSON"
+        },
+        "volledig opleiding organiseren samenwerking": {},
+        "bedrijfspartner \n ": {},
+        "ITbasics \n Software \n leerlijn": {},
+        "Software liggen focus opJavascript": {},
+        "Javaen": {
+            "Javaen": "PERSON"
+        },
+        "drie semester aandacht": {
+            "drie": "CARDINAL"
+        },
+        "voormobile development": {},
+        "AI": {
+            "AI": "ORG"
+        },
+        "analytics samen vormen één drie studiepunt \n ": {
+            "één": "CARDINAL",
+            "drie": "CARDINAL"
+        },
+        "javascript \n Java \n .NET": {
+            "javascript \n Java": "PERSON"
+        },
+        "\n ": {},
+        "mobile": {},
+        "development": {},
+        "analytics \n\n Web Data \n leerlijn": {},
+        "Web Data oefen programmeren wereldwijde web krijgen inzicht databanken": {
+            "Data": "GPE"
+        },
+        "verschillend taal komen daarbij bod": {},
+        "HTML CSS": {
+            "HTML CSS": "ORG"
+        },
+        "Javascript AJAX": {
+            "Javascript": "NORP"
+        },
+        "PHP": {
+            "PHP": "ORG"
+        },
+        "Lavarel SQL": {
+            "Lavarel SQL": "PERSON"
+        },
+        "samen leerlijn": {},
+        "Software vormen deinhoudelijk kern opleiding \n ": {},
+        "inhoudelijk kern opleiding \n ": {},
+        "Integration \n ": {
+            "Integration": "GPE"
+        },
+        "leerlijn": {},
+        "Integration": {
+            "Integration": "WORK_OF_ART"
+        },
+        "ruim drie opleiding beslaan liggen focus": {
+            "drie": "CARDINAL"
+        },
+        "levenslang leren projectwerk ïntegreren verwerven inoefen competentie": {},
+        "leerlijn bestaan": {},
+        "Bijnaintegraal werkplekleren \n integraal werkplekleren \n ": {
+            "Bijnaintegraal": "EVENT"
+        },
+        "IT Fundamentals elementair werking computer datacommunicatie": {},
+        "bespreken 3 deel deel 1 bespreekken verschillend talstelsel basis logisch": {
+            "3": "CARDINAL",
+            "1": "CARDINAL",
+            "bespreekken": "NORP"
+        },
+        "poort": {},
+        "combinatorisch rek schakelingenDeel 2 behandelen computer hardwaar samenwerking verschillend onderdeel bespreken deel 3 bespreekken basiselemente datatransmissie fysiek medium": {
+            "2": "CARDINAL",
+            "3": "CARDINAL"
+        },
+        "eigenschapep": {},
+        "datacommunicatie": {},
+        "praktijk \n\n\n OS Fundamentals bekijken belangrijk kenmerk bouwsteen bedrijfsnetwerk gebruiks- rechtenbeheren bedrijfsnetwerk leren": {
+            "OS": "ORG"
+        },
+        "Fileserver bijzetten tenslotte aandacht besteden": {
+            "Fileserver": "GPE"
+        },
+        "introductie omgaan CLI Linux omgeving leren daarbij belangrijk administratief taak uitvoeren \n opbouw bedrijfsproces bespreken daarnaast ontwikkelen": {
+            "Linux": "PERSON"
+        },
+        "software behandelen principe": {},
+        "Agile Scrum sprint Requirements user storie rol": {
+            "Agile Scrum": "PERSON",
+            "Requirements": "GPE"
+        },
+        "verantwoordelijkheden planning \n programming Fundamentals behandelen basisprincipe begrijpen analyseren oplossen probleem breed basis leggen kennis": {},
+        "programmeertaal javascript structureren": {},
+        "procedureel programmeren taal leren essentie": {},
+        "programmer \n ": {},
+        "Programming": {},
+        "Advanced bouwen programmeerkennis opdoen programming essentials overgeschakled zuiver objectgeoriënteer taal": {
+            "Advanced": "GPE"
+        },
+        "Java middel maken zowel console applicatie applicatie grafisch gebruikersinterface OO principe ingeoefen waarbij extra aandacht leggen principe leesbaarheid onderhoudbaarheid flexibiliteit leren object persisteren behulp databank \n behulp vorderen principe aangehaald vak Java Advanced volledig multitier webapplicatie ontwikkelen relevante raamwerken web ecosysteem aangehaald open vrij ontwikkelingstool gebruiken programmeeromgeving zodat programmatiedetail ingewisseld aandacht professioneel frameworks \n ": {
+            "Java Advanced": "PERSON",
+            "programmatiedetail": "GPE"
+        },
+        "HTML5 CSS3 aanleren toepassen bouwen statisch website": {},
+        "document": {},
+        "Object Model leren element selecteren manipuleren gebruiken gangbar werkwijz tools coderen debuggen \n cursus starten overzicht kenmerk soort voorbeeld onderdeel databasesysteem hierna opvolgen": {},
+        "grondig bespreking informatie- gegevensanalyse \n\n mee overgaan nieuw evolutie vlak web development krijgen student dieper duik": {},
+        "Javascript uitbreiden kijken objectgeoriënteerd programmer": {},
+        "Javascript hand aantal best practice": {},
+        "dynamisch luik": {
+            "luik": "GPE"
+        },
+        "website": {},
+        "toevoegen node.js mysql kijken vereisten": {},
+        "node.js": {},
+        "applicatie basis framework leren koppelen": {},
+        "MySQL database \n\n mee overgaan nieuw evolutie vlak webdevelopment krijgen student inleiding": {
+            "MySQL": "ORG"
+        },
+        "HTTPprotocol PHP": {
+            "PHP": "ORG"
+        },
+        "server-side scripting taal kijken complex website": {},
+        "opbouwen": {},
+        "PHP combinatie database serversi validatie best practice aanleren": {
+            "PHP": "ORG"
+        },
+        "doorheen verschillend werkcollege oefening \n opleidingsonderdeel aandacht besteden nieuw trends IT hand gastcollege bedrijfsbezoeken deelname beurs student bewijzen portfolio inzicht nieuw trends staat trends evolutie opvolgen worden project gecoached": {},
+        "professioneel": {},
+        "attitud": {},
+        "efficiënt": {},
+        "werken team \n opleidingsonderdeel aandacht besteden nieuw trends IT groepsproject nieuw trend uitwerken student nemen per projectgroep contact bedrijf ontwikkel": {},
+        "opdracht bedrijf": {},
+        "nieuw technologie": {},
+        "bedrijf voorzien tussentijds feedback betrekken eindbeoordeling opgeleverd product \n ": {},
+        "Gedetailleerde info vak beoordeling": {
+            "Gedetailleerde": "GPE"
+        },
+        "examenvormen lezen": {},
+        "deECTS-fiches \n bekijk defolder overzicht vakkenvoor zowel werktraject dag traject \n werk \n slag \n studeren \n ": {
+            "slag \n studeren": "EVENT"
+        },
+        "EhB \n Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n contact \n Adres": {
+            "Kaai": "GPE"
+        },
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n werk studeren \n flexibiliteit \n zelfstudie \n online   contactmoment \n info": {},
+        "flexibel studeren \n hieronder vinden kort overzicht kost": {
+            "flexibel": "PERSON"
+        },
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n\n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24   60 studiepunt \n ": {
+            "23-’24": "CARDINAL"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n € 1.092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n € 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL",
+            "1.092,1": "CARDINAL",
+            "Bijna-beurstariefstudent": "ORG",
+            "282,1": "PERCENT",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "Erasmushogeschool": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n inschrijven": {},
+        "Programmeren Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {
+            "Programmeren": "GPE"
+        },
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren   ": {
+            "infodag \n openingsuren   ": "WORK_OF_ART"
+        },
+        "studentensecretariaat \n zoek": {},
+        "bedrijf organisatie mee samen samenwerken mogelijkheid talrijk hieronder voorbeeld samenwerken": {},
+        "Contacteer \n Werkplekleren \n ": {
+            "Contacteer": "GPE",
+            "Werkplekleren \n ": "NORP"
+        },
+        "opleiding": {},
+        "Programmeren behoren hoog beroeponderwijs betekenen praktisch doener opleiden les gaan actief slag theorie hand praktisch oefening cases projectwerk afgestudeerden echt direct inzetbaar maken gaan dat.": {
+            "Programmeren": "GPE",
+            "betekenen praktisch doener opleiden les gaan actief": "PERSON"
+        },
+        "ieder graduaatsopleiding bestaan minstens drie werkplekleren leren werkplek natuurlijk werkplekken": {
+            "drie": "CARDINAL"
+        },
+        "nodig \n bedrijfsbezoek gastles \n ": {},
+        "programmeur": {
+            "programmeur": "GPE"
+        },
+        "essentieel skills up-to-date houden organiseren drie vak": {
+            "drie": "CARDINAL"
+        },
+        "Trends opleiding jaar   ": {},
+        "Professional Skills Development maken student kennis beroep beroepenvelen leren noodzaak levenslang leren interesse kader opleiding live virtueel bedrijfsbezoek organiseren gastles komen bepalen": {
+            "Professional Skills Development": "ORG",
+            "beroepenvelen": "NORP"
+        },
+        "trend": {},
+        "technologie student komen uitleggen": {},
+        "job programmeur inhouden \n Jury \n project voeren student groep beperkt onderzoek veelbelovend trend technologisch ontwikkeling": {
+            "job programmeur": "ORG"
+        },
+        "IT.": {
+            "IT.": "WORK_OF_ART"
+        },
+        "zoek werkveldvertegenwoordiger jury zetelen jury beoordelen": {},
+        "geven feedback": {},
+        "tussentijds": {},
+        "Pitches student \n ": {
+            "Pitches": "GPE"
+        },
+        "Praktisch case": {},
+        "Aanleveren \n ": {
+            "Aanleveren": "GPE"
+        },
+        "divers project krijgen student case": {},
+        "voorschotelen één werkveldpartner reeel case klant": {
+            "één": "CARDINAL"
+        },
+        "proof concept bijvoorbeeld": {},
+        "Microservices API Java .NET": {
+            "Microservices API Java": "ORG"
+        },
+        "Webapps student uitwerken begeleiding docent werkveldpartner optreden daarbij opdrachtgever geven briefing volgen tussentijds vordering beoordelen samen opgeleverd product   maatwerk": {
+            "Webapps": "GPE"
+        },
+        "noodzakelijk samen bepalen": {},
+        "omvang inhoud": {},
+        "praktisch omkadering project I \n Stage \n twee jaar gaan student slot twee keer 7 week stage februari april april juni stage dubbel doel enerzijds student laten meedraaien programmeur": {
+            "twee jaar": "DATE",
+            "twee": "CARDINAL",
+            "7 week": "DATE",
+            "februari april april": "DATE",
+            "juni": "DATE"
+        },
+        "bedrijf": {},
+        "hard en soft skills leren opleiding laten oefenen toepass echt werkcontext student softwaretoepassing laten ontwikkelen werkplek student ervoor kiezen stages organisatie lopen": {},
+        "voorwaarde voldoende groei interessant stageplaats aanbieding één hands-on programmeur nemen contact Metonze stagecoördinator \n ": {
+            "één": "CARDINAL",
+            "Metonze": "GPE"
+        },
+        "Career Launch \n jaarlijks organiseren tweedejaars- derdejaarsstudent jobbeur enerzijds richten hierbij student zoek stageplaats en/of samenwerking kader final work": {
+            "Launch \n ": "WORK_OF_ART"
+        },
+        "bieden laatstejaarsstudent hulp zoeken job doel eenvoudig werkgever contact brengen": {
+            "job": "CARDINAL"
+        },
+        "jong talent \n": {}
+    }
+}

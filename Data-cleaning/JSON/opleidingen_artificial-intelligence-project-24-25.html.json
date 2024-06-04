@@ -1,0 +1,40 @@
+{
+    "name": "artificial-intelligence-project--",
+    "sentences": {
+        "cursus begin ondergedompeld verschillend praktisch AI-technologie computer vision NLP speech sessie bedrijf laat nieuw snuf techniek uitleggen vervolgd brainstormsessie tof project idee komen skills uittesten groep kiezen project": {
+            "NLP": "ORG"
+        },
+        "uitwerken \n samenwerking kenniscentrum EhB verschillend gastbedrijven": {},
+        "Data Roots Arinti komen Expertise delen student \n programma \n opleiding gaan": {
+            "Data Roots Arinti komen Expertise": "WORK_OF_ART"
+        },
+        "5 dinsdag maart": {
+            "5 dinsdag": "DATE"
+        },
+        "2025 \n ": {
+            "2025": "DATE"
+        },
+        "AI Project": {
+            "AI Project": "PERSON"
+        },
+        "hybride aanbieden student kiezen les campus online mee opvolgen \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "contact \n Adres": {},
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren": {},
+        "studentensecretariaan \n opleiding duren 30 uur kosten 585 euro \n": {
+            "30 uur": "TIME",
+            "585 euro": "DATE"
+        }
+    }
+}

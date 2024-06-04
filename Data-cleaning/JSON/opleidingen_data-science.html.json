@@ -1,0 +1,68 @@
+{
+    "name": "data-science",
+    "sentences": {
+        "maken kennis": {},
+        "volledig werkket data": {},
+        "scientist verzamelen verwerken datum modeller probleem uitrollen": {},
+        "klant leggen": {},
+        "nadruk": {},
+        "pitfalls grens": {},
+        "AI zorgen ervoor resultaat": {
+            "AI": "PERSON"
+        },
+        "ethisch verantwoorden veilig \n Lesprogramma \n navorming starten inoktober 2024 lopen": {
+            "inoktober 2024": "DATE"
+        },
+        "4 dinsdag \n oktober 2024 lopen 4 dinsdag \n les \n les \n hybride student kiezen les campus": {
+            "4 dinsdag": "DATE",
+            "oktober 2024": "DATE",
+            "4": "CARDINAL",
+            "dinsdag": "DATE"
+        },
+        "Kaai": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "online mee opvolgen \n ": {},
+        "Attest \n ": {
+            "Attest \n ": "PERSON"
+        },
+        "beëindigen opleiding": {},
+        "ontvang bewijs deelname \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n ": {
+            "Kaai": "GPE"
+        },
+        "contact \n Adres": {},
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen 780 euro    inschrijving ontvang factuur \n zwieren verschillend moment jaar deur campus": {
+            "780": "DATE",
+            "euro": "MONEY"
+        },
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n Check altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n verwachten basiskennis": {},
+        "programmeren \n inschrijven": {},
+        "Data": {
+            "Data": "WORK_OF_ART"
+        },
+        "Science   Top    ": {},
+        "pagina   start inschrijving    inschrijving volledig online afrond langskomen studentensecretariaat onzevolgen infodag \n": {}
+    }
+}

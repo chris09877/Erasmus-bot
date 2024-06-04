@@ -1,0 +1,84 @@
+{
+    "name": "bouw-zelf-je-gpt-copilot---",
+    "sentences": {
+        "eind 2022": {
+            "2022": "DATE"
+        },
+        "ChatGPT beschikbaar groot publiek twee maand tijd 100 miljoen gebruiker technologie": {
+            "twee": "CARDINAL",
+            "100 miljoen": "MONEY"
+        },
+        "impact allemaal beseffen technologie": {},
+        "inzetten verschillend taak efficiënt": {},
+        "werken hoog kwaliteit realiseren": {},
+        "technologie": {},
+        "ChatGPT": {},
+        "gebruiken": {},
+        "PDF": {
+            "PDF": "ORG"
+        },
+        "’s betand": {},
+        "bevragen prompting automatiseren gebeuren via GPT": {
+            "GPT": "ORG"
+        },
+        "builder openai via bouwen": {},
+        "Copilot via Copilotstudio \n opleiding gaan 17 oktober 2024 \n opleiding gaan": {
+            "Copilot": "FAC",
+            "17 oktober 2024": "DATE"
+        },
+        "17 oktober 2024 \n ": {
+            "17 oktober 2024": "DATE"
+        },
+        "sessie 1 dag gaan praktisch slag zowel GPT": {
+            "1 dag": "DATE",
+            "GPT": "ORG"
+        },
+        "builder": {},
+        "Copilotstudio \n workshop inzicht verschillend manier knowledge base bevragen via GPT": {
+            "Copilotstudio \n ": "PERSON",
+            "GPT": "ORG"
+        },
+        "Copilot \n ": {
+            "Copilot": "PERCENT"
+        },
+        "Doelpubliek \n Praktisch informatie \n Campus Kaai \n ": {
+            "Campus Kaai": "FAC"
+        },
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "kaaiis thuis student Design": {
+            "Design": "GPE"
+        },
+        "Technologie musical": {},
+        "RITCS bruisen IT- Kunstcampus volop bezig uitbreiding": {
+            "RITCS": "ORG",
+            "Kunstcampus": "EVENT"
+        },
+        "campus": {
+            "campus": "FAC"
+        },
+        "Kaai": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "nieuwbouw renovatie bouwen onder veel theaterzaal hightechfilmstudio \n Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n\n ": {
+            "Kaai": "WORK_OF_ART"
+        },
+        "vorming kosten": {},
+        "€ 199 \n inschrijven   ": {
+            "199": "CARDINAL"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

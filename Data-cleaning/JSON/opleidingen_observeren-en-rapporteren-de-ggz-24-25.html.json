@@ -1,0 +1,38 @@
+{
+    "name": "observeren-en-rapporteren-de-ggz--",
+    "sentences": {
+        "opleiding richten zorgverlener werkend geestelijk gezondheidzorg nood bijscholing rapporteren observatie tendens participatie": {},
+        "zorgvrager toenemen vraag inzage dossier hulpverlener specifiek opleiden GGZ": {
+            "GGZ": "ORG"
+        },
+        "waardoor extra vorming observeren rapporter afwijken gedrag/emotie nodig \n studiedag leren deelnemer observatie professioneel rapporteren belang correct rapportage verduidelijken gaan \n ": {},
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "opleiding duren 1 dag \n Campus Jette \n contact \n Adres": {
+            "1 dag \n ": "DATE",
+            "Campus Jette": "ORG"
+        },
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n opleiding kosten € 110 euro \n inschrijven   ": {
+            "110 euro \n inschrijven": "DATE"
+        },
+        "Top juni 2024kan": {
+            "juni 2024kan": "DATE"
+        },
+        "Jeop pagina start inschrijving inschrijving volledig online afrond langskomen": {
+            "Jeop": "PERSON"
+        },
+        "studentensecretariaat onzevolgen infodag \n juni 2024 \n": {
+            "juni 2024": "DATE"
+        }
+    }
+}

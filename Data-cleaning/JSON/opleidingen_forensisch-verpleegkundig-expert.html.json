@@ -1,0 +1,91 @@
+{
+    "name": "forensisch-verpleegkundig-expert",
+    "sentences": {
+        "ongeval terreurdaad misdaad ontstaan terrein spanningsgebied medisch dienst enerzijds politie": {},
+        "Parket medisch professional snel patiënt willen helpen": {},
+        "justitie": {},
+        "politie erg gefocust": {},
+        "verwerven bewijs postgraduaat Forensisch": {
+            "Forensisch": "NORP"
+        },
+        "Hulpverlenend expert willen schakel domein vormen uniek opleiding aanbieden spreker docent expert dagelijks actief": {
+            "Hulpverlenend": "EVENT",
+            "dagelijks": "PERSON"
+        },
+        "respectievelijk werkvellen bijzonder expertise specialisme": {},
+        "spreker komen volgen": {},
+        "discipline verpleegkunde spoedverpleegkund politie": {},
+        "Parket slachtofferbejegening": {
+            "Parket slachtofferbejegening": "ORG"
+        },
+        "spoedgeneeskun forensisch geneeskund medisch dienst defensie": {},
+        "FOD Volksgezondheid": {
+            "FOD Volksgezondheid": "ORG"
+        },
+        "brandweer \n kort \n 3 module totaal 28 studiepunten:•      ": {
+            "3": "CARDINAL",
+            "28": "CARDINAL"
+        },
+        "Module 1 overlijden slachtoffer 8": {
+            "Module 1 overlijden": "PERSON",
+            "8": "CARDINAL"
+        },
+        "SP•      ": {},
+        "Module 2 leven slachtoffer 14": {
+            "Module 2": "PERSON",
+            "14": "CARDINAL"
+        },
+        "Module 3 bijzonder omstandigheid 6 SP \n \n opleiding multidisciplinair richten toegankelijk geïnteresseerd verschillend hulpdienst discipline \n ": {
+            "Module 3 bijzonder omstandigheid": "PERSON",
+            "6": "CARDINAL",
+            "SP": "ORG"
+        },
+        "Lesprogramma \n ": {
+            "Lesprogramma \n ": "PERSON"
+        },
+        "doelstellingen \n ": {},
+        "Getuigschrift opleiding \n succesvol doorlopen opleiding": {
+            "Getuigschrift": "GPE"
+        },
+        "examen ontvangen postgraduaat getuigschrift Forensische Verpleegkundig expert": {},
+        "bezit diploma": {},
+        "hoog onderwijs ontvangen getuigschrift navorming deelname één module ontvang attest deelname \n Campus": {
+            "één": "CARDINAL",
+            "Campus": "FAC"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "contact \n Adres": {},
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Openingsuren studentensecretariaan \n kiezen één meerdere module volgt.•      Module 1 € 595•      ": {
+            "één": "CARDINAL",
+            "Module 1": "PERSON",
+            "595•": "CARDINAL"
+        },
+        "Module 2 €": {
+            "Module 2": "PERSON"
+        },
+        "895•      Module 3 € 575•      volledig postgraduaat € 1755Bovenvermelde prijs inclusief leermateriaal bovenvermeld prijs": {
+            "895•": "DATE",
+            "Module 3": "PERSON",
+            "1755Bovenvermelde prijs": "DATE"
+        },
+        "BTW.Wie apart per module inschrijven finaal 3 module volgen krijgen": {
+            "3": "CARDINAL"
+        },
+        "korting laat module zodat totaal prijs volledig inschrijving": {},
+        "€ 1575 \n Geïnteresseerd": {
+            "1575": "DATE",
+            "Geïnteresseerd": "EVENT"
+        },
+        "vraag rechtstreeks contact opnemen coördinator Frank Borremans persoonlijk gesprek \n Toelatingsvoorwaarden \n": {
+            "Frank Borremans": "PERSON"
+        }
+    }
+}

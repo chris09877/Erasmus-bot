@@ -1,0 +1,168 @@
+{
+    "name": "elektromechanische-systemen",
+    "sentences": {
+        "Sterk diploma 2 jaar \n afleiden praktijkgericht professional ruim technisch basiskennis leren": {
+            "2 jaar": "DATE"
+        },
+        "oplossingsgericht werken": {},
+        "onderhouds-": {},
+        "serviceopdrachten toekomstig professional werken communicatievaardigheden samenwerken rapportear technisch Nederlands Frans Engels leren bewust omgaan veiligheid werkvloer duurzaamheid tweedeopleidingsjaar kiezen afstudeerrichting": {
+            "Nederlands": "LANGUAGE",
+            "Frans": "LANGUAGE",
+            "Engels": "NORP"
+        },
+        "Onderhoudstechnieken": {},
+        "Meet-": {},
+        "Regeltechnieken": {},
+        "einde opleiding kiezen bijkomen bedrijfsgericht": {},
+        "specialisatie \n Focus": {},
+        "praktijk \n werken samen": {},
+        "groot bedrijf": {},
+        "Brussels regio": {},
+        "onder ander": {},
+        "Audi Colruyt Engie MIVB engageren actief mee begeleiden": {
+            "Audi Colruyt": "ORG",
+            "MIVB": "ORG"
+        },
+        "project": {},
+        "werkplekleren": {},
+        "stage finale": {},
+        "specialisatie": {},
+        "labo": {
+            "labo": "PERSON"
+        },
+        "’s samenwerking partner zorgen theoretisch inzicht meteen praktisch toepassen veilig leeromgeving \n twee afstudeerrichting \n Kies voorOnderhoudstechnieken gaan technisch leerlijan diep mechanisch verbindingstechnieak pomp ventilatoren": {
+            "twee": "CARDINAL"
+        },
+        "compressoar onderhoudstool": {},
+        "Kies voorMeet- Regeltechniekendan gaan diep meet- regeltechniek PLC": {
+            "PLC": "ORG"
+        },
+        "’s": {},
+        "robotics \n onderhoudstechniek \n Meet-": {},
+        "Regeltechnieken \n ": {},
+        "Persoonlijk begeleiding \n begeleien actief persoonlijk ontwikkeling docent coach": {
+            "begeleien": "NORP"
+        },
+        "teruggaan samen zoek talent": {},
+        "competentie best ontwikkelen": {},
+        "Werkcolleges krijgen klein groep zodat individueel begeleiden drempel docent student erg laag \n vier technisch leerlijan \n gaan stevig breed basis elektriciteit mechanica hydropneumatica automatisatie onderdeel gaan slag": {
+            "vier": "CARDINAL"
+        },
+        "labo theoretisch inzicht koppelen praktisch toepassing \n Professioneel vaardigheden \n leren": {
+            "Professioneel": "FAC"
+        },
+        "doelgericht professioneel communicer klant teamwerk": {},
+        "rapportering documenteren leren sterk technisch communiceren": {},
+        "Nederlands": {
+            "Nederlands": "LANGUAGE"
+        },
+        "Frans": {
+            "Frans": "LANGUAGE"
+        },
+        "Engels \n ": {
+            "Engels": "NORP"
+        },
+        "onderhoud \n integratie gaan slag kennis \n leren": {},
+        "opgedane kennis vaardigheden competentie toepassen werkplek doen hand twee project": {
+            "twee": "CARDINAL"
+        },
+        "bedrijf aangereikt mee beoordeelen einde opleiding gaan stage \n Kies": {},
+        "specialisatie \n naast keuze afstudeerrichting": {},
+        "Onderhoudstechnieken Meet-": {},
+        "Regeltechniek kiezen bijkomen specialisatie gebeuren samenwerking partnerbedrijv samenspraak bepalen": {},
+        "richting specialisatie uitgaan professioneel carrière sturen \n werk \n meteen slag \n studeren \n ": {},
+        "Campus": {
+            "Campus": "FAC"
+        },
+        "Kaai \n contact \n Adres": {
+            "Kaai": "GPE"
+        },
+        "Nijverheidskaai 170 1070": {
+            "170 1070": "DATE"
+        },
+        "Anderlecht \n ": {
+            "Anderlecht": "GPE"
+        },
+        "Openingsuren studentensecretariaan \n ICT-infrastructuur \n computernetwerk departement omvatten domein vanmeer 300 pc smet eenmodern performant serverpark samen": {
+            "300": "CARDINAL"
+        },
+        "printer plotter scanner student gebruiken werkcollege practica project enzovoorts \n 300 pc ’s \n\n hieronder vinden kort overzicht kost": {
+            "300": "CARDINAL"
+        },
+        "Lees uitbreiden overzicht \n ": {},
+        "Inschrijvingsgeld \n inschrijvingsgeld hoogschool hangen \n informatie vinden terug": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "opde pagina": {},
+        "Vlaams overheid \n\n vast gedeelte \n vast gedeelte \n variabel gedeelte per studiepunt \n variabel gedeelte per studiepunt \n ": {
+            "Vlaams overheid": "ORG"
+        },
+        "Voltijds student 23-’24   60 studiepunt \n ": {
+            "23-’24": "CARDINAL"
+        },
+        "Nietbeurstariefstudent \n Nietbeurstariefstudent \n € 282,1 \n € 13,5 \n € 1.092,1 \n Bijna-beurstariefstudent \n Bijna-beurstariefstudent \n € 282,1 \n € 4,9 \n € 576,1 \n beurstariefstudent \n beurstariefstudent \n € 128,8 \n € 0 \n € 128,8 \n opleiding binden   kost \n ": {
+            "282,1 \n ": "QUANTITY",
+            "13,5": "CARDINAL",
+            "1.092,1": "CARDINAL",
+            "Bijna-beurstariefstudent": "ORG",
+            "282,1": "PERCENT",
+            "4,9": "CARDINAL",
+            "576,1": "CARDINAL",
+            "128,8": "CARDINAL",
+            "0": "CARDINAL",
+            "128,8 \n opleiding": "DATE"
+        },
+        "Studiefinanciering \n ": {},
+        "Inschrijvingsgeld boek cursus kot vervoer   studeren kosten hindernis vormen studeren EhB.Check mogelijkheid ondersteuning krijgen \n\n Erasmushogeschool": {
+            "Inschrijvingsgeld": "PERSON"
+        },
+        "Brussel": {
+            "Brussel": "GPE"
+        },
+        "streven kwaliteitsvol onderwijs ontwikkelen opleiding voortduren voldoen": {},
+        "inter-)nationale kwaliteitskenmerken": {},
+        "EhB zet maximaal ontwikkelen kwaliteitscultuur hanteren kwaliteitsregie": {},
+        "fundament kwaliteitvol onderwijs verschillend instrument garanderen versterken borg onderwijskwaliteit opleiding \n websiteopleiding": {},
+        "cijfersvan Vlaams overheid geven informatie profiel opleiding opleiding volgen hoelang student erover diploma behalen": {
+            "Vlaams overheid": "ORG"
+        },
+        "etcetera Lees dekwaliteitsborgingbinne": {
+            "Lees dekwaliteitsborgingbinne": "PERSON"
+        },
+        "EhB. \n ": {},
+        "Erasmushogeschool": {},
+        "zwieren verschillend moment jaar deur campus": {},
+        "open welkom": {},
+        "toffe": {
+            "toffe": "PERSON"
+        },
+        "babbel docent student": {},
+        "rondleiding": {},
+        "campus": {
+            "campus": "FAC"
+        },
+        "inkijk cursus inschrijving \n ": {},
+        "Openlesweek \n Benieuwd eraan toegaan campus goesting": {
+            "Openlesweek \n Benieuwd": "PERSON"
+        },
+        "echt student wanen \n Check": {},
+        "altijddeze": {},
+        "paginavoor last-minute": {},
+        "wijziging   hoogte   houden     event laten     ": {},
+        "gegeven \n inschrijven": {},
+        "Elektromechanisch": {
+            "Elektromechanisch": "LOC"
+        },
+        "Systemen": {
+            "Systemen": "ORG"
+        },
+        "Top paginakan start inschrijving vinden   belangrijk info terug orde brengen hoeveel kosten studeren": {},
+        "leerkrediet toelatingsvoorwaarden financieel steun enzovoorts inschrijving volledig digitaal": {},
+        "afronen langskomen studentensecretariaat onzevolgen infodag \n openingsuren   ": {
+            "infodag \n openingsuren   ": "WORK_OF_ART"
+        },
+        "studentensecretariaat \n organisatie/bedrijf": {},
+        "samenwerken opleiding nemen snel contact \n": {}
+    }
+}

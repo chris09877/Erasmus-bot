@@ -1,0 +1,138 @@
+{
+    "name": "diabeteseducator",
+    "sentences": {
+        "diabetes chronisch ziekte wereldwijd voorkomen": {},
+        "WHO blijven aantal persoon diabete toenemen": {
+            "WHO": "ORG"
+        },
+        "Zorgverleners actief divers": {},
+        "sector gezondheidzorg": {},
+        "zowel intra- extramuraal vaak confronteren problematiek diabete belangrijk deskundigheid vlak diabete gaan ontwikkelen": {},
+        "sector verschillend": {},
+        "zorgverlener \n ": {},
+        "diagnose diabetes brengen levenlang aanpassing levenstijl aantal belangrijk gezondheidsrisico ’s mee patiënt trachten controle krijgen ziekte confronteren veranderen": {},
+        "toekomstperspectieven beperkingen vrees complicatie belangrijk diabetespatiënten ondersteunen management ziekte uitbouwen zelfzorg \n opleiding diabeteseducator bieden": {},
+        "Erasmushogeschool Brussel": {
+            "Erasmushogeschool Brussel": "ORG"
+        },
+        "zorgverlener mogelijkheid verdiepen therapeutisch patiënteneducatie \n opleiding": {},
+        "verwerf kennis": {},
+        "vaardigheden attitud": {},
+        "patiënt diabete hulpvraag zorg- educatiebehoefte vast samenstellen specialiseren verpleegkundig zorg educatie \n succesvol afronden opleiding": {},
+        "zorgverlener   ": {},
+        "inter- intradisciplinair consult verlenen advies verplegen educeren": {},
+        "patiënt diabete alsook opgedane kennis vaardigheden m.b.t. verplegen educer diabetespatiënten doorgeven collega ’s \n Lesprogramma \n opleiding lopen oktober 2024 juni 2025 vast lesdag dinsdag Check academiejaarkalender \n postgraduaat opbouwen": {
+            "oktober 2024": "DATE",
+            "juni 2025": "DATE",
+            "dinsdag": "DATE"
+        },
+        "4 module \n ": {
+            "4": "CARDINAL"
+        },
+        "Module 1": {
+            "Module 1": "PERSON"
+        },
+        "Verpleegkundig wetenschap 5 ECTS \n Module 1": {
+            "5": "CARDINAL",
+            "ECTS": "ORG",
+            "Module 1": "PERSON"
+        },
+        "Verpleegkundig wetenschap 5 ECTS \n module omvatten aantal praktisch workshops": {
+            "5": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "-gericht verschillend doelgroepen-   slag gaan begrip": {},
+        "educatie": {},
+        "rekening houden ethiek laat evidence \n ": {},
+        "Module 2": {
+            "Module 2": "PERSON"
+        },
+        "Biomedisch wetenschap 7 ECTS \n ": {
+            "Biomedisch": "NORP",
+            "7": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "Biomedisch wetenschap 7 ECTS \n module diep ingezoomd biomedisch aspect diabete    volgen aspect": {
+            "Biomedisch": "NORP",
+            "7": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "komen bod \n ": {},
+        "Module 3 sociaal menswetenschappen": {
+            "Module 3": "PERSON"
+        },
+        "5 ECTS \n ": {
+            "5": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "5 ECTS \n drie module verkenen rol diabeteseducator maken zorgverlener wegwijs wet- regelgeving": {
+            "5": "CARDINAL",
+            "ECTS": "ORG",
+            "drie": "CARDINAL"
+        },
+        "Hieromtrent    ": {
+            "Hieromtrent": "ORG"
+        },
+        "verschillend methodie therapeutisch patiënteneducatie aanbrengen volgen topics komen bod \n ": {},
+        "Module 4 klinisch onderwijs": {
+            "Module 4 klinisch onderwijs": "PERSON"
+        },
+        "3 ECTS \n ": {
+            "3": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "3 ECTS \n module opleiding bestaan klinisch praktijkervaring opleiding succesvol": {
+            "3": "CARDINAL",
+            "ECTS": "ORG"
+        },
+        "beëindigen": {},
+        "zorgverlener minimum 32 stage-uren diabetesconventiecentrum bewijzen daarnaast volgen zorgverlener minimaal vier educatie": {
+            "32": "CARDINAL",
+            "stage-uren": "NORP",
+            "vier": "CARDINAL"
+        },
+        "4u eerstelijnsgezonheidszorg stage-uren dienen examen": {
+            "4u": "ORDINAL"
+        },
+        "afwerken stage-uren diabetesconventiecentrum stagepakket uitgewerken waarin zorgverlener kennis maken verschillend dienst betrekken diabeteszorg praktisch organisatie volgen educatie aannemen zorgverlener informatie   bekomen": {
+            "stage-uren": "ORG"
+        },
+        "opleidingsverantwoordelijke \n Attest \n kader zorgtraject diabetespatiënten verpleegkundigen": {
+            "Attest \n kader zorgtraject": "WORK_OF_ART"
+        },
+        "podolog diëtist": {},
+        "kinesist": {},
+        "specifiek registratienummer RIZIV-nummer aanvrag RIZIV waarmee specifiek verstrekking educatie zelfzorg attesteren registratienummer dienen zorgverlener opvragen": {
+            "RIZIV": "ORG"
+        },
+        "voltooien Postgraduaat diabeteseducator bepaling wet": {},
+        "uitoefening gezondheidsberoep toepassing educatoren verstrekkingen verrichten": {},
+        "waarvan inhoud wettelijk bevoegdheid behoren opleiding Postgraduaat Diabeteseducator voldoen erkenningsvoorwaarden educator RIZIV.Na succesvol doorlopen opleiding ontvangen zorgverlener getuigschrift postgraduaat diabeteseducator 20 studiepunt": {
+            "Postgraduaat Diabeteseducator": "PERSON",
+            "20": "CARDINAL"
+        },
+        "Zorgverleners": {},
+        "HBO5-diploma apotheker ontvangen attest volgen navorming \n Campus": {
+            "Campus": "FAC"
+        },
+        "Jette \n ": {
+            "Jette": "GPE"
+        },
+        "contact \n Adres": {},
+        "Laarbeeklaan 121": {
+            "121": "DATE"
+        },
+        "1090": {
+            "1090": "CARDINAL"
+        },
+        "Openingsuren studentensecretariaan \n inschrijvingsgeld bedragen € 1100 inclusief cursusmateriaal lesmateriaal gast": {
+            "1100": "CARDINAL"
+        },
+        "spreker digitaal beschikking stellen via elektronisch leeromgeving \n opleiding geven recht betalen educatief verlof Vlaams opleidingsverlof \n ": {
+            "Vlaams": "NORP"
+        },
+        "Geïnteresseerd vraag rechtstreeks contact opnemen": {},
+        "coördinatorSophie": {},
+        "Brasseurvoor persoonlijk gesprek \n": {}
+    }
+}
