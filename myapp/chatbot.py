@@ -15,7 +15,7 @@ deployment_id = "erasmus-bot"  # Add your deployment ID here
 # Azure AI Search setup
 search_endpoint = "https://chatbot000.search.windows.net"  # Add your Azure AI Search endpoint here
 search_key = os.getenv("SEARCH_KEY")  # Add your Azure AI Search admin key here
-search_index_name = "index05"  # Add your Azure AI Search index name here
+search_index_name = "index06"  # Add your Azure AI Search index name here
 
 def setup_byod(deployment_id: str) -> None:
     """Sets up the OpenAI Python SDK to use your own data for the chat endpoint.
