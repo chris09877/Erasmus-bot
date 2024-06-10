@@ -30,7 +30,7 @@ def create_text_file(file_path, content, filename):
 def scan_html_files(folder_path):
     for filename in os.listdir(folder_path):
        # if filename.startswith('opleidingen'):
-       if not filename.startswith('opleiding'):
+       #if not filename.startswith('opleiding'):
             file_path = os.path.join(folder_path, filename)
             content = process_html_file(file_path)
             create_text_file(file_path, content, filename)

@@ -47,3 +47,5 @@ if response.status_code == 200:
                 print(f"Failed to download {file_name}")
 else:
     print(f"Failed to fetch the webpage. Status code: {response.status_code}")
+
+
