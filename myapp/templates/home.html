@@ -1,0 +1,169 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Pathfinder</title>-->
+<!--<meta charset="UTF-8">-->
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+<!--<style>-->
+<!--  body {-->
+<!--    font-family: 'Arial', sans-serif;-->
+<!--    background: linear-gradient(to right, #0000ff, #800080);-->
+<!--    margin: 0;-->
+<!--    padding: 0;-->
+<!--    display: flex;-->
+<!--    justify-content: center;-->
+<!--    align-items: center;-->
+<!--    height: 100vh;-->
+<!--  }-->
+<!--  .card {-->
+<!--    background: #fff;-->
+<!--    padding: 20px;-->
+<!--    border-radius: 10px;-->
+<!--    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);-->
+<!--    width: 300px;-->
+<!--  }-->
+<!--  input[type="radio"] {-->
+<!--    margin-right: 5px;-->
+<!--  }-->
+<!--  textarea {-->
+<!--    width: 100%;-->
+<!--    margin-top: 10px;-->
+<!--  }-->
+<!--  button {-->
+<!--    background: #0000ff;-->
+<!--    color: #fff;-->
+<!--    border: none;-->
+<!--    padding: 10px 20px;-->
+<!--    margin-top: 10px;-->
+<!--    cursor: pointer;-->
+<!--    display: block;-->
+<!--    width: 100%;-->
+<!--  }-->
+<!--  button:hover {-->
+<!--    background: #800080;-->
+<!--  }-->
+<!--</style>-->
+<!--</head>-->
+<!--<body>-->
+<!--{% block content %}-->
+<!--  <div class="card">-->
+<!--    <h2>Erasmus chatbot</h2>-->
+<!--    <label><input type="radio" name="device" value="mobile" checked> Mobile</label>-->
+<!--    <label><input type="radio" name="device" value="tablet"> Tablet</label>-->
+<!--    <textarea placeholder="Describe your project in English"></textarea>-->
+<!--    <button>Try example</button>-->
+<!--    <button>Continue</button>-->
+<!--  </div>-->
+<!--{% endblock %}-->
+
+<!--</body>-->
+<!--</html>-->
+
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Erasmus Chatbot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to right, #0000ff, #800080);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        .messages {
+            max-height: 200px;
+            overflow-y: auto;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .message.user {
+            text-align: right;
+        }
+        textarea {
+            width: 100%;
+            margin-top: 10px;
+            height: 60px;
+        }
+        button {
+            background: #0000ff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+            display: block;
+            width: 100%;
+        }
+        button:hover {
+            background: #800080;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Erasmus Chatbot</h2>
+        <div class="messages" id="messages"></div>
+        <textarea id="userInput" placeholder="Type your message"></textarea>
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const userInput = document.getElementById('userInput').value;
+            if (!userInput) return;
+
+            // Display user's message
+            displayMessage(userInput, 'user');
+
+            // Clear input field
+            document.getElementById('userInput').value = '';
+
+            try {
+                // Send message to the backend
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message: userInput })
+                });
+                const data = await response.json();
+
+                // Display bot's response
+                displayMessage(data.response, 'bot');
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        function displayMessage(text, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', sender);
+            messageDiv.textContent = text;
+            document.getElementById('messages').appendChild(messageDiv);
+        }
+    </script>
+</body>
+</html>
