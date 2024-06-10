@@ -1,0 +1,33 @@
+De job van medische professionals verandert in snel tempo.  Doorgedrevenautomatiseringen de komst vanartificiële intelligentiebrengen nieuwe uitdagingen met zich mee.  Met de opleidingICTin het lab, willen we op deze trend inspelen.  Medische professionals kunnen zich bijschaven met een set skills die cruciaal zijn binnen het hedendaagse werkveld.
+automatisering
+artificiële intelligentie
+ICT
+Het eerste luik van deze cursus voorziet in een basis ICT en terminologie, een kennismaking met health information systems, eHealth en het belang van standaarden (HL7 en SNOMED CT) binnen dit domein. Daarnaast staan we stil bij enkele ethische issues die belangrijk zijn bij het opslaan en verwerken van medische data.
+We voorzien voor alle cursisten in het tweede luik van de cursuseen basis RStudio, een pakket met een stevige reputatie voor data analyse.  Ook in de medische wereld wint deze software aan belang. Hier worden namelijk grote hoeveelheden data gegenereerd en verwerkt, zoals patiëntengegevens, laboratoriumresultaten, beeldvorming en genetische informatie. Met de juiste technieken kunnen we betere diagnoses stellen, risico's voorspellen en behandelingen personaliseren. We beginnen met de basisprincipes van R, waaronder variabelen, functies, operatoren en datatypes. Vervolgens zullen we laten zien hoe we data kunnen importeren en manipuleren in R, en hoe we eenvoudige statistische analyses kunnen uitvoeren. We koppelen hier eveneens meteen enkele toepassingen binnen de medische wereld aan.
+een basis RStudio
+Als vervolg op deze navorming wordtICT in the lab II(voor gevorderden) aangeboden.
+ICT in the lab II
+Wat leer je
+
+1.       Basiskennis ICT-         Hardware componenten-         Werking van een netwerk2.       Introductie Digital Health-         Computer based patient records-         Electronic medical record-         Electronic Health Record-         Protocollen en standaarden3.       Introductie in R-         Inlezen en verwerken van bestanden in R-         Automatisering en werken met data in R-         Datastructuren en datatypes in R-         Functions en packages in R-         Basis machine learning-         Werken met bioconductor
+Lesprogramma
+Deze opleiding start inseptember 2024.De sessies gaan telkens door op dinsdag in de voormiddag.
+september 2024.
+Maakt onderdeel uit van het postgraduaat Applied bio-informatics in research.
+Maakt onderdeel uit van het postgraduaat Applied bio-informatics in research.
+Programma
+Attest
+Attest van deelname en slagen -  indien deelname aan evaluatievormen:
+Schriftelijk examen (60%), werkstuk (40%)
+Deelnemers die vanuit het Postgraduaat ICT-Biotechnology voor dit onderdeel inschrijvenen slagen(!), ontvangen een creditbewijs (voor 5 studiepunten).Je kan op deze manier gespreid over meerdere jaren voldoende creditbewijzen verzamelen om (alsnog) een PG getuigschrift te bekomen als je in bezit bent van een bachelor- of masterdiploma.
+en slagen(!)
+Campus Kaai
+Nijverheidskaai 1701070 Brussel
+of
+Campus Jette
+Laarbeeklaan 1211090 Jette
+of
+Online
+Het inschrijvingsgeld bedraagt 450 euro.
+Klaar om je in te schrijven voor 'ICT in the lab 1'? Top!Vanaf juni 2024kan jeop deze pagina van start met je inschrijving.Je kan je inschrijving volledig online afronden.
+Vanaf juni 2024

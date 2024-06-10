@@ -1,0 +1,16 @@
+In de professionele als academische wereld worden er veel modellen ontwikkeld maar weinigen komen in een deployment en productie omgeving terecht. De voornaamste reden is dat veel AI-specialisten hun ML-workflows nog manueel organiseren. Machine Learning Operations (MLOps) moet hier een einde aan brengen. In deze cursus bespreken we de uitdagingen binnen MLOps, de workflows en maken we gebruik van industriestandaard MLOps tools.
+Hoe heb je les?
+Hybride, de student kan zelf kiezen om de les op campus of online mee te volgen.
+Na het beëindigen van deze opleiding ontvang je een bewijs van deelname.
+Deze opleiding startbegin maart 2025, telkens op dinsdag.
+begin maart 2025, telkens op dinsdag.
+Campus Kaai
+Contact:
+Adres:Nijverheidskaai 170, 1070 Anderlecht
+Openingsuren studentensecretariaat:
+
+Het inschrijvingsgeld bedraagt 585 euro.
+We zwieren op verschillende momenten tijdens het jaar de deuren van onze campussen open. Je bent dan welkom voor een toffe babbel met docenten en studenten, een rondleiding op campus, een inkijk in cursussen en je inschrijving.
+Check altijddeze paginavoor last-minute wijzigingen. Wil je op de hoogte gehouden worden van al onze events?Laat dan je gegevens achter.
+We verwachten van jou een basiskennis programmeren.
+Klaar om je in te schrijven voor 'Machine Learning Operations'? Top!  Op deze pagina kan je van start met je inschrijving.  Je kan je inschrijving volledig online afronden, je kan langskomen op ons studentensecretariaat of tijdens onzevolgende infodag.

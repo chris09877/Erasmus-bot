@@ -1,0 +1,28 @@
+Wil jij als medische professional bijleren op vlak van de nieuwste IT-technieken in je vakgebied?
+In het labo kunnen we niet meer om de impact van de digitale revolutie heen. Denk maar aan: het analyseren van enorme hoeveelheden data, snelle sequencing-methoden, krachtige computermodellen die het gedrag van een cel bestuderen of de chemische processen binnen organismen analyseren. Het zijn slechts enkele veranderingen die we recent gezien hebben. Al deze ontwikkelingen creëren nieuwe uitdagingen.
+In deze cursus haken we in op ICT in the Lab 1 en starten we met enkele geavanceerde modeleertechnieken in R. Daarnaast introduceren we Python. Enerzijds voorzien we laboranten van een basiskennis datamanagement, Python en machine learning, zodat ze actief aan de slag kunnen met deze toepassingen. Anderzijds willen we key-operatoren opleiden die de brug vormen tussen een medisch of farmaceutisch/biologisch laborant (MLT/FBT) en ICT’ers.
+De focus ligt op het managen, structureren en organiseren van data.Daarnaast besteden we uitgebreid aandacht aan het analyseren van gegevens via Python. In Python leren we zowel via bestanden (csv, xlsx,…) endatabankendata correct te verwerken. Verder maken we kennis met enkele vernuftigemachine learningtechnieken, toegepast op de medische sector.
+De focus ligt op het managen, structureren en organiseren van data.
+nalyseren van gegevens via Pytho
+databanken
+machine learning
+Wat leer je
+Lesprogramma
+De opleiding start infebruari 2024.  De sessies gaan telkens door op dinsdag in de voormiddag.
+februari 2024
+Maakt onderdeel uit van het postgraduaat Applied bio-informatics in research.
+Maakt onderdeel uit van het postgraduaat Applied bio-informatics in research.
+Programma
+Attest
+Attest van deelname en slagen -  indien deelname aan evaluatievormen:Schriftelijk examen (50%), werkstuk (50%)Deelnemers die vanuit het Postgraduaat ICT-Biotechnology voor dit onderdeel inschrijvenen slagen(!), ontvangen een creditbewijs (voor 5 studiepunten).Je kan op deze manier gespreid over meerdere jaren voldoende creditbewijzen verzamelen om (alsnog) een PG getuigschrift te bekomen als je in bezit bent van een bachelor- of masterdiploma.
+en slagen(!)
+Campus Kaai
+Nijverheidskaai 1701070 Brussel
+of
+Campus Jette
+Laarbeeklaan 1211090 Jette
+of
+Online
+Het inschrijvingsgeld bedraagt 450 euro.
+Klaar om je in te schrijven voor 'ICT in the lab 2'? Top!Vanaf juni 2024kan jeop deze pagina van start met je inschrijving.Je kan je inschrijving volledig online afronden.
+Vanaf juni 2024
